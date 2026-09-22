@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: 34ce9c3178a07bd4ab4ca1d9c1c79100
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2531241511545790211
+    second: Enemy32_0
+  - first:
+      213: -3475447687785860090
+    second: Enemy32_1
+  - first:
+      213: -4007361651202871866
+    second: Enemy32_2
+  - first:
+      213: 6807419663271323924
+    second: Enemy32_3
+  - first:
+      213: -5780676575605706383
+    second: Enemy32_4
+  - first:
+      213: -6166630396548494921
+    second: Enemy32_5
+  - first:
+      213: -2369763285953619939
+    second: Enemy32_6
+  - first:
+      213: 2975479646570862724
+    second: Enemy32_7
+  - first:
+      213: 1578917271271971629
+    second: Enemy32_8
+  - first:
+      213: -8570657241408568884
+    second: Enemy32_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 565
+        width: 372
+        height: 163
+      alignment: 9
+      pivot: {x: 0.6448065, y: 0.5692936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfa78540412f2b41a8a1f19be8631b8
+      internalID: -2531241511545790211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy32_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 565
+        width: 79
+        height: 159
+      alignment: 9
+      pivot: {x: 0.6649695, y: 0.9207583}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bcad71e62195b4bae279e797403a51
+      internalID: -3475447687785860090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy32_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 598
+        width: 116
+        height: 126
+      alignment: 9
+      pivot: {x: 0.13299035, y: 0.69997054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0252675ba3b9bdf46a28729a9eb9f27e
+      internalID: -4007361651202871866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy32_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 291
+        width: 248
+        height: 250
+      alignment: 9
+      pivot: {x: 0.7477412, y: 0.95874685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6e0d529b552fa4aa7fe167111dab9d
+      internalID: 6807419663271323924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy32_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 271
+        width: 24
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5, y: 0.95096856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cda2e6d19b8eb04b975ee9762363ffd
+      internalID: -5780676575605706383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy32_5
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 356
+        width: 239
+        height: 191
+      alignment: 9
+      pivot: {x: 0.9253313, y: 0.7365424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f55badff5ba374d887ce52b7d28fef
+      internalID: -6166630396548494921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy32_6
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 413
+        width: 86
+        height: 149
+      alignment: 9
+      pivot: {x: 0.42928085, y: 0.9256727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c1b490747b5a04597a800fc113810f
+      internalID: -2369763285953619939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy32_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 89
+        height: 206
+      alignment: 9
+      pivot: {x: 0.36332878, y: 0.9217663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a89c3b4d466ce4398a1eb2b617f5e5
+      internalID: 2975479646570862724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy32_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 232
+        height: 251
+      alignment: 9
+      pivot: {x: 0.81457955, y: 0.73538256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c708e18346317640883155905b8610f
+      internalID: 1578917271271971629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy32_9
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 96
+        width: 258
+        height: 208
+      alignment: 9
+      pivot: {x: 0.88727325, y: 0.90100247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8090e73f183f0fe4fae71b16c129b7dc
+      internalID: -8570657241408568884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b8ad6f3d1714266488536c7b99d4981f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enemy32_0: -2531241511545790211
+      Enemy32_1: -3475447687785860090
+      Enemy32_2: -4007361651202871866
+      Enemy32_3: 6807419663271323924
+      Enemy32_4: -5780676575605706383
+      Enemy32_5: -6166630396548494921
+      Enemy32_6: -2369763285953619939
+      Enemy32_7: 2975479646570862724
+      Enemy32_8: 1578917271271971629
+      Enemy32_9: -8570657241408568884
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 84f27e5f8d80f444094bfdc30ccc1d31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1130769944870274875
+    second: Ranger_Costume_0
+  - first:
+      213: -6087389307998398199
+    second: Ranger_Costume_1
+  - first:
+      213: -2981772540451269717
+    second: Ranger_Costume_2
+  - first:
+      213: -6760013757992744123
+    second: Ranger_Costume_3
+  - first:
+      213: -1456390294828285095
+    second: Ranger_Costume_4
+  - first:
+      213: 5276597057107757264
+    second: Ranger_Costume_5
+  - first:
+      213: -8929473403038195114
+    second: Ranger_Costume_6
+  - first:
+      213: 8232953263611079230
+    second: Ranger_Costume_7
+  - first:
+      213: -8515374490200705806
+    second: Ranger_Costume_8
+  - first:
+      213: 3036345019807529726
+    second: Ranger_Costume_9
+  - first:
+      213: -603075734587340808
+    second: Ranger_Costume_10
+  - first:
+      213: 7654004358798799789
+    second: Ranger_Costume_11
+  - first:
+      213: 4626530004467491351
+    second: Ranger_Costume_12
+  - first:
+      213: -4464241686015417184
+    second: Ranger_Costume_13
+  - first:
+      213: 6389567733069041832
+    second: Ranger_Costume_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ranger_Costume_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 601
+        width: 420
+        height: 423
+      alignment: 9
+      pivot: {x: 0.63999987, y: 0.3900001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39274edbc54db954b86d415e4c21b5bf
+      internalID: -1130769944870274875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Costume_1
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 851
+        width: 132
+        height: 173
+      alignment: 9
+      pivot: {x: 0.55999994, y: 0.3000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1063aa0caae6039499cfc52e182f0cbd
+      internalID: -6087389307998398199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Costume_2
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 845
+        width: 165
+        height: 179
+      alignment: 9
+      pivot: {x: 0.33000016, y: 0.5799999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46ff06af2c3b6443899d8856532848e
+      internalID: -2981772540451269717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Costume_3
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 643
+        width: 152
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5999999, y: 0.5999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dd1c1d74b620e4f8c565da5ba192d1
+      internalID: -6760013757992744123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Costume_4
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 631
+        width: 84
+        height: 182
+      alignment: 9
+      pivot: {x: 0.48000002, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b701e8956b109e44aef625001887f93
+      internalID: -1456390294828285095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Costume_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 323
+        width: 194
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5799999, y: 0.42000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcb03e49b1bef144a22ca85aa66fb5d
+      internalID: 5276597057107757264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Costume_6
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 437
+        width: 109
+        height: 170
+      alignment: 9
+      pivot: {x: 0.52, y: 0.6199999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87332dc0263acce4c97bea8c29717c59
+      internalID: -8929473403038195114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Costume_7
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 459
+        width: 143
+        height: 142
+      alignment: 9
+      pivot: {x: 0.35000014, y: 0.5799999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c891a3c10ca806541b958ebde57fd6fc
+      internalID: 8232953263611079230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Costume_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 295
+        width: 98
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4006bb967782c0348a8bde3f54832cc9
+      internalID: -8515374490200705806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Costume_9
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 299
+        width: 91
+        height: 108
+      alignment: 9
+      pivot: {x: 0.47000003, y: 0.3800001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868cda14e0fb9e54797b8919bc629680
+      internalID: 3036345019807529726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Costume_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 215
+        height: 66
+      alignment: 9
+      pivot: {x: 0.56999993, y: -0.21999982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a045db921201c0241bb254efbf59e122
+      internalID: -603075734587340808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Costume_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 123
+        width: 140
+        height: 108
+      alignment: 9
+      pivot: {x: 0.4000001, y: 0.3000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc8b5f6891335a4fbe6aaf7a2da845c
+      internalID: 7654004358798799789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Costume_12
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 48
+        width: 304
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c539f3600e1c54f86eebd2822c17d6
+      internalID: 4626530004467491351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Costume_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 220
+        height: 207
+      alignment: 9
+      pivot: {x: 0.5799999, y: 0.24000023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea640b4745a753b48ba295642eac09c1
+      internalID: -4464241686015417184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Costume_14
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 154
+        height: 103
+      alignment: 9
+      pivot: {x: 0.47000003, y: 0.31000018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaccd5a643780243b5304c0da14a4c9
+      internalID: 6389567733069041832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6c9ad942b2485ab4ba3243e0efe2b015
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ranger_Costume_0: -1130769944870274875
+      Ranger_Costume_1: -6087389307998398199
+      Ranger_Costume_10: -603075734587340808
+      Ranger_Costume_11: 7654004358798799789
+      Ranger_Costume_12: 4626530004467491351
+      Ranger_Costume_13: -4464241686015417184
+      Ranger_Costume_14: 6389567733069041832
+      Ranger_Costume_2: -2981772540451269717
+      Ranger_Costume_3: -6760013757992744123
+      Ranger_Costume_4: -1456390294828285095
+      Ranger_Costume_5: 5276597057107757264
+      Ranger_Costume_6: -8929473403038195114
+      Ranger_Costume_7: 8232953263611079230
+      Ranger_Costume_8: -8515374490200705806
+      Ranger_Costume_9: 3036345019807529726
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

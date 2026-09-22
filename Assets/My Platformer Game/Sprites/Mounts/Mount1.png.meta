@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 2225cf27c6fdbf8468c93195238963ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Mount1_Body
+  - first:
+      213: 21300002
+    second: Mount1_Head
+  - first:
+      213: 21300004
+    second: Mount1_Tail
+  - first:
+      213: 21300006
+    second: Mount1_LegTop1
+  - first:
+      213: 21300008
+    second: Mount1_LegTop2
+  - first:
+      213: 21300010
+    second: Mount1_LegTop3
+  - first:
+      213: 21300012
+    second: Mount1_LegTop4
+  - first:
+      213: 21300014
+    second: Mount1_Mount_Pos
+  - first:
+      213: 21300016
+    second: Mount1_LegBottom1
+  - first:
+      213: 21300018
+    second: Mount1_LegBottom2
+  - first:
+      213: 21300020
+    second: Mount1_LegBottom3
+  - first:
+      213: 21300022
+    second: Mount1_LegBottom4
+  - first:
+      213: 21300024
+    second: Mount1_Foot1
+  - first:
+      213: 21300026
+    second: Mount1_Foot2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mount1_Body
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 557
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4727d2b435cdb448a0885d6d426c6e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount1_Head
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 376
+        width: 387
+        height: 363
+      alignment: 9
+      pivot: {x: 0.1785977, y: 0.34712452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0926523f4126d4cbd72878987fcf4d
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount1_Tail
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 190
+        height: 130
+      alignment: 9
+      pivot: {x: 0.94818074, y: 0.25712258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9c151e639d0db49a36316992d87697
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount1_LegTop1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 159
+        width: 137
+        height: 198
+      alignment: 9
+      pivot: {x: 0.4161936, y: 0.7996009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd074f20ac20eff478f81bf0bca4b205
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount1_LegTop2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 159
+        width: 135
+        height: 196
+      alignment: 9
+      pivot: {x: 0.32990405, y: 0.84171075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c3c3037e4021240bf8ac54665a6fd7
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount1_LegTop3
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 190
+        width: 126
+        height: 160
+      alignment: 9
+      pivot: {x: 0.66705906, y: 0.8827162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ff577f46d4cc64f95c9f51dcf9ffec
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount1_LegTop4
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 185
+        width: 126
+        height: 161
+      alignment: 9
+      pivot: {x: 0.6746521, y: 0.85656756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84aae57fb8825e84d99677e792ccb8ad
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount1_Mount_Pos
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 68
+        width: 190
+        height: 284
+      alignment: 9
+      pivot: {x: 0.47985712, y: 0.77962536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55591cf116a063544b7db2000c0681df
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount1_LegBottom1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 46
+        width: 77
+        height: 103
+      alignment: 9
+      pivot: {x: 0.18935405, y: 0.8622795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b1ce376d186f84fb513b9c56f5aaa6
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount1_LegBottom2
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 51
+        width: 77
+        height: 104
+      alignment: 9
+      pivot: {x: 0.16450243, y: 0.8587962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c08463bb9a29544877222433f216a2
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount1_LegBottom3
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 38
+        width: 80
+        height: 147
+      alignment: 9
+      pivot: {x: 0.35648194, y: 0.9100528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95e6ec8a5c72ee49a58cb1fee8e4858
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount1_LegBottom4
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 34
+        width: 81
+        height: 147
+      alignment: 9
+      pivot: {x: 0.34644234, y: 0.87100035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad388824a8d428841bba76acaa512762
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount1_Foot1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 50
+        height: 38
+      alignment: 9
+      pivot: {x: 0.10858598, y: 0.7517872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1860061d6db7242b097770ebcdf9dc
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount1_Foot2
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 0
+        width: 49
+        height: 30
+      alignment: 9
+      pivot: {x: 0.207106, y: 0.78703684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9640ddb2f2f014385ebf8e1ffd0ff7
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1fcf4feeb56167f4bb462baa9522dd9d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mount1_Body: 21300000
+      Mount1_Foot1: 21300024
+      Mount1_Foot2: 21300026
+      Mount1_Head: 21300002
+      Mount1_LegBottom1: 21300016
+      Mount1_LegBottom2: 21300018
+      Mount1_LegBottom3: 21300020
+      Mount1_LegBottom4: 21300022
+      Mount1_LegTop1: 21300006
+      Mount1_LegTop2: 21300008
+      Mount1_LegTop3: 21300010
+      Mount1_LegTop4: 21300012
+      Mount1_Mount_Pos: 21300014
+      Mount1_Tail: 21300004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

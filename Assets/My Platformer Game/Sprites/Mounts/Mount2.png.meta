@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: af1365dead0f84649952e3fdf103fa2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Mount2_Tail
+  - first:
+      213: 21300002
+    second: Mount2_Body
+  - first:
+      213: 21300004
+    second: Mount2_2
+  - first:
+      213: 21300006
+    second: Mount2_3
+  - first:
+      213: 21300008
+    second: Mount2_Mount
+  - first:
+      213: 21300010
+    second: Mount2_Head
+  - first:
+      213: 21300012
+    second: Mount2_LegTop
+  - first:
+      213: 21300014
+    second: Mount2_7
+  - first:
+      213: 21300016
+    second: Mount2_8
+  - first:
+      213: 21300018
+    second: Mount2_9
+  - first:
+      213: 21300020
+    second: Mount2_10
+  - first:
+      213: 21300022
+    second: Mount2_11
+  - first:
+      213: 21300024
+    second: Mount2_12
+  - first:
+      213: 21300026
+    second: Mount2_13
+  - first:
+      213: 21300028
+    second: Mount2_14
+  - first:
+      213: 21300030
+    second: Mount2_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mount2_Tail
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 282
+        height: 285
+      alignment: 9
+      pivot: {x: 0.9692415, y: 0.9680013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c7f4f6a9f99d84e949439719c7d68e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount2_Body
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 399
+        width: 436
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6810bf76f2bc1b4c8d57afc5b7a0072
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount2_2
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 412
+        width: 67
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5590884, y: 0.8758264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9921200326266549914c0ebedda4fb2
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount2_3
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 410
+        width: 67
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5593672, y: 0.8734538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866d5b5ef8c8a5e44b263db79178c334
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount2_Mount
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 185
+        height: 242
+      alignment: 9
+      pivot: {x: 0.48391315, y: 0.7788125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c964abd6d98bc499654deeeee46e27
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount2_Head
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 323
+        height: 385
+      alignment: 9
+      pivot: {x: 0.20622334, y: 0.05453056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d3c66de6acac143941eac34d54bc17
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount2_LegTop
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 227
+        width: 128
+        height: 154
+      alignment: 9
+      pivot: {x: 0.49999952, y: 0.5688869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee51feaf58b282d45b954330ced7cf29
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount2_7
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 341
+        width: 76
+        height: 63
+      alignment: 9
+      pivot: {x: 0.3224855, y: 0.85905933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed4372010ceb3a49bed6c75a838b811
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount2_8
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 345
+        width: 75
+        height: 62
+      alignment: 9
+      pivot: {x: 0.36621988, y: 0.8625011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e282dc6ea65684e4c891193cd9aaf018
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount2_9
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 99
+        width: 80
+        height: 123
+      alignment: 9
+      pivot: {x: 0.76014936, y: 0.89725924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5d0c631a6ec5f40a1a89cc8761ed95
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount2_10
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 101
+        width: 81
+        height: 123
+      alignment: 9
+      pivot: {x: 0.7773204, y: 0.88974893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882b8460d5bb1374da24245461f04f6c
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount2_11
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 48
+        width: 68
+        height: 49
+      alignment: 9
+      pivot: {x: 0.2373711, y: 0.8512095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c890eae5cbe15d4498493c3fbdd3ca9
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount2_12
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 50
+        width: 67
+        height: 48
+      alignment: 9
+      pivot: {x: 0.2286049, y: 0.8247032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8917a985f1121504d9dad7fac0121666
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount2_13
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 231
+        width: 126
+        height: 150
+      alignment: 9
+      pivot: {x: 0.49999902, y: 0.5707239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bca92dd1c7832d43bd618c90933eb24
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount2_14
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 536
+        width: 81
+        height: 105
+      alignment: 9
+      pivot: {x: 0.49129835, y: 0.88267124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a959a178271166845a49edad8d6cfbb8
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mount2_15
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 536
+        width: 81
+        height: 105
+      alignment: 9
+      pivot: {x: 0.48728585, y: 0.8703991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203533cfa25cf0648831074f02734e5e
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 67e15de68d476b747aff2a8b2b727f5c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mount2_10: 21300020
+      Mount2_11: 21300022
+      Mount2_12: 21300024
+      Mount2_13: 21300026
+      Mount2_14: 21300028
+      Mount2_15: 21300030
+      Mount2_2: 21300004
+      Mount2_3: 21300006
+      Mount2_7: 21300014
+      Mount2_8: 21300016
+      Mount2_9: 21300018
+      Mount2_Body: 21300002
+      Mount2_Head: 21300010
+      Mount2_LegTop: 21300012
+      Mount2_Mount: 21300008
+      Mount2_Tail: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

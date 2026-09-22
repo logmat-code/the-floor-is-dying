@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: ee27b7c848a4ba24d8a16d2ae95cad83
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Indian_Costume_0
+  - first:
+      213: 21300002
+    second: Indian_Costume_1
+  - first:
+      213: 21300004
+    second: Indian_Costume_2
+  - first:
+      213: 21300006
+    second: Indian_Costume_3
+  - first:
+      213: 21300008
+    second: Indian_Costume_4
+  - first:
+      213: 21300010
+    second: Indian_Costume_5
+  - first:
+      213: 21300012
+    second: Indian_Costume_6
+  - first:
+      213: 21300014
+    second: Indian_Costume_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.36, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: 0
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Indian_Costume_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 499
+        height: 593
+      alignment: 9
+      pivot: {x: 0.53999996, y: 0.27000022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc166fdce2e5214cb8f38d201eb0c0f
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indian_Costume_1
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 564
+        width: 224
+        height: 187
+      alignment: 9
+      pivot: {x: 0.51, y: 0.47000003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e526aabee028fd143a8148257e4cbc6d
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indian_Costume_2
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 481
+        width: 223
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5899999, y: 0.64999986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8a330e60d8b624bae014cfa35968c0
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indian_Costume_3
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 306
+        width: 238
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5799999, y: 0.5999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19050db70f82124782260df59629ca1
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indian_Costume_4
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 185
+        width: 138
+        height: 91
+      alignment: 9
+      pivot: {x: 0.4100001, y: 0.32000017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b00edc7fc0d8ad41bdd9d503fe1a251
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indian_Costume_5
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 10
+        width: 126
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5, y: 0.27000022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad40abdad1eddce4ba8e010ca23b3a89
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indian_Costume_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 122
+        height: 116
+      alignment: 9
+      pivot: {x: 0.54999995, y: 0.45000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e90888e13144ce469fe64f222b45198
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indian_Costume_7
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 71
+        width: 149
+        height: 84
+      alignment: 9
+      pivot: {x: 0.46000004, y: 0.4000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f292ae1184e39054e9c84f65f4fc7000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 4, y: -19.5}
+      - {x: -216.25633, y: 317.5732}
+      - {x: -363.8528, y: 156.81915}
+      - {x: -395.9286, y: -53.723896}
+      - {x: -302.29977, y: -247.20998}
+      - {x: -112.692955, y: -362.20862}
+      - {x: 112.69311, y: -362.2086}
+      - {x: 302.2999, y: -247.20985}
+      - {x: 395.9286, y: -53.72374}
+      - {x: 363.85278, y: 156.8192}
+      - {x: 216.25636, y: 317.57318}
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 83fc1a98844534d48a7d7b957aaf27de
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Indian_Costume_0: 21300000
+      Indian_Costume_1: 21300002
+      Indian_Costume_2: 21300004
+      Indian_Costume_3: 21300006
+      Indian_Costume_4: 21300008
+      Indian_Costume_5: 21300010
+      Indian_Costume_6: 21300012
+      Indian_Costume_7: 21300014
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

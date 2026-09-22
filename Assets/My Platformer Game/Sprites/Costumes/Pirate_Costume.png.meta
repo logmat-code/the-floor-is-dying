@@ -1,0 +1,577 @@
+fileFormatVersion: 2
+guid: 1e4c2f17884721c44a2e37aaab8c9651
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7390621732286860374
+    second: Pirate_Costume_0
+  - first:
+      213: -3934529756669641410
+    second: Pirate_Costume_1
+  - first:
+      213: 309425919203581382
+    second: Pirate_Costume_2
+  - first:
+      213: -7850345327414720487
+    second: Pirate_Costume_3
+  - first:
+      213: 3533015283038321436
+    second: Pirate_Costume_4
+  - first:
+      213: 3875770087775583206
+    second: Pirate_Costume_5
+  - first:
+      213: 906152484052114593
+    second: Pirate_Costume_6
+  - first:
+      213: 7339386061010121743
+    second: Pirate_Costume_7
+  - first:
+      213: -1555989060115689182
+    second: Pirate_Costume_8
+  - first:
+      213: -6072032761915651972
+    second: Pirate_Costume_9
+  - first:
+      213: -1692498701209992379
+    second: Pirate_Costume_10
+  - first:
+      213: -7333718356450713353
+    second: Pirate_Costume_11
+  - first:
+      213: 7963272920060488587
+    second: Pirate_Costume_12
+  - first:
+      213: 2907070224818048981
+    second: Pirate_Costume_13
+  - first:
+      213: -5330004137237418175
+    second: Pirate_Costume_14
+  - first:
+      213: -606886189035620084
+    second: Pirate_Costume_15
+  - first:
+      213: -2982101166488214707
+    second: Pirate_Costume_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pirate_Costume_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 921
+        width: 337
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0c4705498fa684c92dd3a609b14309
+      internalID: 7390621732286860374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Costume_2
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 865
+        width: 112
+        height: 136
+      alignment: 9
+      pivot: {x: 0.53999996, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a79795ba5bef84a892cc5c5fbd5349
+      internalID: 309425919203581382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Costume_3
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 847
+        width: 74
+        height: 154
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80387606b73b2cc41a206721391e6835
+      internalID: -7850345327414720487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Costume_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 517
+        width: 478
+        height: 364
+      alignment: 9
+      pivot: {x: 0.6199999, y: 0.11000018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d966b93e20e1e814badfd9e93a0493b4
+      internalID: 3533015283038321436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Costume_5
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 653
+        width: 94
+        height: 146
+      alignment: 9
+      pivot: {x: 0.51, y: 0.6099999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2e5ff69ceed7f488172d31750a0c33
+      internalID: 3875770087775583206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Costume_6
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 661
+        width: 104
+        height: 114
+      alignment: 9
+      pivot: {x: 0.4100001, y: 0.55999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713a5ed36ad267a4a8d6d89e71f0e077
+      internalID: 906152484052114593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Costume_7
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 445
+        width: 126
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5999999, y: 0.31000018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178bf9b33e20cbf4fa6d21cc7add342a
+      internalID: 7339386061010121743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Costume_8
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 455
+        width: 134
+        height: 140
+      alignment: 9
+      pivot: {x: 0.27000022, y: 0.6099999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998d13d0c97e5264d890c2459a8275c0
+      internalID: -1555989060115689182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Costume_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 253
+        width: 292
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5115966, y: 0.9209193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b3a8972b4c8f34a9d5cb98f1b00ae7
+      internalID: -6072032761915651972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Costume_10
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 309
+        width: 188
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5799999, y: 0.3900001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4470df2423d7a18478efb0c6d06be16e
+      internalID: -1692498701209992379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Costume_11
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 281
+        width: 98
+        height: 122
+      alignment: 9
+      pivot: {x: 0.49, y: 0.51}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3dd2ee09e281634fbdc3755f02a5434
+      internalID: -7333718356450713353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Costume_12
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 281
+        width: 84
+        height: 112
+      alignment: 9
+      pivot: {x: 0.46000004, y: 0.46000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150310294e2419c4093a6dd18f02a9ab
+      internalID: 7963272920060488587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Costume_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3
+        width: 196
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5799999, y: 0.48000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95eafd8f8aecc747b4779d343921cdc
+      internalID: 2907070224818048981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Costume_14
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 51
+        width: 206
+        height: 134
+      alignment: 9
+      pivot: {x: 0.6099999, y: 0.2900002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2c000e5b6c0b543bbee5b38ec0ac2a
+      internalID: -5330004137237418175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Costume_15
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 141
+        width: 118
+        height: 82
+      alignment: 9
+      pivot: {x: 0.4000001, y: 0.2900002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029743d8a238916499925220c8a731b0
+      internalID: -606886189035620084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pirate_Costume_16
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 145
+        width: 117
+        height: 88
+      alignment: 9
+      pivot: {x: 0.45000005, y: 0.32000017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9423ac47023244c9cdd0b670c41427
+      internalID: -2982101166488214707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cdcdc518453ee984fbe5d9394aec68ba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pirate_Costume_0: 7390621732286860374
+      Pirate_Costume_10: -1692498701209992379
+      Pirate_Costume_11: -7333718356450713353
+      Pirate_Costume_12: 7963272920060488587
+      Pirate_Costume_13: 2907070224818048981
+      Pirate_Costume_14: -5330004137237418175
+      Pirate_Costume_15: -606886189035620084
+      Pirate_Costume_16: -2982101166488214707
+      Pirate_Costume_2: 309425919203581382
+      Pirate_Costume_3: -7850345327414720487
+      Pirate_Costume_4: 3533015283038321436
+      Pirate_Costume_5: 3875770087775583206
+      Pirate_Costume_6: 906152484052114593
+      Pirate_Costume_7: 7339386061010121743
+      Pirate_Costume_8: -1555989060115689182
+      Pirate_Costume_9: -6072032761915651972
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,938 @@
+fileFormatVersion: 2
+guid: b217a59c02bcc8d4a92c9757c7754301
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: IconsForMaps_0
+  - first:
+      213: 21300002
+    second: IconsForMaps_1
+  - first:
+      213: 21300004
+    second: IconsForMaps_2
+  - first:
+      213: 21300006
+    second: IconsForMaps_3
+  - first:
+      213: 21300008
+    second: IconsForMaps_4
+  - first:
+      213: 21300010
+    second: IconsForMaps_5
+  - first:
+      213: 21300012
+    second: IconsForMaps_7
+  - first:
+      213: 21300014
+    second: IconsForMaps_8
+  - first:
+      213: 21300016
+    second: IconsForMaps_9
+  - first:
+      213: 21300018
+    second: IconsForMaps_11
+  - first:
+      213: 21300020
+    second: IconsForMaps_12
+  - first:
+      213: 21300022
+    second: IconsForMaps_13
+  - first:
+      213: 21300024
+    second: IconsForMaps_14
+  - first:
+      213: 21300026
+    second: IconsForMaps_15
+  - first:
+      213: 21300028
+    second: IconsForMaps_16
+  - first:
+      213: 21300030
+    second: IconsForMaps_17
+  - first:
+      213: 21300032
+    second: IconsForMaps_18
+  - first:
+      213: 21300034
+    second: IconsForMaps_19
+  - first:
+      213: 21300036
+    second: IconsForMaps_20
+  - first:
+      213: 21300038
+    second: IconsForMaps_21
+  - first:
+      213: 21300040
+    second: IconsForMaps_22
+  - first:
+      213: 21300042
+    second: IconsForMaps_23
+  - first:
+      213: 21300044
+    second: IconsForMaps_24
+  - first:
+      213: 21300046
+    second: IconsForMaps_6
+  - first:
+      213: 21300048
+    second: IconsForMaps_10
+  - first:
+      213: 21300050
+    second: IconsForMaps_25
+  - first:
+      213: 21300052
+    second: IconsForMaps_26
+  - first:
+      213: 21300054
+    second: IconsForMaps_27
+  - first:
+      213: 21300056
+    second: IconsForMaps_28
+  - first:
+      213: 21300058
+    second: IconsForMaps_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IconsForMaps_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1645
+        width: 202
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d496cf9afd569734481f8909adc0ea76
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1639
+        width: 202
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d8a80c39667d74ab8517ed546f2c21
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_2
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1531
+        width: 326
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360ca82342d620e4394da5b6a0016d93
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_3
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1576
+        width: 143
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbb56340420e3246b1598d97baecadc
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_4
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1573
+        width: 143
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fc33041e4506142800b49bf2487696
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_5
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1595
+        width: 428
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89a14f23fad4d34084cc2531b1dd806
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1451
+        width: 174
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bc3514a38d3244392bd9ab4db9417c
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_7
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1451
+        width: 174
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652d55a0695a364498cab8875105a373
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1244
+        width: 200
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1284ac55d165748accf99033b0c5d9
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_9
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1341
+        width: 209
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5242851e5c5076e468bc7b87733d1d57
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_10
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 1389
+        width: 228
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e80e69ca5a459141b49aee266793efe
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_11
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1333
+        width: 293
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55186ebb1fab73444a875c95e461ca47
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1042
+        width: 168
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d203c3ce0b3c64aad4c333db8e2871
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_13
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 958
+        width: 155
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef115a26730b5e42b3ab615965f25d6
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_14
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1077
+        width: 185
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cea839bb3bdf24098f3b1157ec0dcb
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_15
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1257
+        width: 195
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8db4cb2d1a16734092f62353c36ee5e
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_16
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1196
+        width: 279
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfa0fd3a0502a24d9d6659c56020668
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 613
+        width: 327
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f58561b7022a443a27ee84c836b61f
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_18
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 844
+        width: 166
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2210a165233d040b43f654cd3ca262
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_19
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 836
+        width: 430
+        height: 252
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac347562d811fa8429e75e25c4866f1d
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_20
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 359
+        width: 304
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a9225cf7032084787eccb50a894f2c
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_21
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 565
+        width: 430
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13c49a2fddb968468d4ea05e9845762
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_22
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 267
+        width: 185
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd70ba5551612d4291a497c60c194cb
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_23
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 324
+        width: 184
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306927881da44b34b9c2958f74775a17
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_24
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 267
+        width: 185
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1774e9c4e6a7be546921c50f62bf7221
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_25
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0
+        width: 126
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5e0ccbfb6a53746ab67b9337e75f40
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_26
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 62
+        width: 152
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19b27d8e637f944fbfa4b2a1ebf9a8c
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_27
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 0
+        width: 187
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eec41effbcc3a40add8ca55f0bf3f2
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_28
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 73
+        width: 182
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28646c7b41f2604c8448efad00aa14b
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IconsForMaps_29
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 0
+        width: 192
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f358b358b59ce642b8593be82bfb048
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2c0a2040706fd964c950e14c5a63bed8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      IconsForMaps_0: 21300000
+      IconsForMaps_1: 21300002
+      IconsForMaps_10: 21300048
+      IconsForMaps_11: 21300018
+      IconsForMaps_12: 21300020
+      IconsForMaps_13: 21300022
+      IconsForMaps_14: 21300024
+      IconsForMaps_15: 21300026
+      IconsForMaps_16: 21300028
+      IconsForMaps_17: 21300030
+      IconsForMaps_18: 21300032
+      IconsForMaps_19: 21300034
+      IconsForMaps_2: 21300004
+      IconsForMaps_20: 21300036
+      IconsForMaps_21: 21300038
+      IconsForMaps_22: 21300040
+      IconsForMaps_23: 21300042
+      IconsForMaps_24: 21300044
+      IconsForMaps_25: 21300050
+      IconsForMaps_26: 21300052
+      IconsForMaps_27: 21300054
+      IconsForMaps_28: 21300056
+      IconsForMaps_29: 21300058
+      IconsForMaps_3: 21300006
+      IconsForMaps_4: 21300008
+      IconsForMaps_5: 21300010
+      IconsForMaps_6: 21300046
+      IconsForMaps_7: 21300012
+      IconsForMaps_8: 21300014
+      IconsForMaps_9: 21300016
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

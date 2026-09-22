@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 3a3ac74922c504c68b004b9ae744bc65
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -363228217353128587
+    second: ChatGPT Image 20 sept 2026, 03_07_42 p.m._0
+  - first:
+      213: 8651453585062981526
+    second: ChatGPT Image 20 sept 2026, 03_07_42 p.m._1
+  - first:
+      213: -4829948047139241124
+    second: ChatGPT Image 20 sept 2026, 03_07_42 p.m._2
+  - first:
+      213: -4803524014095931840
+    second: ChatGPT Image 20 sept 2026, 03_07_42 p.m._3
+  - first:
+      213: -8790884954631550584
+    second: ChatGPT Image 20 sept 2026, 03_07_42 p.m._4
+  - first:
+      213: -1134860484170659929
+    second: ChatGPT Image 20 sept 2026, 03_07_42 p.m._5
+  - first:
+      213: 4692015192298696662
+    second: ChatGPT Image 20 sept 2026, 03_07_42 p.m._6
+  - first:
+      213: -4271477840748092776
+    second: ChatGPT Image 20 sept 2026, 03_07_42 p.m._7
+  - first:
+      213: 2590550295524153963
+    second: ChatGPT Image 20 sept 2026, 03_07_42 p.m._8
+  - first:
+      213: 8742653971955752893
+    second: ChatGPT Image 20 sept 2026, 03_07_42 p.m._9
+  - first:
+      213: -5950972593936527974
+    second: ChatGPT Image 20 sept 2026, 03_07_42 p.m._10
+  - first:
+      213: -2925125808830470340
+    second: ChatGPT Image 20 sept 2026, 03_07_42 p.m._11
+  - first:
+      213: -924274214430626673
+    second: ChatGPT Image 20 sept 2026, 03_07_42 p.m._12
+  - first:
+      213: -7704132746644421257
+    second: ChatGPT Image 20 sept 2026, 03_07_42 p.m._13
+  - first:
+      213: 5388965075347669723
+    second: ChatGPT Image 20 sept 2026, 03_07_42 p.m._14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HEAD
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 647
+        width: 446
+        height: 403
+      alignment: 9
+      pivot: {x: 0.5568206, y: 0.18558413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575b44c5cdd85faf0800000000000000
+      internalID: -363228217353128587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY TOP
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 716
+        width: 364
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f6570c233201870800000000000000
+      internalID: 8651453585062981526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIGHT ARM TOP
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 774
+        width: 168
+        height: 238
+      alignment: 9
+      pivot: {x: 0.8248974, y: 0.87677133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c538cae57d398fcb0800000000000000
+      internalID: -4829948047139241124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LAFT ARM TOP
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 775
+        width: 168
+        height: 237
+      alignment: 9
+      pivot: {x: 0.17510405, y: 0.9112621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046e0cdfb54765db0800000000000000
+      internalID: -4803524014095931840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIGHT FEET
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 364
+        height: 168
+      alignment: 9
+      pivot: {x: 0.4464457, y: 0.8829144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8894cd9b5b0800680800000000000000
+      internalID: -8790884954631550584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEFT LEG BOTTOM
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 168
+        width: 152
+        height: 173
+      alignment: 9
+      pivot: {x: 0.47435078, y: 0.9169199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a74163076a2040f0800000000000000
+      internalID: -1134860484170659929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEFT LEG TOP
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 339
+        width: 151
+        height: 189
+      alignment: 9
+      pivot: {x: 0.47023907, y: 0.9615526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a1089b4cb73f320800000000000000
+      internalID: 2590550295524153963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BODY BOTTOM
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 487
+        width: 282
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf94988775245970800000000000000
+      internalID: 8742653971955752893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIGHT ARM
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 215
+        width: 202
+        height: 218
+      alignment: 9
+      pivot: {x: 0.5193016, y: 0.95604783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d045694f5e96da0800000000000000
+      internalID: -5950972593936527974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIGHT ARM BOTTOM
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 487
+        width: 132
+        height: 227
+      alignment: 9
+      pivot: {x: 0.36708856, y: 0.93796676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c372559239dd767d0800000000000000
+      internalID: -2925125808830470340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEFT ARM
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 210
+        width: 232
+        height: 269
+      alignment: 9
+      pivot: {x: 0.50000054, y: 0.7898709}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c2fcdbf715c23f0800000000000000
+      internalID: -924274214430626673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEFT ARM BOTTOM
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 486
+        width: 132
+        height: 228
+      alignment: 9
+      pivot: {x: 0.6329133, y: 0.9189461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7750ecdc51c651590800000000000000
+      internalID: -7704132746644421257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEFT FEET
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 31
+        width: 243
+        height: 139
+      alignment: 9
+      pivot: {x: 0.28340256, y: 0.92073005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2851f1f2379ca40800000000000000
+      internalID: 5388965075347669723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIGHT LEG BOTTOM
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 166
+        width: 240
+        height: 171
+      alignment: 9
+      pivot: {x: 0.58934665, y: 0.8875961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7933509682941ab9c03eec7d330895
+      internalID: 1243037033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RIGHT LEG TOP
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 339
+        width: 221
+        height: 221
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.77344286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f7f9d4ecd644a6285e82cadf5ca79d
+      internalID: -1412357608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5a33c96ebfea9459f9f996b03f2b4f8c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BODY BOTTOM: 8742653971955752893
+      BODY TOP: 8651453585062981526
+      ChatGPT Image 20 sept 2026, 03_07_42 p.m._6: 4692015192298696662
+      ChatGPT Image 20 sept 2026, 03_07_42 p.m._7: -4271477840748092776
+      HEAD: -363228217353128587
+      LAFT ARM TOP: -4803524014095931840
+      LEFT ARM: -924274214430626673
+      LEFT ARM BOTTOM: -7704132746644421257
+      LEFT FEET: 5388965075347669723
+      LEFT LEG BOTTOM: -1134860484170659929
+      LEFT LEG TOP: 2590550295524153963
+      RIGHT ARM: -5950972593936527974
+      RIGHT ARM BOTTOM: -2925125808830470340
+      RIGHT ARM TOP: -4829948047139241124
+      RIGHT FEET: -8790884954631550584
+      RIGHT LEG BOTTOM: 1243037033
+      RIGHT LEG TOP: -1412357608
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

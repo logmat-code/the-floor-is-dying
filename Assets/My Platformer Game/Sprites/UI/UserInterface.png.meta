@@ -1,0 +1,1952 @@
+fileFormatVersion: 2
+guid: 5ea7ea616ba5df44595bb58d42feba14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: UserInterface_0
+  - first:
+      213: 21300002
+    second: UserInterface_1
+  - first:
+      213: 21300004
+    second: UserInterface_2
+  - first:
+      213: 21300006
+    second: UserInterface_3
+  - first:
+      213: 21300008
+    second: UserInterface_4
+  - first:
+      213: 21300010
+    second: UserInterface_5
+  - first:
+      213: 21300012
+    second: UserInterface_6
+  - first:
+      213: 21300014
+    second: UserInterface_7
+  - first:
+      213: 21300016
+    second: UserInterface_8
+  - first:
+      213: 21300018
+    second: UserInterface_9
+  - first:
+      213: 21300020
+    second: UserInterface_10
+  - first:
+      213: 21300022
+    second: UserInterface_11
+  - first:
+      213: 21300024
+    second: UserInterface_12
+  - first:
+      213: 21300026
+    second: UserInterface_13
+  - first:
+      213: 21300028
+    second: UserInterface_14
+  - first:
+      213: 21300030
+    second: UserInterface_15
+  - first:
+      213: 21300032
+    second: UserInterface_16
+  - first:
+      213: 21300034
+    second: UserInterface_17
+  - first:
+      213: 21300036
+    second: UserInterface_18
+  - first:
+      213: 21300038
+    second: UserInterface_19
+  - first:
+      213: 21300040
+    second: UserInterface_20
+  - first:
+      213: 21300042
+    second: UserInterface_21
+  - first:
+      213: 21300044
+    second: UserInterface_22
+  - first:
+      213: 21300046
+    second: UserInterface_23
+  - first:
+      213: 21300048
+    second: UserInterface_24
+  - first:
+      213: 21300050
+    second: UserInterface_25
+  - first:
+      213: 21300052
+    second: UserInterface_26
+  - first:
+      213: 21300054
+    second: UserInterface_27
+  - first:
+      213: 21300056
+    second: UserInterface_28
+  - first:
+      213: 21300058
+    second: UserInterface_29
+  - first:
+      213: 21300060
+    second: UserInterface_30
+  - first:
+      213: 21300062
+    second: UserInterface_31
+  - first:
+      213: 21300064
+    second: UserInterface_32
+  - first:
+      213: 21300066
+    second: UserInterface_33
+  - first:
+      213: 21300068
+    second: UserInterface_34
+  - first:
+      213: 21300070
+    second: UserInterface_35
+  - first:
+      213: 21300072
+    second: UserInterface_36
+  - first:
+      213: 21300074
+    second: UserInterface_37
+  - first:
+      213: 21300076
+    second: UserInterface_38
+  - first:
+      213: 21300078
+    second: UserInterface_39
+  - first:
+      213: 21300080
+    second: UserInterface_40
+  - first:
+      213: 21300082
+    second: UserInterface_41
+  - first:
+      213: 21300084
+    second: UserInterface_42
+  - first:
+      213: 21300086
+    second: UserInterface_43
+  - first:
+      213: 21300088
+    second: UserInterface_44
+  - first:
+      213: 21300090
+    second: UserInterface_45
+  - first:
+      213: 21300092
+    second: UserInterface_46
+  - first:
+      213: 21300094
+    second: UserInterface_47
+  - first:
+      213: 21300096
+    second: UserInterface_48
+  - first:
+      213: 21300098
+    second: UserInterface_49
+  - first:
+      213: 21300100
+    second: UserInterface_50
+  - first:
+      213: 21300102
+    second: UserInterface_51
+  - first:
+      213: 21300104
+    second: UserInterface_52
+  - first:
+      213: 21300106
+    second: UserInterface_53
+  - first:
+      213: 21300108
+    second: UserInterface_54
+  - first:
+      213: 21300110
+    second: UserInterface_55
+  - first:
+      213: 21300112
+    second: UserInterface_56
+  - first:
+      213: 21300114
+    second: UserInterface_57
+  - first:
+      213: 21300116
+    second: UserInterface_58
+  - first:
+      213: 21300118
+    second: UserInterface_59
+  - first:
+      213: 21300120
+    second: UserInterface_60
+  - first:
+      213: 21300122
+    second: UserInterface_61
+  - first:
+      213: 21300124
+    second: UserInterface_62
+  - first:
+      213: 21300126
+    second: UserInterface_63
+  - first:
+      213: 21300128
+    second: UserInterface_64
+  - first:
+      213: 21300130
+    second: UserInterface_65
+  - first:
+      213: 21300132
+    second: UserInterface_66
+  - first:
+      213: 21300134
+    second: UserInterface_67
+  - first:
+      213: 21300136
+    second: UserInterface_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UserInterface_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2998
+        width: 144
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7faee25e9fab484698c18ec5b3e7a04
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2934
+        width: 448
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d68859c9fb1e248b15fa763ea35439
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_3
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 2693
+        width: 311
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893611b16ef4b4645a1563342086faf4
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_4
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 2902
+        width: 248
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b20ca6ae97b04419e0d25eabf7ccaf
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_5
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 3034
+        width: 232
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9854ec6c07fb6941a447486ec5404d9
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_6
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 2902
+        width: 228
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198bcdbf2bf92fa4ba1c7e261c1be0a1
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_7
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 2902
+        width: 228
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ed2e03bf81b554c8873514e5c38372
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_8
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 1882
+        width: 1378
+        height: 1218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b96bd3e751f2a4ca84a40735c90f79
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2875
+        width: 121
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f343687e6b99b446bf373b611801b0c
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_10
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2878
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee557ad005d616479340da4f3f01eae
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2722
+        width: 188
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964cac8229e2d2b4292646ba2e406df9
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_12
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2722
+        width: 188
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326556706a599084c96aaeab8a8f2059
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_13
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 2899
+        width: 148
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5c08ead2eff694999b341a5e0a7fd1
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_14
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 2774
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce5260504a682d4a973c2f4cc5b6288
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_15
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 2742
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9323345c4c0ae14ab85f7a2f8538a69
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_16
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 2734
+        width: 76
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26409379e1013840a01a94aa332b267
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_17
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 2726
+        width: 144
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ed967b24f28ed40b7d566d613df1b1
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2538
+        width: 160
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d2e3209418e8b4f99a2b45bb412536
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2498
+        width: 916
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3e57490de181640b0e567c504b128f
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_20
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 2518
+        width: 936
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d76075575dde542adebb689b2bbea6
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2362
+        width: 160
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830d4753e69b37d428a3bc1a940956fc
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_22
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2346
+        width: 124
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66763642f88e5b47ac219576e9e2d21
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2358
+        width: 84
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555107abcc674fc4e85ce6eb4b10f17d
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_24
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2346
+        width: 117
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01439296a5d734d49ab566206691cf3d
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_25
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 2362
+        width: 108
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3c18abbea4a6b47a564367404304e2
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_26
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1363
+        width: 1100
+        height: 957
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2592e707bef3e458c96f9722404626
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_27
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2012
+        width: 193
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8d29dbc78517443b16e204dd672b8e
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_28
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1710
+        width: 168
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b0842ce80f45a488ab4f59504c5738
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_29
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 1010
+        width: 1926
+        height: 828
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1692fa54d6afec4799f896a80b19a71
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_31
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1434
+        width: 167
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe39ef9ddf6c02b43b94208643ab4fc3
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_32
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1106
+        width: 160
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b535bfbfb3c4f428860d8e8bcc3e12
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_34
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1106
+        width: 597
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1219b71ac8168164ba710a8e5db26c39
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1510
+        height: 779
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd884731194419e448a2b0efa9b14ec2
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 834
+        width: 1664
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d71d32bf54dee47854425cc9d49ad4
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_37
+      rect:
+        serializedVersion: 2
+        x: 3035
+        y: 0
+        width: 1061
+        height: 994
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c79e031502a77647b184345e74a0e91
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_38
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 494
+        width: 435
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b711ea1f1668ee44baa581b04a923a9
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_39
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 597
+        width: 219
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ab0e69893d0954682dc74b9b4d6377
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_40
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 234
+        width: 436
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec19f7bc9794fd045a1832246660f726
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_41
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 30
+        width: 499
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bf56e1e63822040919273e059ee569
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_42
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 30
+        width: 372
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b29bc92bf09c7d4ba381de9be373c38
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_43
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 2350
+        width: 594
+        height: 730
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f727200ae7fb87a40a87e1477ce07f77
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_44
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 2334
+        width: 267
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbacc3135dff8e94bba28bba3dfa2fdb
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_45
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 2416
+        width: 303
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e87a34bddf611243b4c148d3213c379
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_46
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 2386
+        width: 350
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cab1a73b3edbfb40802b81d5316e66d
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_47
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 2727
+        width: 132
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f31e3f3c44e544bae66d329665d9c7
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_48
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 2734
+        width: 328
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0250958bfbdac419bcdc2902e7129e
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2730
+        width: 152
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd38cd2bd53ca95499667be7d1024b82
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_49
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2355
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a29e8b256b8af44189bcf189eb0782c
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_50
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 2353
+        width: 126
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357446dd2a52ab249b4012c869c387d3
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_51
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2350
+        width: 116
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709a92bac8308a849a297fb42b22019f
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2167
+        width: 725
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1972fb7cfc7364abc0cda5e754d168
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_53
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1977
+        width: 734
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77947e5d2e2e42842af66e6ff98e65dc
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_54
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1633
+        width: 706
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623e88b176fa88f438b65b51403371ed
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_30
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1300
+        width: 313
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0eb1cbc958c414da590fd97d2aaf41
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_55
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1293
+        width: 236
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9d48b75282bea498e76e0758824edb
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_56
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1293
+        width: 218
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec28a54bf5ceaf41ad67d2036d6b089
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_57
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1125
+        width: 120
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85113ad9a620706448ea6e2bba663c31
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_58
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1097
+        width: 679
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8e3aa75bb72c14182515fb60334779
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_59
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1144
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122c49f4a40e0dc46bd5506246c2f7e4
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_33
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 30
+        width: 494
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480fd7a12bce736489f94a42b5dffea1
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_60
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 580
+        width: 110
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8056ef7b756d477438eb5997bfccfe56
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_61
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 577
+        width: 109
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cc68a5f87c4a340b7f0c564c563ed4
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_62
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 430
+        width: 105
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5546afc1559bb854a9dedc880fe39703
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_63
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 433
+        width: 90
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5e09a65508bd444a566e0648a76df5
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_64
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 430
+        width: 191
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd0811b89b068d4d8385fae57e33c99
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_65
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 339
+        width: 148
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753f599b134e5ae4ca3c912f398180c4
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_66
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 2777
+        width: 78
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa739044175b1f4587b0eb396f6488c
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_67
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 2791
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c57fcf93e7ef3a4f843657624336903
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UserInterface_68
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2999
+        width: 308
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ed13f1e70360648a26bf18c020c5e6
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 04c13f932f1a7c94c9b6aba74da2ac65
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UserInterface_0: 21300000
+      UserInterface_1: 21300002
+      UserInterface_10: 21300020
+      UserInterface_11: 21300022
+      UserInterface_12: 21300024
+      UserInterface_13: 21300026
+      UserInterface_14: 21300028
+      UserInterface_15: 21300030
+      UserInterface_16: 21300032
+      UserInterface_17: 21300034
+      UserInterface_18: 21300036
+      UserInterface_19: 21300038
+      UserInterface_2: 21300004
+      UserInterface_20: 21300040
+      UserInterface_21: 21300042
+      UserInterface_22: 21300044
+      UserInterface_23: 21300046
+      UserInterface_24: 21300048
+      UserInterface_25: 21300050
+      UserInterface_26: 21300052
+      UserInterface_27: 21300054
+      UserInterface_28: 21300056
+      UserInterface_29: 21300058
+      UserInterface_3: 21300006
+      UserInterface_30: 21300060
+      UserInterface_31: 21300062
+      UserInterface_32: 21300064
+      UserInterface_33: 21300066
+      UserInterface_34: 21300068
+      UserInterface_35: 21300070
+      UserInterface_36: 21300072
+      UserInterface_37: 21300074
+      UserInterface_38: 21300076
+      UserInterface_39: 21300078
+      UserInterface_4: 21300008
+      UserInterface_40: 21300080
+      UserInterface_41: 21300082
+      UserInterface_42: 21300084
+      UserInterface_43: 21300086
+      UserInterface_44: 21300088
+      UserInterface_45: 21300090
+      UserInterface_46: 21300092
+      UserInterface_47: 21300094
+      UserInterface_48: 21300096
+      UserInterface_49: 21300098
+      UserInterface_5: 21300010
+      UserInterface_50: 21300100
+      UserInterface_51: 21300102
+      UserInterface_52: 21300104
+      UserInterface_53: 21300106
+      UserInterface_54: 21300108
+      UserInterface_55: 21300110
+      UserInterface_56: 21300112
+      UserInterface_57: 21300114
+      UserInterface_58: 21300116
+      UserInterface_59: 21300118
+      UserInterface_6: 21300012
+      UserInterface_60: 21300120
+      UserInterface_61: 21300122
+      UserInterface_62: 21300124
+      UserInterface_63: 21300126
+      UserInterface_64: 21300128
+      UserInterface_65: 21300130
+      UserInterface_66: 21300132
+      UserInterface_67: 21300134
+      UserInterface_68: 21300136
+      UserInterface_7: 21300014
+      UserInterface_8: 21300016
+      UserInterface_9: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1874 @@
+fileFormatVersion: 2
+guid: f11d3c5bfd7b88a44aa0faa23739520b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: TempleLevel_0
+  - first:
+      213: 21300002
+    second: TempleLevel_1
+  - first:
+      213: 21300004
+    second: TempleLevel_2
+  - first:
+      213: 21300006
+    second: TempleLevel_3
+  - first:
+      213: 21300008
+    second: TempleLevel_4
+  - first:
+      213: 21300010
+    second: TempleLevel_5
+  - first:
+      213: 21300012
+    second: TempleLevel_6
+  - first:
+      213: 21300014
+    second: TempleLevel_7
+  - first:
+      213: 21300016
+    second: TempleLevel_8
+  - first:
+      213: 21300018
+    second: TempleLevel_9
+  - first:
+      213: 21300020
+    second: TempleLevel_10
+  - first:
+      213: 21300022
+    second: TempleLevel_11
+  - first:
+      213: 21300024
+    second: TempleLevel_12
+  - first:
+      213: 21300026
+    second: TempleLevel_13
+  - first:
+      213: 21300028
+    second: TempleLevel_14
+  - first:
+      213: 21300030
+    second: TempleLevel_15
+  - first:
+      213: 21300032
+    second: TempleLevel_16
+  - first:
+      213: 21300034
+    second: TempleLevel_17
+  - first:
+      213: 21300036
+    second: TempleLevel_18
+  - first:
+      213: 21300038
+    second: TempleLevel_19
+  - first:
+      213: 21300040
+    second: TempleLevel_20
+  - first:
+      213: 21300042
+    second: TempleLevel_21
+  - first:
+      213: 21300044
+    second: TempleLevel_22
+  - first:
+      213: 21300046
+    second: TempleLevel_23
+  - first:
+      213: 21300048
+    second: TempleLevel_24
+  - first:
+      213: 21300050
+    second: TempleLevel_25
+  - first:
+      213: 21300052
+    second: TempleLevel_26
+  - first:
+      213: 21300054
+    second: TempleLevel_27
+  - first:
+      213: 21300056
+    second: TempleLevel_28
+  - first:
+      213: 21300058
+    second: TempleLevel_29
+  - first:
+      213: 21300060
+    second: TempleLevel_30
+  - first:
+      213: 21300062
+    second: TempleLevel_31
+  - first:
+      213: 21300064
+    second: TempleLevel_32
+  - first:
+      213: 21300066
+    second: TempleLevel_33
+  - first:
+      213: 21300068
+    second: TempleLevel_34
+  - first:
+      213: 21300070
+    second: TempleLevel_35
+  - first:
+      213: 21300072
+    second: TempleLevel_36
+  - first:
+      213: 21300074
+    second: TempleLevel_37
+  - first:
+      213: 21300076
+    second: TempleLevel_38
+  - first:
+      213: 21300078
+    second: TempleLevel_39
+  - first:
+      213: 21300080
+    second: TempleLevel_40
+  - first:
+      213: 21300082
+    second: TempleLevel_41
+  - first:
+      213: 21300084
+    second: TempleLevel_42
+  - first:
+      213: 21300086
+    second: TempleLevel_43
+  - first:
+      213: 21300088
+    second: TempleLevel_44
+  - first:
+      213: 21300090
+    second: TempleLevel_45
+  - first:
+      213: 21300092
+    second: TempleLevel_46
+  - first:
+      213: 21300094
+    second: TempleLevel_47
+  - first:
+      213: 21300096
+    second: TempleLevel_48
+  - first:
+      213: 21300098
+    second: TempleLevel_49
+  - first:
+      213: 21300100
+    second: TempleLevel_50
+  - first:
+      213: 21300102
+    second: TempleLevel_51
+  - first:
+      213: 21300104
+    second: TempleLevel_52
+  - first:
+      213: 21300106
+    second: TempleLevel_53
+  - first:
+      213: 21300108
+    second: TempleLevel_54
+  - first:
+      213: 21300110
+    second: TempleLevel_55
+  - first:
+      213: 21300112
+    second: TempleLevel_56
+  - first:
+      213: 21300114
+    second: TempleLevel_57
+  - first:
+      213: 21300116
+    second: TempleLevel_58
+  - first:
+      213: 21300118
+    second: TempleLevel_59
+  - first:
+      213: 21300120
+    second: TempleLevel_60
+  - first:
+      213: 21300122
+    second: TempleLevel_61
+  - first:
+      213: 21300124
+    second: TempleLevel_62
+  - first:
+      213: 21300126
+    second: TempleLevel_63
+  - first:
+      213: 21300128
+    second: TempleLevel_64
+  - first:
+      213: 21300130
+    second: TempleLevel_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TempleLevel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1108
+        width: 188
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ace3a8cd42471d43890e4b5a5916f77
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1114
+        width: 99
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02747257b5de28f40a345f32a72112d7
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1116
+        width: 126
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7580fe9c52746284e88fc91b0fc12c9b
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_3
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1403
+        width: 219
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c97330dd8281f94987d45fb77b23f26
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_4
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1403
+        width: 219
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e3a06e3198a9444b40558412a4ce38
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_5
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1468
+        width: 127
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b971ea79506c69e4e8b6ba9ce1bfb559
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_6
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1468
+        width: 127
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae4e3b4d9bcd714fa3cacda57a5cb59
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_7
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1106
+        width: 216
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e847032506d7ac4baba3be9239f0ef2
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_8
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1257
+        width: 227
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7fdd454795d2d4ea118ee4cc529d81
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_9
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1392
+        width: 93
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b092ea939cbca344ba63d96de88bd78
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_10
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1308
+        width: 86
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeac5241cfb0c64c92badcf439f1016
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_11
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1318
+        width: 93
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4604059ad5200e24592057d2a54de383
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_12
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1271
+        width: 74
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318ad870c771e9d4f96d5f7bd329b119
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_13
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1220
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c107037e092ccd44a877d576e1b40663
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_14
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1183
+        width: 57
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893d1e08735941747ab53286033ea6f0
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_15
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1099
+        width: 272
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce2294edbf8a9e46b21e3fd3744b0f2
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_16
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1229
+        width: 74
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106e2f12a32d652429828213776fc376
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_17
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1109
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7257f12711b3d6543aacf00acb72dc7c
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_18
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1094
+        width: 55
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80238f26a6745946822c64ef4fc0170
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_19
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1120
+        width: 98
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92e715e1bf05264b9f9e7fe72019be5
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 999
+        width: 248
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662889b798fc85c49a71824d47fd3aab
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_21
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1044
+        width: 138
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fcc1cefeb12204399f48f58e7b59cb
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_22
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1037
+        width: 103
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd9c5ef9c98b04439419ad25ef2fb6f
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_23
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 857
+        width: 105
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb71a931c7645e4bbff1c70344bee02
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_24
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 844
+        width: 109
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de018aa132f7944dafc53f6ce9208c3
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_25
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 844
+        width: 241
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc728a578b37734cba79182054ccfa7
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_26
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 850
+        width: 248
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22755b35c8fa0284b9823820c96aaf3d
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_27
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 895
+        width: 230
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e726b3a02e4f35042a595adb00ea7477
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 690
+        width: 256
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36133365d9d0b944e8b4610c648c2df5
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_29
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 690
+        width: 284
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34418c80ab5b73449fde4298940c99e
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_30
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 608
+        width: 146
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c517805d4db93404d90059bc82ec6b19
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_31
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 713
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e2b51c562bd8a44b800ea3a8f298c9
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_32
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 815
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb6e4ed995722c46a8487fa193a61c1
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_33
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 690
+        width: 185
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de36c13c4ad13543a91b57d3474948f
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_34
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 689
+        width: 130
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d881d641aea5ba4d94eed48fcd4f87e
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_35
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 719
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7cd0308a459604e95bfd077e4bc702
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_36
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 718
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008ee4ac4aff6de4092e05b03763f15d
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_37
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 718
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfaf47df9f0b564c8bd6a841c1da475
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_38
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 713
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee36b7daf8c881741a549cc5eaab6fd3
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 485
+        width: 136
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa2e5154b69db64fa13fb5a0da120f0
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_40
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 594
+        width: 139
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f9a745aa123854db7cfaa596efb6d1
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_41
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 489
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296e27991cbf77148a3576ec69163673
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_42
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 484
+        width: 525
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b09fd4042749f45b87d095512d798c
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_43
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 616
+        width: 406
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c5bef43f1732a4db82a664c8259104
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_44
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 491
+        width: 133
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6cd79a50ca75340b91c2486f8f20f6
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_45
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 415
+        width: 103
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7994b938f14ada41b0b8a1261b57da7
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_46
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 413
+        width: 162
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540ad15a9676e8f46822f8b3531e64eb
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_47
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 0
+        width: 170
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746257de93229f3408bfd6de5a018f3a
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 402
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e8ab409c17a93409dde4da08ef2d2c
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_49
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 300
+        width: 97
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02f310a942fea84f852532304201702
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_50
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 260
+        width: 63
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433ae3c0b81d93f419c0e10ac57e3a67
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_51
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 217
+        width: 143
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7721c436e4e7643833040459728a03
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_52
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 332
+        width: 92
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74360c6f94f51d54592a0a51e41f27d7
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_53
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 0
+        width: 175
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a2be9d435554043b816be2964c2c6d
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_54
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 16
+        width: 113
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb653c375711404e983c4f5b67d27f3
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_55
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 30
+        width: 58
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cfa327f4d898e4186b451364d97608
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_56
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 161
+        width: 31
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814c3fe7dc9d2f84f9383493d1900c75
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_57
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 278
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d14a62b26040645a602f697dcdd025
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_58
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 230
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef8dba65e580634a8dabe3f4a76558b
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_59
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 0
+        width: 125
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fcde12a0bf41b41aa8f443fcf88450
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_60
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 0
+        width: 449
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75cd7da7ed28654ea6ab4ac0002206e
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_61
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 855
+        width: 245
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96c37f612fbb104b9b7ca283ebbe295
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_62
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 992
+        width: 215
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29869d7a9ddb20a479fb8ef667e4a189
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_63
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1308
+        width: 80
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf9bd1209017a84ebbb6e498a47511a
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_64
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 822
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ba10e6d1483c840bc61d36c7ccd786
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleLevel_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 594
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b5e4b762ac6154f9fae7027bdeb00e
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 79464ee12c82e374198f387ee048b54c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TempleLevel_0: 21300000
+      TempleLevel_1: 21300002
+      TempleLevel_10: 21300020
+      TempleLevel_11: 21300022
+      TempleLevel_12: 21300024
+      TempleLevel_13: 21300026
+      TempleLevel_14: 21300028
+      TempleLevel_15: 21300030
+      TempleLevel_16: 21300032
+      TempleLevel_17: 21300034
+      TempleLevel_18: 21300036
+      TempleLevel_19: 21300038
+      TempleLevel_2: 21300004
+      TempleLevel_20: 21300040
+      TempleLevel_21: 21300042
+      TempleLevel_22: 21300044
+      TempleLevel_23: 21300046
+      TempleLevel_24: 21300048
+      TempleLevel_25: 21300050
+      TempleLevel_26: 21300052
+      TempleLevel_27: 21300054
+      TempleLevel_28: 21300056
+      TempleLevel_29: 21300058
+      TempleLevel_3: 21300006
+      TempleLevel_30: 21300060
+      TempleLevel_31: 21300062
+      TempleLevel_32: 21300064
+      TempleLevel_33: 21300066
+      TempleLevel_34: 21300068
+      TempleLevel_35: 21300070
+      TempleLevel_36: 21300072
+      TempleLevel_37: 21300074
+      TempleLevel_38: 21300076
+      TempleLevel_39: 21300078
+      TempleLevel_4: 21300008
+      TempleLevel_40: 21300080
+      TempleLevel_41: 21300082
+      TempleLevel_42: 21300084
+      TempleLevel_43: 21300086
+      TempleLevel_44: 21300088
+      TempleLevel_45: 21300090
+      TempleLevel_46: 21300092
+      TempleLevel_47: 21300094
+      TempleLevel_48: 21300096
+      TempleLevel_49: 21300098
+      TempleLevel_5: 21300010
+      TempleLevel_50: 21300100
+      TempleLevel_51: 21300102
+      TempleLevel_52: 21300104
+      TempleLevel_53: 21300106
+      TempleLevel_54: 21300108
+      TempleLevel_55: 21300110
+      TempleLevel_56: 21300112
+      TempleLevel_57: 21300114
+      TempleLevel_58: 21300116
+      TempleLevel_59: 21300118
+      TempleLevel_6: 21300012
+      TempleLevel_60: 21300120
+      TempleLevel_61: 21300122
+      TempleLevel_62: 21300124
+      TempleLevel_63: 21300126
+      TempleLevel_64: 21300128
+      TempleLevel_65: 21300130
+      TempleLevel_7: 21300014
+      TempleLevel_8: 21300016
+      TempleLevel_9: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: 5c4252d28e6c82c4f82d12ec0434e065
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Gladiator_Costume_0
+  - first:
+      213: 21300002
+    second: Gladiator_Costume_1
+  - first:
+      213: 21300004
+    second: Gladiator_Costume_2
+  - first:
+      213: 21300006
+    second: Gladiator_Costume_3
+  - first:
+      213: 21300008
+    second: Gladiator_Costume_4
+  - first:
+      213: 21300010
+    second: Gladiator_Costume_5
+  - first:
+      213: 21300012
+    second: Gladiator_Costume_6
+  - first:
+      213: 21300014
+    second: Gladiator_Costume_7
+  - first:
+      213: 21300016
+    second: Gladiator_Costume_8
+  - first:
+      213: 21300018
+    second: Gladiator_Costume_9
+  - first:
+      213: 21300020
+    second: Gladiator_Costume_10
+  - first:
+      213: 21300022
+    second: Gladiator_Costume_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gladiator_Costume_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 377
+        height: 544
+      alignment: 9
+      pivot: {x: 0.633, y: 0.338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3983fafdbb1b74a82ae23d3f55cc88
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladiator_Costume_1
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 583
+        width: 124
+        height: 154
+      alignment: 9
+      pivot: {x: 0.53, y: 0.31000018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba7605255dbadd428a0a43d74a37b14
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladiator_Costume_2
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 576
+        width: 155
+        height: 161
+      alignment: 9
+      pivot: {x: 0.31000018, y: 0.6199999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200cf0f90353e564c82d4d77342f6129
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladiator_Costume_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 412
+        width: 242
+        height: 116
+      alignment: 9
+      pivot: {x: 0.56999993, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79fd758107b2114abcf81134feb3c7b
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladiator_Costume_4
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 296
+        width: 103
+        height: 64
+      alignment: 9
+      pivot: {x: 0.52, y: -0.8499997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f9550fce6517942aa5dba4e60a23ce
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladiator_Costume_5
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 301
+        width: 66
+        height: 66
+      alignment: 9
+      pivot: {x: 1.1099999, y: -0.06999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cd5118ff1aaa144871a38ef098206c
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladiator_Costume_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 201
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5899999, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a350b0d79ab0c40b778f505fdf2373
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladiator_Costume_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 140
+        width: 101
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7299998, y: 0.6899998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734ed4bf0a430e549b39f85051211bb7
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladiator_Costume_8
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 195
+        width: 218
+        height: 55
+      alignment: 9
+      pivot: {x: 0.57999974, y: -0.3099998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4857c4de9589a340b313a093ed5c47e
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladiator_Costume_9
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 32
+        width: 79
+        height: 68
+      alignment: 9
+      pivot: {x: 0.3800001, y: 0.5799999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e313f4ccd8397104eb6a62b7ce35db63
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladiator_Costume_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 23
+        width: 157
+        height: 120
+      alignment: 9
+      pivot: {x: 0.36000013, y: 0.24000023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1dc0b89018b2c48b2a69b2a1f4359f
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gladiator_Costume_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 40
+        width: 141
+        height: 116
+      alignment: 9
+      pivot: {x: 0.46000004, y: 0.27000022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ae97b2e13189643b799ded27603c52
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c838d0ff6a88edb42b8efe77f1112bba
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gladiator_Costume_0: 21300000
+      Gladiator_Costume_1: 21300002
+      Gladiator_Costume_10: 21300020
+      Gladiator_Costume_11: 21300022
+      Gladiator_Costume_2: 21300004
+      Gladiator_Costume_3: 21300006
+      Gladiator_Costume_4: 21300008
+      Gladiator_Costume_5: 21300010
+      Gladiator_Costume_6: 21300012
+      Gladiator_Costume_7: 21300014
+      Gladiator_Costume_8: 21300016
+      Gladiator_Costume_9: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

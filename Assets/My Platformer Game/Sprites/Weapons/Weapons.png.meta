@@ -1,0 +1,652 @@
+fileFormatVersion: 2
+guid: 860e995e1e5baeb4599d50e72632f917
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Weapons_Slingshot1
+  - first:
+      213: 21300002
+    second: Weapons_Slingshot_part1
+  - first:
+      213: 21300004
+    second: Weapons_Slingshot_part2
+  - first:
+      213: 21300006
+    second: Weapons_Slingshot3
+  - first:
+      213: 21300008
+    second: Weapons_Slingshot3_part1
+  - first:
+      213: 21300010
+    second: Weapons_Slingshot3_part2
+  - first:
+      213: 21300012
+    second: Weapons_Slingshot3_part3
+  - first:
+      213: 21300014
+    second: Weapons_Sword1
+  - first:
+      213: 21300016
+    second: Weapons_Sword2
+  - first:
+      213: 21300018
+    second: Weapons_Sword3
+  - first:
+      213: 21300020
+    second: Weapons_Bow2
+  - first:
+      213: 21300022
+    second: Weapons_Bow3
+  - first:
+      213: 21300024
+    second: Weapons_Hammer1
+  - first:
+      213: 21300026
+    second: Weapons_Hammer3
+  - first:
+      213: 21300028
+    second: Weapons_Hammer4
+  - first:
+      213: 21300030
+    second: Weapons_Slingshot2
+  - first:
+      213: 21300032
+    second: Weapons_Bow1
+  - first:
+      213: 21300034
+    second: Weapons_17
+  - first:
+      213: 21300036
+    second: Weapons_Hammer2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weapons_Slingshot1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 843
+        width: 86
+        height: 181
+      alignment: 9
+      pivot: {x: 0.5433746, y: 0.2609371}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8745a960ec7c5438cf67fe8e754a2e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Slingshot_part1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 869
+        width: 57
+        height: 140
+      alignment: 9
+      pivot: {x: 0.7094154, y: 0.8996661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84936d39873276a4aabfeb662561a907
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Slingshot_part2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 869
+        width: 100
+        height: 132
+      alignment: 9
+      pivot: {x: 0.8581006, y: 0.9464958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c628888887b29dd40950616355b449f0
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Slingshot3
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 838
+        width: 273
+        height: 186
+      alignment: 9
+      pivot: {x: 0.15200526, y: 0.41858158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92aa1fbcd0c06234fb38e0d76597c017
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Slingshot3_part1
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 944
+        width: 122
+        height: 80
+      alignment: 9
+      pivot: {x: 0.9305435, y: 0.47015458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca06a197e3a9a854a998a32de7994607
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Slingshot3_part2
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 861
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4118dc4e42aca584ab740fd51e0c5d97
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Slingshot3_part3
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 877
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d94f3ed5e2423943b98348aa8ccee7f
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Sword1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 81
+        height: 404
+      alignment: 9
+      pivot: {x: 0.514738, y: 0.1542761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4ff2946c08c954eaf5d4dfec3ec928
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Sword2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 359
+        width: 148
+        height: 468
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.122479364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5072e5a29cee42a489ea2417c6c3ff7c
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Sword3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 351
+        width: 131
+        height: 470
+      alignment: 9
+      pivot: {x: 0.50436425, y: 0.118040435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703e576bc95f554469dd99cdec7b2c64
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Bow2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 343
+        width: 187
+        height: 473
+      alignment: 9
+      pivot: {x: 0.65684694, y: 0.49999973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646a8fbd2e3ebbf41ba4239ff14551ba
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Bow3
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 335
+        width: 134
+        height: 478
+      alignment: 9
+      pivot: {x: 0.8049922, y: 0.4978579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166916717db8efb4686c67323a89d549
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Hammer1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 154
+        height: 328
+      alignment: 9
+      pivot: {x: 0.497786, y: 0.21582516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd00aef8e9f47e4bbbad7d3e46ae8c2
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Hammer3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 3
+        width: 286
+        height: 310
+      alignment: 9
+      pivot: {x: 0.49712026, y: 0.23166324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0eda93e133e6646bc158d9fbc295f0
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Hammer4
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 0
+        width: 286
+        height: 337
+      alignment: 9
+      pivot: {x: 0.4935309, y: 0.28923342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29038a053db529e46a1582079a721497
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Slingshot2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 827
+        width: 79
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5913097, y: 0.29773661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647a25aa0a680024b8e810b217d0a622
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Bow1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 336
+        width: 115
+        height: 474
+      alignment: 9
+      pivot: {x: 0.8188087, y: 0.49999973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e512f206858dd914993aa27857135b44
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_17
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 393
+        width: 7
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7c5865050e67d4aaf12bab391d8584
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapons_Hammer2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 249
+        height: 323
+      alignment: 9
+      pivot: {x: 0.49669233, y: 0.21696441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d2ac07bcce79e4195eec4a0f387920
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ca73f8b3504fea545ae5ddf28d144b37
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Weapons_17: 21300034
+      Weapons_Bow1: 21300032
+      Weapons_Bow2: 21300020
+      Weapons_Bow3: 21300022
+      Weapons_Hammer1: 21300024
+      Weapons_Hammer2: 21300036
+      Weapons_Hammer3: 21300026
+      Weapons_Hammer4: 21300028
+      Weapons_Slingshot1: 21300000
+      Weapons_Slingshot2: 21300030
+      Weapons_Slingshot3: 21300006
+      Weapons_Slingshot3_part1: 21300008
+      Weapons_Slingshot3_part2: 21300010
+      Weapons_Slingshot3_part3: 21300012
+      Weapons_Slingshot_part1: 21300002
+      Weapons_Slingshot_part2: 21300004
+      Weapons_Sword1: 21300014
+      Weapons_Sword2: 21300016
+      Weapons_Sword3: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

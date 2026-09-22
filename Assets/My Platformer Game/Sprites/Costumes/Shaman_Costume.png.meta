@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: 86dcde16c3d44224bb457898649562fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5809480306418808226
+    second: Shaman_Costume_0
+  - first:
+      213: 1208599405744777968
+    second: Shaman_Costume_1
+  - first:
+      213: -6151141892196973714
+    second: Shaman_Costume_2
+  - first:
+      213: -2551799910837328501
+    second: Shaman_Costume_3
+  - first:
+      213: -7261825267924868127
+    second: Shaman_Costume_4
+  - first:
+      213: 8202158079266688025
+    second: Shaman_Costume_5
+  - first:
+      213: -2533754786565142285
+    second: Shaman_Costume_6
+  - first:
+      213: 7272137227688863037
+    second: Shaman_Costume_7
+  - first:
+      213: -5456828671464665103
+    second: Shaman_Costume_8
+  - first:
+      213: -7365413846084591211
+    second: Shaman_Costume_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shaman_Costume_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 560
+        height: 560
+      alignment: 9
+      pivot: {x: 0.6799998, y: 0.27000022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b098493add0f22c49be9c826e312981a
+      internalID: 5809480306418808226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shaman_Costume_1
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 558
+        width: 212
+        height: 249
+      alignment: 9
+      pivot: {x: 0.5999999, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d81a37722a76545b58df50e9dcf0a3
+      internalID: 1208599405744777968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shaman_Costume_2
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 433
+        width: 240
+        height: 88
+      alignment: 9
+      pivot: {x: 0.6099999, y: -0.12}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40db64248fd5a694c8a4c999dbe9545e
+      internalID: -6151141892196973714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shaman_Costume_3
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 277
+        width: 245
+        height: 118
+      alignment: 9
+      pivot: {x: 0.63999987, y: 0.45000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd4be29ed542a048a3df70eab26e521
+      internalID: -2551799910837328501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shaman_Costume_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 133
+        width: 108
+        height: 75
+      alignment: 9
+      pivot: {x: 0.7199998, y: 0.63999987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc75082f0f849d34d8b8625faedcb191
+      internalID: -7261825267924868127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shaman_Costume_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 57
+        width: 76
+        height: 90
+      alignment: 9
+      pivot: {x: 0.1700002, y: 0.53999996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38480527dbd318947ab02752fb1c5683
+      internalID: 8202158079266688025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shaman_Costume_6
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 120
+        width: 133
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e30033b7aacc44096674ffb146a136
+      internalID: -2533754786565142285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shaman_Costume_7
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 98
+        width: 132
+        height: 137
+      alignment: 9
+      pivot: {x: 0.6199999, y: 0.43000007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c193a04ba4f6c8e4ab6343697ea32ab3
+      internalID: 7272137227688863037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shaman_Costume_8
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 8
+        width: 117
+        height: 79
+      alignment: 9
+      pivot: {x: 0.45000005, y: -0.19999982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b528e378c348e549981d825dfe40fab
+      internalID: -5456828671464665103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shaman_Costume_9
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 0
+        width: 106
+        height: 79
+      alignment: 9
+      pivot: {x: 0.6799998, y: -0.109999985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c0e665f49ace5439f5ba1dd08a643e
+      internalID: -7365413846084591211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a84c71c0139684f4086788c412c3e536
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shaman_Costume_0: 5809480306418808226
+      Shaman_Costume_1: 1208599405744777968
+      Shaman_Costume_2: -6151141892196973714
+      Shaman_Costume_3: -2551799910837328501
+      Shaman_Costume_4: -7261825267924868127
+      Shaman_Costume_5: 8202158079266688025
+      Shaman_Costume_6: -2533754786565142285
+      Shaman_Costume_7: 7272137227688863037
+      Shaman_Costume_8: -5456828671464665103
+      Shaman_Costume_9: -7365413846084591211
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

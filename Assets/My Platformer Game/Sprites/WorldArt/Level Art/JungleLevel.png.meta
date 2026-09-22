@@ -1,0 +1,1900 @@
+fileFormatVersion: 2
+guid: 51e77b6224f5c814abbb11ebf30aa913
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: JungleLevel_0
+  - first:
+      213: 21300002
+    second: JungleLevel_1
+  - first:
+      213: 21300004
+    second: JungleLevel_2
+  - first:
+      213: 21300006
+    second: JungleLevel_3
+  - first:
+      213: 21300008
+    second: JungleLevel_4
+  - first:
+      213: 21300010
+    second: JungleLevel_5
+  - first:
+      213: 21300012
+    second: JungleLevel_6
+  - first:
+      213: 21300014
+    second: JungleLevel_7
+  - first:
+      213: 21300016
+    second: JungleLevel_8
+  - first:
+      213: 21300018
+    second: JungleLevel_9
+  - first:
+      213: 21300020
+    second: JungleLevel_10
+  - first:
+      213: 21300022
+    second: JungleLevel_11
+  - first:
+      213: 21300024
+    second: JungleLevel_12
+  - first:
+      213: 21300026
+    second: JungleLevel_13
+  - first:
+      213: 21300028
+    second: JungleLevel_14
+  - first:
+      213: 21300030
+    second: JungleLevel_15
+  - first:
+      213: 21300032
+    second: JungleLevel_16
+  - first:
+      213: 21300034
+    second: JungleLevel_17
+  - first:
+      213: 21300036
+    second: JungleLevel_18
+  - first:
+      213: 21300038
+    second: JungleLevel_19
+  - first:
+      213: 21300040
+    second: JungleLevel_20
+  - first:
+      213: 21300042
+    second: JungleLevel_21
+  - first:
+      213: 21300044
+    second: JungleLevel_22
+  - first:
+      213: 21300046
+    second: JungleLevel_23
+  - first:
+      213: 21300048
+    second: JungleLevel_24
+  - first:
+      213: 21300050
+    second: JungleLevel_25
+  - first:
+      213: 21300052
+    second: JungleLevel_26
+  - first:
+      213: 21300054
+    second: JungleLevel_27
+  - first:
+      213: 21300056
+    second: JungleLevel_28
+  - first:
+      213: 21300058
+    second: JungleLevel_29
+  - first:
+      213: 21300060
+    second: JungleLevel_30
+  - first:
+      213: 21300062
+    second: JungleLevel_31
+  - first:
+      213: 21300064
+    second: JungleLevel_32
+  - first:
+      213: 21300066
+    second: JungleLevel_33
+  - first:
+      213: 21300068
+    second: JungleLevel_34
+  - first:
+      213: 21300070
+    second: JungleLevel_35
+  - first:
+      213: 21300072
+    second: JungleLevel_36
+  - first:
+      213: 21300074
+    second: JungleLevel_37
+  - first:
+      213: 21300076
+    second: JungleLevel_38
+  - first:
+      213: 21300078
+    second: JungleLevel_39
+  - first:
+      213: 21300080
+    second: JungleLevel_40
+  - first:
+      213: 21300082
+    second: JungleLevel_41
+  - first:
+      213: 21300084
+    second: JungleLevel_42
+  - first:
+      213: 21300086
+    second: JungleLevel_43
+  - first:
+      213: 21300088
+    second: JungleLevel_44
+  - first:
+      213: 21300090
+    second: JungleLevel_45
+  - first:
+      213: 21300092
+    second: JungleLevel_46
+  - first:
+      213: 21300094
+    second: JungleLevel_47
+  - first:
+      213: 21300096
+    second: JungleLevel_48
+  - first:
+      213: 21300098
+    second: JungleLevel_49
+  - first:
+      213: 21300100
+    second: JungleLevel_50
+  - first:
+      213: 21300102
+    second: JungleLevel_51
+  - first:
+      213: 21300104
+    second: JungleLevel_52
+  - first:
+      213: 21300106
+    second: JungleLevel_53
+  - first:
+      213: 21300108
+    second: JungleLevel_54
+  - first:
+      213: 21300110
+    second: JungleLevel_55
+  - first:
+      213: 21300112
+    second: JungleLevel_56
+  - first:
+      213: 21300114
+    second: JungleLevel_57
+  - first:
+      213: 21300116
+    second: JungleLevel_58
+  - first:
+      213: 21300118
+    second: JungleLevel_59
+  - first:
+      213: 21300120
+    second: JungleLevel_60
+  - first:
+      213: 21300122
+    second: JungleLevel_61
+  - first:
+      213: 21300124
+    second: JungleLevel_62
+  - first:
+      213: 21300126
+    second: JungleLevel_63
+  - first:
+      213: 21300128
+    second: JungleLevel_64
+  - first:
+      213: 21300130
+    second: JungleLevel_65
+  - first:
+      213: 21300132
+    second: JungleLevel_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JungleLevel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1120
+        width: 241
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6442a81d678351d45a327ae2863603f7
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1109
+        width: 306
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3797d086888485489bc5b5c94c38cc7
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_2
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1278
+        width: 217
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce725c92f1d1ccc4f894098e4e8fc0d7
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_3
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1403
+        width: 219
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cacab0c0bbfb434a907d2aaff418381
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_4
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1468
+        width: 127
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6cc18e92f21144c99724085183c1e6
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_5
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 1468
+        width: 127
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bdbf1abb5b03d42abf8e31734b3c16
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_6
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1257
+        width: 227
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b90a8f366562084b87d9ee6dd68d882
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_7
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1392
+        width: 93
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc064b9e6455544b95e6a2ac1d24223
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_8
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1307
+        width: 85
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533356634efb65b449f4c70016cf3ff9
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_9
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1282
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e16772eb94d594aae9cafdfafb8141
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_10
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1318
+        width: 93
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b1abbfdf8a3ef46a2131e4d9763421
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_11
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1188
+        width: 176
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d024eeb83d2ce6458480e9fe45d4b59
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_12
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1092
+        width: 77
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c2d8efc3b287746a7d779d8d29f2ea
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_13
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 1271
+        width: 74
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b72083aaf32224f919f7f07e976d7b
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_14
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1220
+        width: 82
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ea6bdf85a197b44b79b62546040425
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_15
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1183
+        width: 57
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61856b7f2c2f7d4da59b1047631eb7e
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_16
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1120
+        width: 215
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15ac41db6449da4e821351baff66bf8
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_17
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1099
+        width: 272
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097b96e006f59be40951d32ad0f6d88b
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_18
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1109
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e24c95c9c2a1047a54abfdf77ff426
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_19
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1095
+        width: 52
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a596bca73b67ace418c308103accbbf3
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_20
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1120
+        width: 98
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5402dbe88635e3a4d81467a1bf537803
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 854
+        width: 248
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eae26aa1b0e8642a84c11e8ffd640a
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_22
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1043
+        width: 203
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fc0227bce8f3147ab08f0700b688bf
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_23
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 1044
+        width: 138
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6efa39f124eded43b5b97d47145370d
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_24
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1037
+        width: 103
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb44ec48514f29646bf0fa2104dcb2fc
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_25
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 857
+        width: 105
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebadc5963f209e244b87f29399398175
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_26
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 850
+        width: 109
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9c1f1c83b4e8544a09b5f280c1deb3
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_27
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 852
+        width: 241
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f4a889248bfaa4696b65a26548b672
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_28
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 850
+        width: 248
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7889b1fb631584b8c9ecc6d4b61523
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_29
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 895
+        width: 230
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ce37024ba10c4439af1a833ad342ae
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 692
+        width: 259
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574c72215cd523644b14f302afc996e7
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 690
+        width: 282
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc226ff8d90d45459898b8fcfca703e
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_32
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 608
+        width: 146
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533ae830958cf0144b62c74c5be5f4b2
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_33
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 713
+        width: 92
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f545d1776276641bd41ab8722cb082
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_34
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 815
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902749caf7bbf554195e823b19c8c2b5
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_35
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 690
+        width: 185
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79662b7f0b070984d82bd8aa5e9793a9
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_36
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 689
+        width: 130
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c02b07b9dd1d649a01725f662feebd
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_37
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 719
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86ba024cd4535b4f9afa54971108d12
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_38
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 718
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edf2d80095bf05479d9c8fb5aee7078
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_39
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 718
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b0ff3a48676f74b99fef6defbd32bf
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_40
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 713
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799c12eeda6108b47bd01fb9122aee57
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 593
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1801da290b1cf2b4e8821435a9613823
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_42
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 593
+        width: 138
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f070d2cb110834180d37d850125c5b
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_43
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 503
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a589a5558e6d047bcccd14ce0c8cde
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_44
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 484
+        width: 525
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ac314141c42ce418a921ca1665237a
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_45
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 616
+        width: 406
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83af0022808121d488b0e1b92a0af11e
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 138
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4452a87cae0da6342915565b135885c6
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_47
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 490
+        width: 134
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c025ef652a3a04995d28f67bdd10fe
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_48
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 415
+        width: 102
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7beba20df5ae65f40ac0b936f0040292
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_49
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 413
+        width: 162
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81e5d6d8ba6b804ab8d9b95c44fe79e
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_50
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 0
+        width: 167
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1994ac042ce4b4d8aaf4c25386c513
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 398
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a62c1f6ba93f542a0d92d079bfd4ae
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_52
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 300
+        width: 97
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8c81597ff0029409efdfd00fffc3be
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_53
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 260
+        width: 63
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0343db59ca96ca4fb68422fb70d1544
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_54
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 220
+        width: 143
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f253e6477965c419a1e0db8de4f01b
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_55
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 332
+        width: 92
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c77e977703dd24891dd7ed7f0f6ec7
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_56
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 0
+        width: 177
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac1b00e79e227e4bb71f936fd5f10fa
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_57
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 16
+        width: 113
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c525edfc1d208c342b954c9bc8019d9d
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_58
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 30
+        width: 58
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f8be8f2bdb8b24ba12c3b52719a78e
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_59
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 161
+        width: 32
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357cc1137183dac429a5a01bb409042c
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_60
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 278
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2994fe3a9cb7b2b43a90e9ec72a259e8
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_61
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 230
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02e314feee708b4995dd60ce7441959
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_62
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 0
+        width: 125
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa50a0ab935076746b26f7c8f84fcd89
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_63
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 4
+        width: 447
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2dd3a4e308d1754dabdc63cd8895e15
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_64
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1383
+        width: 304
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae436a19b2b8024b9fc0341e80ba242
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_65
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1308
+        width: 81
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781c4afbb4e338e4d869db4432c7f7fb
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JungleLevel_66
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 822
+        width: 75
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47bd69598d6c5149b3024d5351ac35d
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9507bcd9be7c6a34c8fc1c6b9a6ab0c0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      JungleLevel_0: 21300000
+      JungleLevel_1: 21300002
+      JungleLevel_10: 21300020
+      JungleLevel_11: 21300022
+      JungleLevel_12: 21300024
+      JungleLevel_13: 21300026
+      JungleLevel_14: 21300028
+      JungleLevel_15: 21300030
+      JungleLevel_16: 21300032
+      JungleLevel_17: 21300034
+      JungleLevel_18: 21300036
+      JungleLevel_19: 21300038
+      JungleLevel_2: 21300004
+      JungleLevel_20: 21300040
+      JungleLevel_21: 21300042
+      JungleLevel_22: 21300044
+      JungleLevel_23: 21300046
+      JungleLevel_24: 21300048
+      JungleLevel_25: 21300050
+      JungleLevel_26: 21300052
+      JungleLevel_27: 21300054
+      JungleLevel_28: 21300056
+      JungleLevel_29: 21300058
+      JungleLevel_3: 21300006
+      JungleLevel_30: 21300060
+      JungleLevel_31: 21300062
+      JungleLevel_32: 21300064
+      JungleLevel_33: 21300066
+      JungleLevel_34: 21300068
+      JungleLevel_35: 21300070
+      JungleLevel_36: 21300072
+      JungleLevel_37: 21300074
+      JungleLevel_38: 21300076
+      JungleLevel_39: 21300078
+      JungleLevel_4: 21300008
+      JungleLevel_40: 21300080
+      JungleLevel_41: 21300082
+      JungleLevel_42: 21300084
+      JungleLevel_43: 21300086
+      JungleLevel_44: 21300088
+      JungleLevel_45: 21300090
+      JungleLevel_46: 21300092
+      JungleLevel_47: 21300094
+      JungleLevel_48: 21300096
+      JungleLevel_49: 21300098
+      JungleLevel_5: 21300010
+      JungleLevel_50: 21300100
+      JungleLevel_51: 21300102
+      JungleLevel_52: 21300104
+      JungleLevel_53: 21300106
+      JungleLevel_54: 21300108
+      JungleLevel_55: 21300110
+      JungleLevel_56: 21300112
+      JungleLevel_57: 21300114
+      JungleLevel_58: 21300116
+      JungleLevel_59: 21300118
+      JungleLevel_6: 21300012
+      JungleLevel_60: 21300120
+      JungleLevel_61: 21300122
+      JungleLevel_62: 21300124
+      JungleLevel_63: 21300126
+      JungleLevel_64: 21300128
+      JungleLevel_65: 21300130
+      JungleLevel_66: 21300132
+      JungleLevel_7: 21300014
+      JungleLevel_8: 21300016
+      JungleLevel_9: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

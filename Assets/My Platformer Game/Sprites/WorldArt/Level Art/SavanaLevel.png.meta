@@ -1,0 +1,1224 @@
+fileFormatVersion: 2
+guid: b4ed27c4bfd454a4f97953cdf59fec19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SavanaLevel_0
+  - first:
+      213: 21300002
+    second: SavanaLevel_1
+  - first:
+      213: 21300004
+    second: SavanaLevel_2
+  - first:
+      213: 21300006
+    second: SavanaLevel_3
+  - first:
+      213: 21300008
+    second: SavanaLevel_4
+  - first:
+      213: 21300010
+    second: SavanaLevel_5
+  - first:
+      213: 21300012
+    second: SavanaLevel_6
+  - first:
+      213: 21300014
+    second: SavanaLevel_7
+  - first:
+      213: 21300016
+    second: SavanaLevel_8
+  - first:
+      213: 21300018
+    second: SavanaLevel_9
+  - first:
+      213: 21300020
+    second: SavanaLevel_10
+  - first:
+      213: 21300022
+    second: SavanaLevel_11
+  - first:
+      213: 21300024
+    second: SavanaLevel_12
+  - first:
+      213: 21300026
+    second: SavanaLevel_13
+  - first:
+      213: 21300028
+    second: SavanaLevel_14
+  - first:
+      213: 21300030
+    second: SavanaLevel_15
+  - first:
+      213: 21300032
+    second: SavanaLevel_16
+  - first:
+      213: 21300034
+    second: SavanaLevel_17
+  - first:
+      213: 21300036
+    second: SavanaLevel_18
+  - first:
+      213: 21300038
+    second: SavanaLevel_19
+  - first:
+      213: 21300040
+    second: SavanaLevel_20
+  - first:
+      213: 21300042
+    second: SavanaLevel_21
+  - first:
+      213: 21300044
+    second: SavanaLevel_22
+  - first:
+      213: 21300046
+    second: SavanaLevel_23
+  - first:
+      213: 21300048
+    second: SavanaLevel_24
+  - first:
+      213: 21300050
+    second: SavanaLevel_25
+  - first:
+      213: 21300052
+    second: SavanaLevel_26
+  - first:
+      213: 21300054
+    second: SavanaLevel_27
+  - first:
+      213: 21300056
+    second: SavanaLevel_28
+  - first:
+      213: 21300058
+    second: SavanaLevel_29
+  - first:
+      213: 21300060
+    second: SavanaLevel_30
+  - first:
+      213: 21300062
+    second: SavanaLevel_31
+  - first:
+      213: 21300064
+    second: SavanaLevel_32
+  - first:
+      213: 21300066
+    second: SavanaLevel_33
+  - first:
+      213: 21300068
+    second: SavanaLevel_34
+  - first:
+      213: 21300070
+    second: SavanaLevel_35
+  - first:
+      213: 21300072
+    second: SavanaLevel_36
+  - first:
+      213: 21300074
+    second: SavanaLevel_37
+  - first:
+      213: 21300076
+    second: SavanaLevel_38
+  - first:
+      213: 21300078
+    second: SavanaLevel_39
+  - first:
+      213: 21300080
+    second: SavanaLevel_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SavanaLevel_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1000
+        width: 566
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcceb64dab49c7c4bb26d9ad8b8ca48e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_1
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1006
+        width: 675
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d25811438023f49bcb7a395a0715be
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_2
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1403
+        width: 220
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32a46aa7e0bbcd438a63999a2052ada
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_3
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1257
+        width: 225
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fcaf627a7223242ab71ce4e4d993be
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_4
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1050
+        width: 231
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108e9299c32ccbe4cb3662f5cc5ecd13
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 854
+        width: 246
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61602d0bd13377a41ad59c13eace3c89
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 851
+        width: 105
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21abfe7f55587314a845c54185baf4f1
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 838
+        width: 106
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ddc3a297060134e9ecaa57d34d6b7e
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_8
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 852
+        width: 241
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92e8a03381dc104aaac743b0ae937f1
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_9
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 850
+        width: 246
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2728975c0e18e814181d31bea5c3d132
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_10
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 893
+        width: 260
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb955ac0406595349b9a17cd2fdeabb7
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_11
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 816
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4a027af3d2c55478114edfeb18fcb1
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 692
+        width: 249
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292c9f3d9d724a94caaf260f1d3cc159
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 684
+        width: 284
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17339da61dd57ff4f86935eef5669704
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_14
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 690
+        width: 205
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a179e038ad7b184f92a89e91bbab7e8
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_15
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 608
+        width: 146
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decdac7f0f9d1114c9d8df04e9aef7dd
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_16
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 719
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b53a9f487cdf44eaea016be3435aff
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_17
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 569
+        width: 270
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319c87e084d43bf4196836277ace6873
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 485
+        width: 136
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c7194ee73491743b41e97594c82067
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 594
+        width: 139
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66aef9f1c6106946a38ff27ad4c0b48
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_20
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 489
+        width: 160
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04630416c72d95b42aa8485854b02918
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_21
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 491
+        width: 429
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc1635ed9e066b47a30937e4aacf6f7
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_22
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 488
+        width: 32
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b80c890f80f0194487b07ab966f2dcd
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_23
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 491
+        width: 133
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cba495893465947836d32f0211350e
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_24
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 487
+        width: 108
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bb6b7f3bb1c4442be908074486c0af
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_25
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 415
+        width: 102
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d02745dccabb846809b4bca9cb9422
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 390
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4839394378c1273419cb84f7eaf4e7ad
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 250
+        width: 167
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87415a16c6cc4274a92064cdbf6b0ebf
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_28
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 226
+        width: 143
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5f01a86ac0c7946824d0e6ad3f5121
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_29
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 332
+        width: 92
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8ac121650ce1b409045043a1420fe5
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_30
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 5
+        width: 169
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82230e3bdee379b4a87d5ab27af59146
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_31
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 16
+        width: 113
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c3c6dfd30a97b48bfbb80f1e157d47
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_32
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 323
+        width: 42
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9444a72bc3a06ed43b2b4e1cc7965797
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_33
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 262
+        width: 265
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06c3b694823e034aba7b4e9f8af59ff
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_34
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 2
+        width: 436
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24fd3b0e45a9ef4ea74fbe3d69ef708
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_35
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 2
+        width: 256
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6113090f9161c54285c0ee9707a97b9
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f3f64ecf16dd74aa7c7354ad1555fa
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_37
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 720
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bea6bd1cd17734caf0cb92ce8de1e3
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_38
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 719
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5db6ec65305764498ad63fd661ddae8
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_39
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 714
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982d279760dbf2c40b9195648b342837
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SavanaLevel_40
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 821
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef4d0d376553ef4abbe81cb9ac75221
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1cfc1e41142486d4890c14be61a0d65c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SavanaLevel_0: 21300000
+      SavanaLevel_1: 21300002
+      SavanaLevel_10: 21300020
+      SavanaLevel_11: 21300022
+      SavanaLevel_12: 21300024
+      SavanaLevel_13: 21300026
+      SavanaLevel_14: 21300028
+      SavanaLevel_15: 21300030
+      SavanaLevel_16: 21300032
+      SavanaLevel_17: 21300034
+      SavanaLevel_18: 21300036
+      SavanaLevel_19: 21300038
+      SavanaLevel_2: 21300004
+      SavanaLevel_20: 21300040
+      SavanaLevel_21: 21300042
+      SavanaLevel_22: 21300044
+      SavanaLevel_23: 21300046
+      SavanaLevel_24: 21300048
+      SavanaLevel_25: 21300050
+      SavanaLevel_26: 21300052
+      SavanaLevel_27: 21300054
+      SavanaLevel_28: 21300056
+      SavanaLevel_29: 21300058
+      SavanaLevel_3: 21300006
+      SavanaLevel_30: 21300060
+      SavanaLevel_31: 21300062
+      SavanaLevel_32: 21300064
+      SavanaLevel_33: 21300066
+      SavanaLevel_34: 21300068
+      SavanaLevel_35: 21300070
+      SavanaLevel_36: 21300072
+      SavanaLevel_37: 21300074
+      SavanaLevel_38: 21300076
+      SavanaLevel_39: 21300078
+      SavanaLevel_4: 21300008
+      SavanaLevel_40: 21300080
+      SavanaLevel_5: 21300010
+      SavanaLevel_6: 21300012
+      SavanaLevel_7: 21300014
+      SavanaLevel_8: 21300016
+      SavanaLevel_9: 21300018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: f15dbb978be664645acde22a3ec0a97b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: monkey6_head
+  - first:
+      213: 21300002
+    second: monkey6_RightHand
+  - first:
+      213: 21300004
+    second: monkey6_RightArmBottom
+  - first:
+      213: 21300006
+    second: monkey6_RightArmTop
+  - first:
+      213: 21300008
+    second: monkey6_BodyTop
+  - first:
+      213: 21300010
+    second: monkey6_Tail
+  - first:
+      213: 21300012
+    second: monkey6_LeftArmBottom
+  - first:
+      213: 21300014
+    second: monkey6_BodyBottom
+  - first:
+      213: 21300016
+    second: monkey6_RightLeg
+  - first:
+      213: 21300018
+    second: monkey6_LeftLeg
+  - first:
+      213: 21300020
+    second: monkey6_LeftArmTop
+  - first:
+      213: 21300022
+    second: monkey6_RightFoot
+  - first:
+      213: 21300024
+    second: monkey6_LeftFoot
+  - first:
+      213: 21300026
+    second: monkey6_LeftHand
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monkey6_head
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 454
+        height: 480
+      alignment: 9
+      pivot: {x: 0.5916886, y: 0.01468366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2087d9ebca61bf943a552fc2a94267ca
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey6_RightHand
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 879
+        width: 138
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5796597, y: 0.8738435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa75178cf37ed1459ac1f0ad1b8ff78
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey6_RightArmBottom
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 801
+        width: 128
+        height: 216
+      alignment: 9
+      pivot: {x: 0.7037883, y: 0.8847916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be4733401b2898438ab181622aff846
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey6_RightArmTop
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 595
+        width: 167
+        height: 188
+      alignment: 9
+      pivot: {x: 0.86204594, y: 0.8800776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e676c2be9ee380488fb178a54db66ee
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey6_BodyTop
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 212
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663561cdba24cf44898bca0978b3a71d
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey6_Tail
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 281
+        width: 331
+        height: 234
+      alignment: 9
+      pivot: {x: 0.95250726, y: 0.08893631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a8d05032b81734b8b22a538ccbce79
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey6_LeftArmBottom
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 409
+        width: 174
+        height: 172
+      alignment: 9
+      pivot: {x: 0.16831392, y: 0.85152096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36c4c78196785346a5b43d940eb5c86
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey6_BodyBottom
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 241
+        height: 226
+      alignment: 9
+      pivot: {x: 0.47149113, y: 0.7736096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196e272422ed2aa4aa00b2dce423cb4a
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey6_RightLeg
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 103
+        width: 112
+        height: 156
+      alignment: 9
+      pivot: {x: 0.4631928, y: 0.8523403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02dcc007e86b48c46b323d2b6160a914
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey6_LeftLeg
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 111
+        width: 100
+        height: 140
+      alignment: 9
+      pivot: {x: 0.25265685, y: 0.8631621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3c3e8534d9210438d1d52b1b370e4f
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey6_LeftArmTop
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 195
+        width: 92
+        height: 199
+      alignment: 9
+      pivot: {x: 0.23114942, y: 0.8728788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e69076c7fe87d40876291ac7d395c2
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey6_RightFoot
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 5
+        width: 147
+        height: 90
+      alignment: 9
+      pivot: {x: 0.3504348, y: 0.82062954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74ea6702b8642c48afb2bf468cfcbd7
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey6_LeftFoot
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 5
+        width: 146
+        height: 84
+      alignment: 9
+      pivot: {x: 0.27411598, y: 0.7944553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e88f01782d69954fb2ac33b21e8a48c
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: monkey6_LeftHand
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 33
+        width: 125
+        height: 136
+      alignment: 9
+      pivot: {x: 0.18120264, y: 0.7728045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd80224c4762c134a90ef765bc494853
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a959b00bc93aa294db81520ae6c16a37
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      monkey6_BodyBottom: 21300014
+      monkey6_BodyTop: 21300008
+      monkey6_LeftArmBottom: 21300012
+      monkey6_LeftArmTop: 21300020
+      monkey6_LeftFoot: 21300024
+      monkey6_LeftHand: 21300026
+      monkey6_LeftLeg: 21300018
+      monkey6_RightArmBottom: 21300004
+      monkey6_RightArmTop: 21300006
+      monkey6_RightFoot: 21300022
+      monkey6_RightHand: 21300002
+      monkey6_RightLeg: 21300016
+      monkey6_Tail: 21300010
+      monkey6_head: 21300000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

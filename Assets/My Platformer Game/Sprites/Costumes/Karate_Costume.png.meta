@@ -1,0 +1,392 @@
+fileFormatVersion: 2
+guid: 111c25afb8619f346886813563d8830c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4783523046044643112
+    second: Karate_Costume_0
+  - first:
+      213: -1749933897540908628
+    second: Karate_Costume_1
+  - first:
+      213: 4621784176131687810
+    second: Karate_Costume_2
+  - first:
+      213: -1938960902891924287
+    second: Karate_Costume_3
+  - first:
+      213: 279998228078058286
+    second: Karate_Costume_4
+  - first:
+      213: -2797387225277472646
+    second: Karate_Costume_5
+  - first:
+      213: 7013843079155395038
+    second: Karate_Costume_6
+  - first:
+      213: -5823862149302474667
+    second: Karate_Costume_7
+  - first:
+      213: -8628086942317247320
+    second: Karate_Costume_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Karate_Costume_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 352
+        width: 287
+        height: 270
+      alignment: 9
+      pivot: {x: 0.54999995, y: 0.46000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861663b32bf438945bf71a7d62738ca4
+      internalID: 4783523046044643112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karate_Costume_1
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 495
+        width: 167
+        height: 127
+      alignment: 9
+      pivot: {x: 0.52, y: 0.20000021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e284cc596b7f77f458449910df9d839b
+      internalID: -1749933897540908628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karate_Costume_2
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 482
+        width: 133
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3613029f1e4f6e84db5dd303f71d97ff
+      internalID: 4621784176131687810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karate_Costume_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 283
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5899999, y: 0.120000176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a977b11325962e4c8476db382aed914
+      internalID: -1938960902891924287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karate_Costume_4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 222
+        width: 161
+        height: 187
+      alignment: 9
+      pivot: {x: 0.49, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701e97973e969aa40a99637fa9069fed
+      internalID: 279998228078058286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karate_Costume_5
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 235
+        width: 134
+        height: 174
+      alignment: 9
+      pivot: {x: 0.47000003, y: 0.3800001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16a152ece78c9546982f0e423165ab9
+      internalID: -2797387225277472646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karate_Costume_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 296
+        height: 171
+      alignment: 9
+      pivot: {x: 0.5999999, y: 0.36000013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbecd2ed46d2ea4eb1d98fffffc2611
+      internalID: 7013843079155395038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karate_Costume_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 35
+        width: 188
+        height: 94
+      alignment: 9
+      pivot: {x: 0.36000013, y: 0.31000018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd6ccd636fb23d42b8777d614a6b54b
+      internalID: -5823862149302474667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karate_Costume_8
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 44
+        width: 184
+        height: 86
+      alignment: 9
+      pivot: {x: 0.4100001, y: 0.42000008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060f46ecf0bf90b468fbc68399cac827
+      internalID: -8628086942317247320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 69a9d7bc3318bc146a255bcc02178e5b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Karate_Costume_0: 4783523046044643112
+      Karate_Costume_1: -1749933897540908628
+      Karate_Costume_2: 4621784176131687810
+      Karate_Costume_3: -1938960902891924287
+      Karate_Costume_4: 279998228078058286
+      Karate_Costume_5: -2797387225277472646
+      Karate_Costume_6: 7013843079155395038
+      Karate_Costume_7: -5823862149302474667
+      Karate_Costume_8: -8628086942317247320
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
