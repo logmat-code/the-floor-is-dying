@@ -24,10 +24,10 @@ MonoBehaviour:
       weaponId: -1
     defaultInventoryItems: []
     defaultEquippedItems: []
-    name: DEFAULT
+    name: Red Hood
     characterObj: {fileID: 2636561543371000599, guid: 1bac54d81d19145578ad9945545a553d, type: 3}
     icon: {fileID: -1123692568458398881, guid: 6bb2975f847134459bf5e9520b0eca69, type: 3}
-    defaultHealth: 5
+    defaultHealth: 10
     defaultLives: 3
     defaultMaxLives: 5
     immunityTime: 0.5
@@ -36,12 +36,29 @@ MonoBehaviour:
       rid: -2
     <Block_ImmunityTime>k__BackingField:
       rid: -2
+  - defaultEquippedWeapon:
+      startWithWeaponTheFirstTime: 0
+      weaponId: -1
+    defaultInventoryItems: []
+    defaultEquippedItems: []
+    name: Character Name
+    characterObj: {fileID: 0}
+    icon: {fileID: 0}
+    defaultHealth: 5
+    defaultLives: 3
+    defaultMaxLives: 5
+    immunityTime: 1
+    startUnlocked: 1
+    <Block_DefaultHealth>k__BackingField:
+      rid: -2
+    <Block_ImmunityTime>k__BackingField:
+      rid: -2
   livesInfo:
-    resetLivesWhenLevelStarts: 0
-    lives: 1
+    resetLivesWhenLevelStarts: 1
+    lives: 3
     <Block_CurrentLives>k__BackingField:
       rid: -2
-    maxLives: 1
+    maxLives: 3
     <Block_MaxLivesLimit>k__BackingField:
       rid: -2
     canObtainLivesPerTime: 0
@@ -59,7 +76,11 @@ MonoBehaviour:
     showGameOverWindowOnDie: 1
     deleteAllLevelsClearedOnDie: 0
     deleteAllLevelsClearedOfCurrentWorldOnDie: 0
-  defaultInventoryItemsForAll: []
+  defaultInventoryItemsForAll:
+  - itemType: 1
+    categoryId: 0
+    itemId: 3
+    quantity: 1
   references:
     version: 2
     RefIds:

@@ -13,6 +13,8 @@ GameObject:
   - component: {fileID: 8547722952152445223}
   - component: {fileID: 3283324365523910114}
   - component: {fileID: 5989769977005065602}
+  - component: {fileID: 7741385676143731198}
+  - component: {fileID: 431597121008750106}
   m_Layer: 0
   m_Name: DIAMOND
   m_TagString: Untagged
@@ -150,7 +152,7 @@ MonoBehaviour:
   scoresToChange:
   - action: 0
     scoreIndex: 0
-    valueToIncrease: 15
+    valueToIncrease: 10
     isDuplicable: 0
   - action: 0
     scoreIndex: 1
@@ -182,3 +184,47 @@ MonoBehaviour:
   requiredInput: 0
   destroyWhenGetting: 0
   delayToDestroy: 0
+--- !u!95 &7741385676143731198
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9208087562147895779}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e0f2ed311df8841968992ccd3da8b5f9, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &431597121008750106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9208087562147895779}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e9b40629978bbc45857fc389bd574d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::UGSSpace.PlaySound
+  howToPlay: 0
+  requiredTags:
+  - tagName: Player
+    itNeedsToBeRidingAMount: 0
+  inputRequired: 0
+  inputControlAction: 0
+  _audioSource: {fileID: 0}
+  _audioSourceName: AudioSourcesItems
+  playOnlyOnce: 1
+  audioClip: {fileID: 8300000, guid: 84a49a1b3a5c143439ac0cce74f1894a, type: 3}

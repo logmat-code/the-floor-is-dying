@@ -1,0 +1,517 @@
+fileFormatVersion: 2
+guid: 3dbe167f711f34b5ab25590a2b633410
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2104423480704663381
+    second: CRAWLER ROBOTfinal_0
+  - first:
+      213: -4088119841574868173
+    second: CRAWLER ROBOTfinal_1
+  - first:
+      213: -8669054602163945475
+    second: CRAWLER ROBOTfinal_2
+  - first:
+      213: 7062265614959104104
+    second: CRAWLER ROBOTfinal_3
+  - first:
+      213: -2682200331372453224
+    second: CRAWLER ROBOTfinal_4
+  - first:
+      213: -7763635374324239670
+    second: CRAWLER ROBOTfinal_5
+  - first:
+      213: -4430181638044526054
+    second: CRAWLER ROBOTfinal_6
+  - first:
+      213: -5181298760307838446
+    second: CRAWLER ROBOTfinal_7
+  - first:
+      213: -1660307037293026049
+    second: CRAWLER ROBOTfinal_8
+  - first:
+      213: 5569254718372703701
+    second: CRAWLER ROBOTfinal_9
+  - first:
+      213: -250417016466357276
+    second: CRAWLER ROBOTfinal_10
+  - first:
+      213: -1853281202070262044
+    second: CRAWLER ROBOTfinal_11
+  - first:
+      213: 8271638691017965925
+    second: CRAWLER ROBOTfinal_12
+  - first:
+      213: -6110240921964333270
+    second: CRAWLER ROBOTfinal_13
+  - first:
+      213: 7051775449703246337
+    second: CRAWLER ROBOTfinal_14
+  - first:
+      213: 368539550777724172
+    second: CRAWLER ROBOTfinal_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BODY
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 663
+        width: 518
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dff7d8b15c451b780800000000000000
+      internalID: -8669054602163945475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HEAD
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 664
+        width: 228
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860d719c825320260800000000000000
+      internalID: 7062265614959104104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEG1 TOP
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 430
+        width: 242
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8922c107209e6cad0800000000000000
+      internalID: -2682200331372453224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEG1 BOTTOM
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 204
+        width: 170
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac23fb3b2c6024490800000000000000
+      internalID: -7763635374324239670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEG2 TOP
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 431
+        width: 245
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ad5e5b545d482c0800000000000000
+      internalID: -4430181638044526054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEG2 BOTTOM
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 191
+        width: 233
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212fdacaa345818b0800000000000000
+      internalID: -5181298760307838446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEG3 TOP
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 433
+        width: 360
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff46118db8765f8e0800000000000000
+      internalID: -1660307037293026049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEG3 BOTTOM
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 203
+        width: 152
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dde540c8a7f94d40800000000000000
+      internalID: 5569254718372703701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEG4 TOP
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 427
+        width: 242
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e34fcfdc07568cf0800000000000000
+      internalID: -250417016466357276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LEG4 BOTTOM
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 203
+        width: 156
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee61b9d092d746e0800000000000000
+      internalID: -1853281202070262044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLAW 1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 29
+        width: 336
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561c0808093cac270800000000000000
+      internalID: 8271638691017965925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLAW 2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 25
+        width: 289
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27b2424140143ba0800000000000000
+      internalID: -6110240921964333270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLAW 3
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 25
+        width: 317
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ae16bd860fcd160800000000000000
+      internalID: 7051775449703246337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CLAW 4
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 26
+        width: 229
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dc9c1d4c05d1500800000000000000
+      internalID: 368539550777724172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e43a216c5a0244dc09a82090155f7db8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BODY: -8669054602163945475
+      CLAW 1: 8271638691017965925
+      CLAW 2: -6110240921964333270
+      CLAW 3: 7051775449703246337
+      CLAW 4: 368539550777724172
+      CRAWLER ROBOTfinal_0: 2104423480704663381
+      CRAWLER ROBOTfinal_1: -4088119841574868173
+      HEAD: 7062265614959104104
+      LEG1 BOTTOM: -7763635374324239670
+      LEG1 TOP: -2682200331372453224
+      LEG2 BOTTOM: -5181298760307838446
+      LEG2 TOP: -4430181638044526054
+      LEG3 BOTTOM: 5569254718372703701
+      LEG3 TOP: -1660307037293026049
+      LEG4 BOTTOM: -1853281202070262044
+      LEG4 TOP: -250417016466357276
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

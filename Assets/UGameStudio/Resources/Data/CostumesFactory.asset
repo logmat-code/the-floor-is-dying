@@ -34,7 +34,7 @@ MonoBehaviour:
     version: 2
     RefIds:
     - rid: 8440012969946120192
-      type: {class: TaskFunction, ns: UGSSpace, asm: Assembly-CSharp}
+      type: {class: TaskFunction, ns: UGSSpace, asm: UGS_T}
       data:
         Arguments: []
         m_FunctionID: 0

@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 5679412928573167047}
   - component: {fileID: 8744095802262431512}
   - component: {fileID: 818700749075186751}
+  - component: {fileID: 2347516939344986618}
   m_Layer: 0
   m_Name: COINS (31)
   m_TagString: Untagged
@@ -130,8 +131,8 @@ CircleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: -0.3360734, y: 0.4349184}
-  m_Radius: 5.0490084
+  m_Offset: {x: -0.069183335, y: 0.10032468}
+  m_Radius: 0.9051949
 --- !u!114 &5679412928573167047
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -172,7 +173,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3317589814891362193}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 1132627bbefec4c698a38fcc3ddba6db, type: 2}
   m_CullingMode: 0
@@ -206,3 +207,25 @@ MonoBehaviour:
   reportType: 01000000i
   animatorStatesWithInput: []
   currentAnimator: {fileID: 8744095802262431512}
+--- !u!114 &2347516939344986618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3317589814891362193}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e9b40629978bbc45857fc389bd574d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::UGSSpace.PlaySound
+  howToPlay: 0
+  requiredTags:
+  - tagName: Player
+    itNeedsToBeRidingAMount: 0
+  inputRequired: 0
+  inputControlAction: 0
+  _audioSource: {fileID: 0}
+  _audioSourceName: AudioSourcesItems
+  playOnlyOnce: 1
+  audioClip: {fileID: 8300000, guid: 2e19d0c36135b4a50bfedacfac206233, type: 3}

@@ -1,5 +1,36 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1093280902792464314
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8025878748609389629}
+  m_Layer: 3
+  m_Name: WEAPON POSITION
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8025878748609389629
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1093280902792464314}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.005374995, y: 0.0068763085, z: -0.61582696, w: 0.78783315}
+  m_LocalPosition: {x: 0.4, y: -1.06, z: 0.31000018}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5602793270646821658}
+  m_LocalEulerAnglesHint: {x: 0.971, y: 0.242, z: -76.025}
 --- !u!1 &1765169787624184959
 GameObject:
   m_ObjectHideFlags: 0
@@ -10,7 +41,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1796244749481299438}
   - component: {fileID: 5747929154545088063}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LEFT LEG BOTTOM
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -103,7 +134,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7249937754579916334}
   - component: {fileID: 5309881893220853883}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: RIGHT ARM TOP
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -198,13 +229,15 @@ GameObject:
   - component: {fileID: 8855314711263581367}
   - component: {fileID: 5670655231999253565}
   - component: {fileID: 4797838351277449670}
-  - component: {fileID: 2772323182662763193}
   - component: {fileID: 6037473024364132281}
   - component: {fileID: 1702459950308163774}
   - component: {fileID: 314965418535090846}
   - component: {fileID: 9004208994013816294}
   - component: {fileID: 5908522542664684660}
-  m_Layer: 0
+  - component: {fileID: 5232557968811103028}
+  - component: {fileID: 2289875181776071863}
+  - component: {fileID: 3987443002435632307}
+  m_Layer: 3
   m_Name: Character1
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -313,18 +346,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!114 &2772323182662763193
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2636561543371000599}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: -241328773, guid: f339e6cedf5c476aaca87534e1e3450e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: UGS_T.dll::UGSSpace.UGS_PlayerHealthManager
 --- !u!114 &6037473024364132281
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -400,7 +421,7 @@ MonoBehaviour:
     m_Bits: 256
   groundChecker: {fileID: 1978877521475892799}
   radiusOfGroundChecker: 0.2
-  jumpForce: 10
+  jumpForce: 12
   <Block_JumpForce>k__BackingField:
     rid: -2
   inputControl: 2
@@ -489,6 +510,14 @@ MonoBehaviour:
     selectedCategoryOfAttack: 0
     categoryOfWeaponSelected: 0
     parameterNames: IsInInmunityTime
+  - playerState: 32
+    selectedCategoryOfAttack: 2
+    categoryOfWeaponSelected: 0
+    parameterNames: Attack
+  - playerState: 32
+    selectedCategoryOfAttack: 9
+    categoryOfWeaponSelected: 0
+    parameterNames: Shoots
   animatorStatesWithInput: []
   currentAnimator: {fileID: 314965418535090846}
 --- !u!114 &5908522542664684660
@@ -519,6 +548,261 @@ MonoBehaviour:
     positionToInstantiate: {fileID: 0}
     objectBeingHandleByAnotherCondition: 0
     timeToKeepEnable: 0.1
+--- !u!114 &5232557968811103028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2636561543371000599}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4813668544023aa47bb2791499469ff1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::UGSSpace.IgnoreCollisions
+  ignoreTriggersToo: 0
+  ignoreTag: 1
+  tagsToIgnore:
+  - Enemy
+  ignoreLayer: 0
+  layersToIgnore: 
+--- !u!114 &2289875181776071863
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2636561543371000599}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97548fb1feb16c34fae743b7aa0499b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::UGSSpace.UseWeapon
+  changeDirectionHorizontally: 1
+  rotateToMousePosition: 0
+  rotateTowardsTarget: 0
+  copyRotationOfWeaponPositionFor: 0
+  howToActivateTheShot_ForPlayerAndMount: 0
+  howToActivateTheShot_ForEnemy: 0
+  usedBy: 0
+  weaponPosition: {fileID: 8025878748609389629}
+  weaponToUse: 0
+  weaponID: 5
+  targetDetector: {fileID: 0}
+  enableToChangeWeaponWithInput: 1
+  inputToChangeWeapon: 4
+  enablePlayerStatesExceptions: 0
+  playerStatesExceptions:
+  - playerState: 30
+    playWhenItIs: 1
+    numericCondition: 2
+    attackCategory: 0
+    floatValueCondition: 0
+    intValueCondition: 0
+    playWhenItIs_Enum: 0
+  enableEnemyStatesExceptions: 1
+  enemyStatesExceptions:
+  - enemyState: 3
+    playWhenItIs: 1
+    numericCondition: 2
+    floatValueCondition: 0
+    attackCategory: 0
+    intValueCondition: 0
+    playWhenItIs_Enum: 0
+  cancelAttackWhenDamaged: 1
+  enemyStates: {fileID: 0}
+  thisPlayer: {fileID: 0}
+  instantiatedWeapon: {fileID: 0}
+  instantiateWeaponWithNegativeScale: 0
+  destroyPoolWhenObjectIsDestroyed: 1
+  delayToDestroyPool: 15
+  _howShowDelay: 0
+  _showWeaponDelay: 0
+  _textMeshPro: 0
+  _fillImage: {fileID: 0}
+  _delayText: {fileID: 0}
+  _delayTextPro: {fileID: 0}
+  _delayActivated: 0
+  _initialValue: 0
+  _currentDelayValue: 0
+  format: 0
+  actionAttack: 0
+  isRotationXStopped: 0
+  isRotationYStopped: 0
+  isMovementXStopped: 0
+  isMovementYStopped: 0
+  isMovementZStopped: 0
+--- !u!114 &3987443002435632307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2636561543371000599}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37d7716b66cb15345b43c984a50e4837, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::UGSSpace.PlaySoundsWithPlayerStates
+  soundsAndConditions:
+  - _audioSource: {fileID: 0}
+    _audioSourceName: AudioSourcePlayer
+    thisGameObject: {fileID: 2636561543371000599}
+    name: FirstJump
+    showInEditor: 0
+    conditionsOfStates:
+    - playerState: 11
+      playWhenItIs: 1
+      numericCondition: 2
+      attackCategory: 0
+      floatValueCondition: 0
+      intValueCondition: 0
+      playWhenItIs_Enum: 0
+    useInputControl: 1
+    inputControl: 2
+    inputAction: 0
+    audioClip: {fileID: 8300000, guid: 7bce131195b4149c592d5586724c6640, type: 3}
+    playWhileConditionIsMet: 0
+  - _audioSource: {fileID: 0}
+    _audioSourceName: AudioSourcePlayer
+    thisGameObject: {fileID: 2636561543371000599}
+    name: SecondJump
+    showInEditor: 0
+    conditionsOfStates:
+    - playerState: 12
+      playWhenItIs: 0
+      numericCondition: 2
+      attackCategory: 0
+      floatValueCondition: 0
+      intValueCondition: 0
+      playWhenItIs_Enum: 1
+    - playerState: 11
+      playWhenItIs: 0
+      numericCondition: 2
+      attackCategory: 0
+      floatValueCondition: 0
+      intValueCondition: 0
+      playWhenItIs_Enum: 1
+    useInputControl: 1
+    inputControl: 2
+    inputAction: 0
+    audioClip: {fileID: 8300000, guid: 887f13744837a4c9d9580d18f23dfdc8, type: 3}
+    playWhileConditionIsMet: 0
+  - _audioSource: {fileID: 0}
+    _audioSourceName: AudioSourcePlayer
+    thisGameObject: {fileID: 2636561543371000599}
+    name: SwordAttack
+    showInEditor: 0
+    conditionsOfStates:
+    - playerState: 32
+      playWhenItIs: 1
+      numericCondition: 2
+      attackCategory: 2
+      floatValueCondition: 0
+      intValueCondition: 0
+      playWhenItIs_Enum: 0
+    useInputControl: 0
+    inputControl: 0
+    inputAction: 0
+    audioClip: {fileID: 8300000, guid: 553f371e254c84396976aa63cdc6d4ae, type: 3}
+    playWhileConditionIsMet: 0
+  - _audioSource: {fileID: 0}
+    _audioSourceName: AudioSourcePlayer
+    thisGameObject: {fileID: 2636561543371000599}
+    name: CrossbowAttack
+    showInEditor: 0
+    conditionsOfStates:
+    - playerState: 32
+      playWhenItIs: 1
+      numericCondition: 2
+      attackCategory: 9
+      floatValueCondition: 0
+      intValueCondition: 0
+      playWhenItIs_Enum: 0
+    useInputControl: 0
+    inputControl: 0
+    inputAction: 0
+    audioClip: {fileID: 8300000, guid: 0247d4a3f287142dfbfd014e2514182c, type: 3}
+    playWhileConditionIsMet: 0
+  - _audioSource: {fileID: 0}
+    _audioSourceName: AudioSourcePlayer
+    thisGameObject: {fileID: 2636561543371000599}
+    name: LosesHealth
+    showInEditor: 0
+    conditionsOfStates:
+    - playerState: 15
+      playWhenItIs: 1
+      numericCondition: 2
+      attackCategory: 0
+      floatValueCondition: 0
+      intValueCondition: 0
+      playWhenItIs_Enum: 0
+    useInputControl: 0
+    inputControl: 0
+    inputAction: 0
+    audioClip: {fileID: 8300000, guid: 585b2f9f8d0b04f7094dbda444f8f597, type: 3}
+    playWhileConditionIsMet: 0
+  - _audioSource: {fileID: 0}
+    _audioSourceName: AudioSourcePlayerRun
+    thisGameObject: {fileID: 2636561543371000599}
+    name: Run
+    showInEditor: 0
+    conditionsOfStates:
+    - playerState: 11
+      playWhenItIs: 1
+      numericCondition: 2
+      attackCategory: 0
+      floatValueCondition: 0
+      intValueCondition: 0
+      playWhenItIs_Enum: 0
+    - playerState: 39
+      playWhenItIs: 1
+      numericCondition: 2
+      attackCategory: 0
+      floatValueCondition: 0
+      intValueCondition: 0
+      playWhenItIs_Enum: 0
+    useInputControl: 0
+    inputControl: 0
+    inputAction: 0
+    audioClip: {fileID: 8300000, guid: 8a7e1aacb0612451daffc081f65fad1a, type: 3}
+    playWhileConditionIsMet: 1
+  - _audioSource: {fileID: 0}
+    _audioSourceName: AudioSourcePlayerMusic
+    thisGameObject: {fileID: 2636561543371000599}
+    name: WinLevel
+    showInEditor: 0
+    conditionsOfStates:
+    - playerState: 7
+      playWhenItIs: 1
+      numericCondition: 2
+      attackCategory: 0
+      floatValueCondition: 0
+      intValueCondition: 0
+      playWhenItIs_Enum: 0
+    useInputControl: 0
+    inputControl: 0
+    inputAction: 0
+    audioClip: {fileID: 8300000, guid: 5738a43b08df144a1890363b6e975638, type: 3}
+    playWhileConditionIsMet: 0
+  - _audioSource: {fileID: 0}
+    _audioSourceName: AudioSourcePlayerMusic
+    thisGameObject: {fileID: 2636561543371000599}
+    name: LosesLevel
+    showInEditor: 0
+    conditionsOfStates:
+    - playerState: 8
+      playWhenItIs: 1
+      numericCondition: 2
+      attackCategory: 0
+      floatValueCondition: 0
+      intValueCondition: 0
+      playWhenItIs_Enum: 0
+    useInputControl: 0
+    inputControl: 0
+    inputAction: 0
+    audioClip: {fileID: 8300000, guid: a412449a1227b4d9dbdf77ed53815c06, type: 3}
+    playWhileConditionIsMet: 0
 --- !u!1 &3243529188847403577
 GameObject:
   m_ObjectHideFlags: 0
@@ -529,7 +813,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1940126835267147361}
   - component: {fileID: 7231970799896056856}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LEFT ARM BOTTOM
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -621,7 +905,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1978877521475892799}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Floor Detection
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -653,7 +937,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1951177572194348197}
   - component: {fileID: 7419182838226173974}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LEFT LEG TOP
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -746,7 +1030,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8145714532547134360}
   - component: {fileID: 6189196046520909233}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LEFT ARM
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -838,7 +1122,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1079075786959201074}
   - component: {fileID: 3054367811503892653}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: BODY BOTTOM
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -932,7 +1216,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5798639018137439734}
   - component: {fileID: 814401475679374157}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: RIGHT LEG TOP
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1025,7 +1309,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8691845408117905146}
   - component: {fileID: 12678448651338734}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LEFT FEET
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1117,7 +1401,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3646269663060964813}
   - component: {fileID: 368993774778522406}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: HEAD
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1209,7 +1493,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5602793270646821658}
   - component: {fileID: 5589763132105822281}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: RIGHT ARM
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1228,7 +1512,8 @@ Transform:
   m_LocalPosition: {x: 0.37828276, y: -1.5993444, z: 0.31999993}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 8025878748609389629}
   m_Father: {fileID: 1319510529294517015}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &5589763132105822281
@@ -1301,7 +1586,7 @@ GameObject:
   m_Component:
   - component: {fileID: 742683249489431855}
   - component: {fileID: 622055161091502260}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: RIGHT LEG BOTTOM
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1394,7 +1679,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8069236108373298224}
   - component: {fileID: 5540898937148244561}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: BODY TOP
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1490,7 +1775,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3050879932296957736}
   - component: {fileID: 1776047164451256390}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Hit Effect
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1582,7 +1867,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1319510529294517015}
   - component: {fileID: 1182037338008587277}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: RIGHT ARM BOTTOM
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1675,7 +1960,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5817946832721647307}
   - component: {fileID: 4840462668063830645}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: LAFT ARM TOP
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1768,7 +2053,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7680799253977016524}
   - component: {fileID: 1036599920135814434}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: RIGHT FEET
   m_TagString: Untagged
   m_Icon: {fileID: 0}

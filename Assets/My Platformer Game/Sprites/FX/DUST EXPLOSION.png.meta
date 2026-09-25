@@ -1,0 +1,517 @@
+fileFormatVersion: 2
+guid: 62f9db3667e9d4d6a9222c05c5a30d5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2211467940802235669
+    second: DUST EXPLOSION_0
+  - first:
+      213: -4158776917653580660
+    second: DUST EXPLOSION_1
+  - first:
+      213: -4369556054028192967
+    second: DUST EXPLOSION_2
+  - first:
+      213: -6762649651806707511
+    second: DUST EXPLOSION_3
+  - first:
+      213: -4286439231344652998
+    second: DUST EXPLOSION_4
+  - first:
+      213: -2753775731263933884
+    second: DUST EXPLOSION_5
+  - first:
+      213: -5558445960382864498
+    second: DUST EXPLOSION_6
+  - first:
+      213: -2100928039904632593
+    second: DUST EXPLOSION_7
+  - first:
+      213: 6437761979376128319
+    second: DUST EXPLOSION_8
+  - first:
+      213: -7631838431713401866
+    second: DUST EXPLOSION_9
+  - first:
+      213: -561512652037915948
+    second: DUST EXPLOSION_10
+  - first:
+      213: 4953255707991678419
+    second: DUST EXPLOSION_11
+  - first:
+      213: 8986311371269377330
+    second: DUST EXPLOSION_12
+  - first:
+      213: -77778318451611995
+    second: DUST EXPLOSION_13
+  - first:
+      213: 8712737618099714221
+    second: DUST EXPLOSION_14
+  - first:
+      213: -2589823235785744224
+    second: DUST EXPLOSION_15
+  - first:
+      213: 3044695370271671792
+    second: DUST EXPLOSION_16
+  - first:
+      213: -7357895376540249349
+    second: DUST EXPLOSION_17
+  - first:
+      213: 188492032174726404
+    second: DUST EXPLOSION_18
+  - first:
+      213: 334269144665906880
+    second: DUST EXPLOSION_19
+  - first:
+      213: -7357829626923344439
+    second: DUST EXPLOSION_20
+  - first:
+      213: -7122829039264136635
+    second: DUST EXPLOSION_21
+  - first:
+      213: 9180088312343257407
+    second: DUST EXPLOSION_22
+  - first:
+      213: 7417783435260436756
+    second: DUST EXPLOSION_23
+  - first:
+      213: 6965798999686678713
+    second: DUST EXPLOSION_24
+  - first:
+      213: 7779955215098972067
+    second: DUST EXPLOSION_25
+  - first:
+      213: 998600083327053146
+    second: DUST EXPLOSION_26
+  - first:
+      213: -6351084130680055401
+    second: DUST EXPLOSION_27
+  - first:
+      213: -2299450673931087993
+    second: DUST EXPLOSION_28
+  - first:
+      213: 5404423602343134899
+    second: DUST EXPLOSION_29
+  - first:
+      213: 2873404185927378549
+    second: DUST EXPLOSION_30
+  - first:
+      213: 9102152217258288985
+    second: DUST EXPLOSION_31
+  - first:
+      213: -8539708969470809794
+    second: DUST EXPLOSION_32
+  - first:
+      213: 6781012119825650119
+    second: DUST EXPLOSION_33
+  - first:
+      213: 3216861596201880152
+    second: DUST EXPLOSION_34
+  - first:
+      213: -2044119450595506292
+    second: DUST EXPLOSION_35
+  - first:
+      213: 4514776708226667277
+    second: DUST EXPLOSION_36
+  - first:
+      213: 5984795893437330809
+    second: DUST EXPLOSION_37
+  - first:
+      213: 2093910613162406137
+    second: DUST EXPLOSION_38
+  - first:
+      213: 6990323125740160220
+    second: DUST EXPLOSION_39
+  - first:
+      213: 3317909346441018999
+    second: DUST EXPLOSION_40
+  - first:
+      213: -5752357709695741414
+    second: DUST EXPLOSION_41
+  - first:
+      213: -8963810181493622171
+    second: DUST EXPLOSION_42
+  - first:
+      213: 7149782311927292781
+    second: DUST EXPLOSION_43
+  - first:
+      213: 1030298879162716220
+    second: DUST EXPLOSION_44
+  - first:
+      213: -9001461959553940308
+    second: DUST EXPLOSION_45
+  - first:
+      213: -918503215420326468
+    second: DUST EXPLOSION_46
+  - first:
+      213: -2150387535567242034
+    second: DUST EXPLOSION_47
+  - first:
+      213: 6842070632883355192
+    second: DUST EXPLOSION_48
+  - first:
+      213: 3860028723547968498
+    second: DUST EXPLOSION_49
+  - first:
+      213: 3929144025796521862
+    second: DUST EXPLOSION_50
+  - first:
+      213: -399726557276389305
+    second: DUST EXPLOSION_51
+  - first:
+      213: 5976727351458522569
+    second: DUST EXPLOSION_52
+  - first:
+      213: -6029054879565037355
+    second: DUST EXPLOSION_53
+  - first:
+      213: 2797157087851402979
+    second: DUST EXPLOSION_54
+  - first:
+      213: -2994838796564876926
+    second: DUST EXPLOSION_55
+  - first:
+      213: 862677482687409806
+    second: DUST EXPLOSION_56
+  - first:
+      213: -5635108811623212105
+    second: DUST EXPLOSION_57
+  - first:
+      213: 3338551637004220444
+    second: DUST EXPLOSION_58
+  - first:
+      213: 5890801385679155611
+    second: DUST EXPLOSION_59
+  - first:
+      213: -7810538183029133377
+    second: DUST EXPLOSION_60
+  - first:
+      213: -869982469563935948
+    second: DUST EXPLOSION_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DUST EXPLOSION_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d8ea31066b0be10800000000000000
+      internalID: 2211467940802235669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST EXPLOSION_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c841a237d6e0946c0800000000000000
+      internalID: -4158776917653580660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST EXPLOSION_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933fd757be73c53c0800000000000000
+      internalID: -4369556054028192967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST EXPLOSION_3
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c064a3c8fd3622a0800000000000000
+      internalID: -6762649651806707511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST EXPLOSION_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d4768ca328384c0800000000000000
+      internalID: -4286439231344652998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST EXPLOSION_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442fbe2009f98c9d0800000000000000
+      internalID: -2753775731263933884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST EXPLOSION_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83ac2459de6cd2b0800000000000000
+      internalID: -5558445960382864498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DUST EXPLOSION_7
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 384
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0a3d2341108d2e0800000000000000
+      internalID: -2100928039904632593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1ec3e48c242104e77bddbf35433215f6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":2.0},"gridSpriteSize":{"x":384.0,"y":512.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      DUST EXPLOSION_0: 2211467940802235669
+      DUST EXPLOSION_1: -4158776917653580660
+      DUST EXPLOSION_2: -4369556054028192967
+      DUST EXPLOSION_3: -6762649651806707511
+      DUST EXPLOSION_4: -4286439231344652998
+      DUST EXPLOSION_5: -2753775731263933884
+      DUST EXPLOSION_6: -5558445960382864498
+      DUST EXPLOSION_7: -2100928039904632593
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

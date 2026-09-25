@@ -22,6 +22,8 @@ MonoBehaviour:
   - Gun
   - Throw Grenade
   - Slingshot
+  - Crossbow
+  - Energy
   ProjectileData:
   - projectileName: Projectile Example
     projectileGameObject: {fileID: 1165956934474130, guid: 9b662647d9d486f4ab8c1d64f0751ac2, type: 3}
@@ -29,6 +31,15 @@ MonoBehaviour:
   - projectileName: Grenade Example
     projectileGameObject: {fileID: 1233878021858224, guid: e83578b0acab5404385772c774ebf048, type: 3}
     icon: {fileID: 21300000, guid: 540ec6f3288719a43980ad02e44726f5, type: 3}
+  - projectileName: Crawler Projectile
+    projectileGameObject: {fileID: 5239553950836878259, guid: abb75ce633fde455fb59a7b554d5d02b, type: 3}
+    icon: {fileID: 0}
+  - projectileName: Crossbow Projectile
+    projectileGameObject: {fileID: 3926446256319157849, guid: ef2c4ebd701784ff48c2dd2d201efc9c, type: 3}
+    icon: {fileID: -5508443765661271995, guid: 59d287b7f06e74f1581429bc5c9c9857, type: 3}
+  - projectileName: Energy Projectile
+    projectileGameObject: {fileID: 3926446256319157849, guid: e2252b6165ca640d9b8186aa4239a9d7, type: 3}
+    icon: {fileID: -702604376454678607, guid: 0755d220c77f34a848851fee1c58736a, type: 3}
   weaponsData:
   - weaponName: Sword Example
     weaponGameObject: {fileID: 1502029387087640, guid: 01d77b9001440e047844cb1723d80d5a, type: 3}
@@ -57,7 +68,7 @@ MonoBehaviour:
     stoppingTime: 0.3
     delayTimeBeforeAttackOrShotActivation: 0
     isWeaponForPlayer: 1
-    inputControl: 3
+    inputControl: 0
     inputAction: 0
     useProjectilePool: 0
     initialProjectilesInPool: 0
@@ -127,6 +138,204 @@ MonoBehaviour:
     inputAction: 0
     useProjectilePool: 0
     initialProjectilesInPool: 0
+    craftingRecipe: []
+    howToSolveTheLackOfProjectilesInThePool: 0
+  - weaponName: Player Sword
+    weaponGameObject: {fileID: 7137420870175462832, guid: b1851bd27af43405ba1706789532c49d, type: 3}
+    icon: {fileID: 4335943712124961178, guid: a87bc1a05e09c4524bb7a45b1d607935, type: 3}
+    shootingEffectGameObject: {fileID: 0}
+    defaultProjectilesQuantity: 0
+    infiniteProjectiles: 1
+    delayToShotAgain: 0.2
+    <Block_DelayToShotAgain>k__BackingField:
+      rid: -2
+    useListOfProjectiles: 0
+    instantiationOrderForList: 0
+    listOfProjectilesToShot: 00000000i
+    ProjectileToShoot: 0
+    weaponType: 1
+    attackDuration: 0.1
+    weaponCategory: 2
+    stopMovementWhenAttack: 0
+    stopMovementWhenAttackInXAxis: 0
+    stopMovementWhenAttackInYAxis: 0
+    stopMovementWhenAttackInZAxis: 0
+    stopRotationWhenAttack: 1
+    stopRotationWhenAttackInXAxis: 1
+    stopRotationWhenAttackInYAxis: 0
+    stopRotationWhenAttackInZAxis: 0
+    stoppingTime: 0.35
+    delayTimeBeforeAttackOrShotActivation: 0.1
+    isWeaponForPlayer: 1
+    inputControl: 3
+    inputAction: 0
+    useProjectilePool: 1
+    initialProjectilesInPool: 20
+    craftingRecipe: []
+    howToSolveTheLackOfProjectilesInThePool: 0
+  - weaponName: Crawler Blaster
+    weaponGameObject: {fileID: 5239553950836878259, guid: abb75ce633fde455fb59a7b554d5d02b, type: 3}
+    icon: {fileID: 0}
+    shootingEffectGameObject: {fileID: 0}
+    defaultProjectilesQuantity: 0
+    infiniteProjectiles: 1
+    delayToShotAgain: 0.95
+    <Block_DelayToShotAgain>k__BackingField:
+      rid: -2
+    useListOfProjectiles: 0
+    instantiationOrderForList: 0
+    listOfProjectilesToShot: 00000000i
+    ProjectileToShoot: 2
+    weaponType: 0
+    attackDuration: 0.1
+    weaponCategory: 6
+    stopMovementWhenAttack: 1
+    stopMovementWhenAttackInXAxis: 0
+    stopMovementWhenAttackInYAxis: 1
+    stopMovementWhenAttackInZAxis: 0
+    stopRotationWhenAttack: 1
+    stopRotationWhenAttackInXAxis: 1
+    stopRotationWhenAttackInYAxis: 1
+    stopRotationWhenAttackInZAxis: 0
+    stoppingTime: 0
+    delayTimeBeforeAttackOrShotActivation: 0.1
+    isWeaponForPlayer: 0
+    inputControl: 0
+    inputAction: 0
+    useProjectilePool: 1
+    initialProjectilesInPool: 20
+    craftingRecipe: []
+    howToSolveTheLackOfProjectilesInThePool: 0
+  - weaponName: Player Crossbow
+    weaponGameObject: {fileID: 5296243437024001186, guid: 105481d0a49df43eebf1c5b41ca68753, type: 3}
+    icon: {fileID: 6843346622870537880, guid: a87bc1a05e09c4524bb7a45b1d607935, type: 3}
+    shootingEffectGameObject: {fileID: 0}
+    defaultProjectilesQuantity: 50
+    infiniteProjectiles: 0
+    delayToShotAgain: 0.35
+    <Block_DelayToShotAgain>k__BackingField:
+      rid: -2
+    useListOfProjectiles: 0
+    instantiationOrderForList: 0
+    listOfProjectilesToShot: 00000000i
+    ProjectileToShoot: 3
+    weaponType: 0
+    attackDuration: 0.1
+    weaponCategory: 9
+    stopMovementWhenAttack: 0
+    stopMovementWhenAttackInXAxis: 0
+    stopMovementWhenAttackInYAxis: 1
+    stopMovementWhenAttackInZAxis: 1
+    stopRotationWhenAttack: 1
+    stopRotationWhenAttackInXAxis: 1
+    stopRotationWhenAttackInYAxis: 0
+    stopRotationWhenAttackInZAxis: 1
+    stoppingTime: 0.2
+    delayTimeBeforeAttackOrShotActivation: 0.1
+    isWeaponForPlayer: 1
+    inputControl: 3
+    inputAction: 0
+    useProjectilePool: 1
+    initialProjectilesInPool: 20
+    craftingRecipe: []
+    howToSolveTheLackOfProjectilesInThePool: 0
+  - weaponName: AXE
+    weaponGameObject: {fileID: 7137420870175462832, guid: 9d8eeaaf0fa244e219348e12d2832da6, type: 3}
+    icon: {fileID: -9050424554870767281, guid: 7e133a00b3d6946a788a423227ccbad3, type: 3}
+    shootingEffectGameObject: {fileID: 0}
+    defaultProjectilesQuantity: 0
+    infiniteProjectiles: 1
+    delayToShotAgain: 0.35
+    <Block_DelayToShotAgain>k__BackingField:
+      rid: -2
+    useListOfProjectiles: 0
+    instantiationOrderForList: 0
+    listOfProjectilesToShot: 00000000i
+    ProjectileToShoot: 0
+    weaponType: 1
+    attackDuration: 0.35
+    weaponCategory: 0
+    stopMovementWhenAttack: 0
+    stopMovementWhenAttackInXAxis: 0
+    stopMovementWhenAttackInYAxis: 0
+    stopMovementWhenAttackInZAxis: 0
+    stopRotationWhenAttack: 1
+    stopRotationWhenAttackInXAxis: 1
+    stopRotationWhenAttackInYAxis: 0
+    stopRotationWhenAttackInZAxis: 0
+    stoppingTime: 0.3
+    delayTimeBeforeAttackOrShotActivation: 0.15
+    isWeaponForPlayer: 1
+    inputControl: 3
+    inputAction: 0
+    useProjectilePool: 1
+    initialProjectilesInPool: 20
+    craftingRecipe: []
+    howToSolveTheLackOfProjectilesInThePool: 0
+  - weaponName: MACE
+    weaponGameObject: {fileID: 7137420870175462832, guid: 4c84b39fb472340b3b522e17a23a0650, type: 3}
+    icon: {fileID: -3596830479759836046, guid: 7e133a00b3d6946a788a423227ccbad3, type: 3}
+    shootingEffectGameObject: {fileID: 0}
+    defaultProjectilesQuantity: 0
+    infiniteProjectiles: 1
+    delayToShotAgain: 1
+    <Block_DelayToShotAgain>k__BackingField:
+      rid: -2
+    useListOfProjectiles: 0
+    instantiationOrderForList: 0
+    listOfProjectilesToShot: 00000000i
+    ProjectileToShoot: 0
+    weaponType: 1
+    attackDuration: 0.35
+    weaponCategory: 0
+    stopMovementWhenAttack: 1
+    stopMovementWhenAttackInXAxis: 1
+    stopMovementWhenAttackInYAxis: 1
+    stopMovementWhenAttackInZAxis: 0
+    stopRotationWhenAttack: 0
+    stopRotationWhenAttackInXAxis: 0
+    stopRotationWhenAttackInYAxis: 0
+    stopRotationWhenAttackInZAxis: 0
+    stoppingTime: 0
+    delayTimeBeforeAttackOrShotActivation: 0.15
+    isWeaponForPlayer: 1
+    inputControl: 3
+    inputAction: 0
+    useProjectilePool: 1
+    initialProjectilesInPool: 20
+    craftingRecipe: []
+    howToSolveTheLackOfProjectilesInThePool: 0
+  - weaponName: Energy Gun2
+    weaponGameObject: {fileID: 5296243437024001186, guid: 6e107b69330ab40a7a9731b0a61591b5, type: 3}
+    icon: {fileID: 2918057990227002718, guid: 7e133a00b3d6946a788a423227ccbad3, type: 3}
+    shootingEffectGameObject: {fileID: 0}
+    defaultProjectilesQuantity: 10
+    infiniteProjectiles: 0
+    delayToShotAgain: 0.7
+    <Block_DelayToShotAgain>k__BackingField:
+      rid: -2
+    useListOfProjectiles: 0
+    instantiationOrderForList: 0
+    listOfProjectilesToShot: 00000000i
+    ProjectileToShoot: 4
+    weaponType: 0
+    attackDuration: 0.1
+    weaponCategory: 10
+    stopMovementWhenAttack: 1
+    stopMovementWhenAttackInXAxis: 0
+    stopMovementWhenAttackInYAxis: 1
+    stopMovementWhenAttackInZAxis: 1
+    stopRotationWhenAttack: 1
+    stopRotationWhenAttackInXAxis: 1
+    stopRotationWhenAttackInYAxis: 1
+    stopRotationWhenAttackInZAxis: 1
+    stoppingTime: 0.2
+    delayTimeBeforeAttackOrShotActivation: 0.1
+    isWeaponForPlayer: 1
+    inputControl: 3
+    inputAction: 2
+    useProjectilePool: 1
+    initialProjectilesInPool: 20
     craftingRecipe: []
     howToSolveTheLackOfProjectilesInThePool: 0
   howToSaveProjectiles: 2

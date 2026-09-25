@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: cdf628bb306dc4698a38f034bad13994
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2247416352916825731
+    second: PlatformWater_0
+  - first:
+      213: -2921285376265225515
+    second: PlatformWater_1
+  - first:
+      213: -4289282748270863840
+    second: PlatformWater_2
+  - first:
+      213: 7308439658783375862
+    second: PlatformWater_3
+  - first:
+      213: -3285596313911445006
+    second: PlatformWater_4
+  - first:
+      213: -7025506061732954714
+    second: PlatformWater_5
+  - first:
+      213: 8356607374919607772
+    second: PlatformWater_6
+  - first:
+      213: -3692284723248357100
+    second: PlatformWater_7
+  - first:
+      213: -8673414976447186611
+    second: PlatformWater_8
+  - first:
+      213: 6582648672532320471
+    second: PlatformWater_9
+  - first:
+      213: -5988540947433352370
+    second: PlatformWater_10
+  - first:
+      213: -8118734912821658945
+    second: PlatformWater_11
+  - first:
+      213: 8466880260028994158
+    second: PlatformWater_12
+  - first:
+      213: 6148073053434737900
+    second: PlatformWater_13
+  - first:
+      213: -9032441679422508492
+    second: PlatformWater_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlatformWater_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 449
+        width: 754
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d791dfdfbb29fc0e0800000000000000
+      internalID: -2247416352916825731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformWater_1
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 461
+        width: 243
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dafa2c8d628577d0800000000000000
+      internalID: -2921285376265225515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformWater_2
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 491
+        width: 227
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a9a18e0186974c0800000000000000
+      internalID: -4289282748270863840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformWater_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 225
+        width: 390
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1092cd52bcc6560800000000000000
+      internalID: 7308439658783375862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformWater_4
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 226
+        width: 403
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9b9f17f873762d0800000000000000
+      internalID: -3285596313911445006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformWater_5
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 230
+        width: 390
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adbd07a573608e90800000000000000
+      internalID: -7025506061732954714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformWater_6
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 224
+        width: 377
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd52e7dd122a8f370800000000000000
+      internalID: 8356607374919607772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformWater_7
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 222
+        width: 389
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4112e255b9e52ccc0800000000000000
+      internalID: -3692284723248357100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformWater_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 31
+        width: 593
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49ff4b5807d1a780800000000000000
+      internalID: -8673414976447186611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformWater_9
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 35
+        width: 251
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d05c7f57144a5b50800000000000000
+      internalID: 6582648672532320471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformWater_10
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 31
+        width: 381
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e439a59acbd64eca0800000000000000
+      internalID: -5988540947433352370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformWater_12
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 23
+        width: 193
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e629bceacb6608570800000000000000
+      internalID: 8466880260028994158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformWater_13
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 37
+        width: 225
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4f0234ed7525550800000000000000
+      internalID: 6148073053434737900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformWater_14
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 47
+        width: 392
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432b693062256a280800000000000000
+      internalID: -9032441679422508492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformWater_15
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 457
+        width: 449
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e081a2c82bdf347e39f7a4f5c87f2b0a
+      internalID: -1539735433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6389fcf76e74a45b4809bdfbd0435bb2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlatformWater_0: -2247416352916825731
+      PlatformWater_1: -2921285376265225515
+      PlatformWater_10: -5988540947433352370
+      PlatformWater_11: -8118734912821658945
+      PlatformWater_12: 8466880260028994158
+      PlatformWater_13: 6148073053434737900
+      PlatformWater_14: -9032441679422508492
+      PlatformWater_15: -1539735433
+      PlatformWater_2: -4289282748270863840
+      PlatformWater_3: 7308439658783375862
+      PlatformWater_4: -3285596313911445006
+      PlatformWater_5: -7025506061732954714
+      PlatformWater_6: 8356607374919607772
+      PlatformWater_7: -3692284723248357100
+      PlatformWater_8: -8673414976447186611
+      PlatformWater_9: 6582648672532320471
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 81c7f3d31d4c44bdb944cf10f99fb8f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5105232835200684670
+    second: "Hoja de plataformas meta\u0301licas industriales (1)_0"
+  - first:
+      213: 703582754303458450
+    second: "Hoja de plataformas meta\u0301licas industriales (1)_1"
+  - first:
+      213: -5204701615872130085
+    second: "Hoja de plataformas meta\u0301licas industriales (1)_2"
+  - first:
+      213: 8128861089795118490
+    second: "Hoja de plataformas meta\u0301licas industriales (1)_3"
+  - first:
+      213: -8049330695579409131
+    second: "Hoja de plataformas meta\u0301licas industriales (1)_4"
+  - first:
+      213: -2334125874716708329
+    second: "Hoja de plataformas meta\u0301licas industriales (1)_5"
+  - first:
+      213: 7726424723838385845
+    second: "Hoja de plataformas meta\u0301licas industriales (1)_6"
+  - first:
+      213: 5361060007649834333
+    second: "Hoja de plataformas meta\u0301licas industriales (1)_7"
+  - first:
+      213: -7678223912716969998
+    second: "Hoja de plataformas meta\u0301licas industriales (1)_8"
+  - first:
+      213: 8335893789824763316
+    second: "Hoja de plataformas meta\u0301licas industriales (1)_9"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Hoja de plataformas meta\u0301licas industriales (1)_0"
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 9
+        width: 1378
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28de33af8c19629b0800000000000000
+      internalID: -5105232835200684670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de plataformas meta\u0301licas industriales (1)_1"
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 494
+        width: 341
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c395c89c0a3c900800000000000000
+      internalID: 703582754303458450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de plataformas meta\u0301licas industriales (1)_2"
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 264
+        width: 338
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd34a00c47f25c7b0800000000000000
+      internalID: -5204701615872130085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de plataformas meta\u0301licas industriales (1)_3"
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 496
+        width: 312
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a959bb5b7148fc070800000000000000
+      internalID: 8128861089795118490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de plataformas meta\u0301licas industriales (1)_4"
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 0
+        width: 337
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515675a21680b4090800000000000000
+      internalID: -8049330695579409131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de plataformas meta\u0301licas industriales (1)_5"
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 258
+        width: 238
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712767832e48b9fd0800000000000000
+      internalID: -2334125874716708329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de plataformas meta\u0301licas industriales (1)_6"
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 176
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bebe289956c93b60800000000000000
+      internalID: 7726424723838385845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de plataformas meta\u0301licas industriales (1)_7"
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 21
+        width: 236
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55758f3caf466a40800000000000000
+      internalID: 5361060007649834333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de plataformas meta\u0301licas industriales (1)_8"
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 15
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f758984808717590800000000000000
+      internalID: -7678223912716969998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de plataformas meta\u0301licas industriales (1)_9"
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 25
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5c3e38c3b0fa370800000000000000
+      internalID: 8335893789824763316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de plataformas meta\u0301licas industriales (1)_10"
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 486
+        width: 1275
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c32230836d147ffa52d642f2770aaa
+      internalID: 829873966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Hoja de plataformas meta\u0301licas industriales (1)_11"
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 267
+        width: 1334
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90de08e9780284372a76c6d3bbaf80bd
+      internalID: 1014164723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ff88fd10a349c4040aeafbe660c44f7b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Hoja de plataformas meta\u0301licas industriales (1)_0": -5105232835200684670
+      "Hoja de plataformas meta\u0301licas industriales (1)_1": 703582754303458450
+      "Hoja de plataformas meta\u0301licas industriales (1)_10": 829873966
+      "Hoja de plataformas meta\u0301licas industriales (1)_11": 1014164723
+      "Hoja de plataformas meta\u0301licas industriales (1)_2": -5204701615872130085
+      "Hoja de plataformas meta\u0301licas industriales (1)_3": 8128861089795118490
+      "Hoja de plataformas meta\u0301licas industriales (1)_4": -8049330695579409131
+      "Hoja de plataformas meta\u0301licas industriales (1)_5": -2334125874716708329
+      "Hoja de plataformas meta\u0301licas industriales (1)_6": 7726424723838385845
+      "Hoja de plataformas meta\u0301licas industriales (1)_7": 5361060007649834333
+      "Hoja de plataformas meta\u0301licas industriales (1)_8": -7678223912716969998
+      "Hoja de plataformas meta\u0301licas industriales (1)_9": 8335893789824763316
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
