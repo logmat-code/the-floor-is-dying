@@ -20,14 +20,22 @@ MonoBehaviour:
     - sceneName: 
       levelSceneRef: {fileID: 0}
     - sceneName: Level_1
+      levelSceneRef: {fileID: 102900000, guid: 9c77d642d9eef4030b1c2d47b5fc55f7, type: 3}
+    - sceneName: 
+      levelSceneRef: {fileID: 0}
+    - sceneName: 
+      levelSceneRef: {fileID: 0}
+    - sceneName: 
+      levelSceneRef: {fileID: 0}
+    - sceneName: Level_5
       levelSceneRef: {fileID: 102900000, guid: c7e92943170d34ef0bf997be4a04068b, type: 3}
   otherGameScenes: []
   isValid: 1
   <InSceneVariables>k__BackingField: []
   addTo: 0
   templateScenes:
-  - sceneName: 
-    templateSceneRef: {fileID: 0}
+  - sceneName: WORLD1_TEMPLATE
+    templateSceneRef: {fileID: 102900000, guid: e9d914ca36a4a43fda85624fb7989550, type: 3}
   - sceneName: 
     templateSceneRef: {fileID: 0}
   - sceneName: 
@@ -37,7 +45,7 @@ MonoBehaviour:
   sceneNameToCreate: 
   showBonusLevels: 0
   mainScene:
-    sceneName: Level_1
+    sceneName: Level_5
     mainSceneRef: {fileID: 102900000, guid: c7e92943170d34ef0bf997be4a04068b, type: 3}
   references:
     version: 2

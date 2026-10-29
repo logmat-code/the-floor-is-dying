@@ -229,7 +229,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 979608cfc73b921488481c6741e93d43, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UGSSpace.Projectile
-  requiredTags: []
+  requiredTags:
+  - tagName: Player
+    itNeedsToBeRidingAMount: 0
+  - tagName: Mount
+    itNeedsToBeRidingAMount: 1
   collisionEffectOrExplosion: {fileID: 0}
   followTarget: 0
   targetDetector: {fileID: 0}

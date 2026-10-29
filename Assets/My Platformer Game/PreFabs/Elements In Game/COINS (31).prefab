@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: 2347516939344986618}
   m_Layer: 0
   m_Name: COINS (31)
-  m_TagString: Untagged
+  m_TagString: Coin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -165,6 +165,8 @@ MonoBehaviour:
   requiredTags:
   - tagName: Player
     itNeedsToBeRidingAMount: 0
+  - tagName: Mount
+    itNeedsToBeRidingAMount: 1
 --- !u!95 &8744095802262431512
 Animator:
   serializedVersion: 7
@@ -201,10 +203,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::UGSSpace.AnimatorManagerOnCollision
   parameterNames:
   - GetCoin
+  - GetCoin
   requiredTags:
   - tagName: Player
     itNeedsToBeRidingAMount: 0
-  reportType: 01000000i
+  - tagName: Mount
+    itNeedsToBeRidingAMount: 1
+  reportType: 0100000001000000i
   animatorStatesWithInput: []
   currentAnimator: {fileID: 8744095802262431512}
 --- !u!114 &2347516939344986618
@@ -223,6 +228,8 @@ MonoBehaviour:
   requiredTags:
   - tagName: Player
     itNeedsToBeRidingAMount: 0
+  - tagName: Mount
+    itNeedsToBeRidingAMount: 1
   inputRequired: 0
   inputControlAction: 0
   _audioSource: {fileID: 0}

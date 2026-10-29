@@ -1,0 +1,1471 @@
+fileFormatVersion: 2
+guid: d37c11c7379a64155bba40ac2374c8a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6876183563052875876
+    second: SLIP 1_0
+  - first:
+      213: -4524425014611997490
+    second: SLIP 1_1
+  - first:
+      213: 29268256616253868
+    second: SLIP 1_2
+  - first:
+      213: -3072620816954025427
+    second: SLIP 1_3
+  - first:
+      213: 2699785590056272251
+    second: SLIP 1_4
+  - first:
+      213: 2506845421088661882
+    second: SLIP 1_5
+  - first:
+      213: -7496135966098002651
+    second: SLIP 1_6
+  - first:
+      213: -1914476465381736209
+    second: SLIP 1_7
+  - first:
+      213: 8372247192163666830
+    second: SLIP 1_8
+  - first:
+      213: -4401790540527388093
+    second: SLIP 1_9
+  - first:
+      213: 7500383206087538090
+    second: SLIP 1_10
+  - first:
+      213: 5045029595940467707
+    second: SLIP 1_11
+  - first:
+      213: 8938979892649909016
+    second: SLIP 1_12
+  - first:
+      213: 1808292772207951127
+    second: SLIP 1_13
+  - first:
+      213: 5468797686415594928
+    second: SLIP 1_14
+  - first:
+      213: -3078910551120411781
+    second: SLIP 1_15
+  - first:
+      213: 6381503063583418003
+    second: SLIP 1_16
+  - first:
+      213: 4648555237438912227
+    second: SLIP 1_17
+  - first:
+      213: 7878851136373285905
+    second: SLIP 1_18
+  - first:
+      213: 7696592543271538490
+    second: SLIP 1_19
+  - first:
+      213: 6738830322865349007
+    second: SLIP 1_20
+  - first:
+      213: 8954622697143500795
+    second: SLIP 1_21
+  - first:
+      213: 76226794992459321
+    second: SLIP 1_22
+  - first:
+      213: 1525109113065722196
+    second: SLIP 1_23
+  - first:
+      213: -1678598233895561646
+    second: SLIP 1_24
+  - first:
+      213: 6402265734113970556
+    second: SLIP 1_25
+  - first:
+      213: -4581161695491964621
+    second: SLIP 1_26
+  - first:
+      213: -783233444334456122
+    second: SLIP 1_27
+  - first:
+      213: 9144071406405260516
+    second: SLIP 1_28
+  - first:
+      213: 1474484170641555896
+    second: SLIP 1_29
+  - first:
+      213: 724573001757171272
+    second: SLIP 1_30
+  - first:
+      213: 6328219847541253832
+    second: SLIP 1_31
+  - first:
+      213: 8544633835120198705
+    second: SLIP 1_32
+  - first:
+      213: -2520629767906139605
+    second: SLIP 1_33
+  - first:
+      213: -3578244609741712696
+    second: SLIP 1_34
+  - first:
+      213: -8846763491208211243
+    second: SLIP 1_35
+  - first:
+      213: 4189376214323345893
+    second: SLIP 1_36
+  - first:
+      213: -6728713079919960476
+    second: SLIP 1_37
+  - first:
+      213: -8295800717524799811
+    second: SLIP 1_38
+  - first:
+      213: -1017941578897202168
+    second: SLIP 1_39
+  - first:
+      213: -207936901719355349
+    second: SLIP 1_40
+  - first:
+      213: -5112277656021236877
+    second: SLIP 1_41
+  - first:
+      213: 5602657177484630326
+    second: SLIP 1_42
+  - first:
+      213: 409238997917004798
+    second: SLIP 1_43
+  - first:
+      213: -5405413518051335701
+    second: SLIP 1_44
+  - first:
+      213: 7194505181754338330
+    second: SLIP 1_45
+  - first:
+      213: -5428661438951654609
+    second: SLIP 1_46
+  - first:
+      213: -4432540330036175979
+    second: SLIP 1_47
+  - first:
+      213: 8270118524649942522
+    second: SLIP 1_48
+  - first:
+      213: 6197381164928820721
+    second: SLIP 1_49
+  - first:
+      213: -4690569514024361747
+    second: SLIP 1_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SLIP 1_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 659
+        width: 98
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f7ad12b73e290a0800000000000000
+      internalID: -6876183563052875876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 665
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc092fab630631c0800000000000000
+      internalID: -4524425014611997490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 695
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca98ec6035bf76000800000000000000
+      internalID: 29268256616253868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 610
+        width: 49
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a1cfb75abdb55d0800000000000000
+      internalID: -3072620816954025427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 689
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71c509a0b0977520800000000000000
+      internalID: 2699785590056272251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 659
+        width: 100
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71edcee0aa1ac220800000000000000
+      internalID: 2506845421088661882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_6
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 667
+        width: 93
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52de2b81e0068f790800000000000000
+      internalID: -7496135966098002651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 691
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0831e4cc96e65e0800000000000000
+      internalID: -1914476465381736209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_8
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 653
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b4da49672303470800000000000000
+      internalID: 8372247192163666830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_9
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 710
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ab03833d2b9e2c0800000000000000
+      internalID: -4401790540527388093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_10
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 618
+        width: 192
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5372689c6b61860800000000000000
+      internalID: 7500383206087538090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_11
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 651
+        width: 89
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf33d5310bb830640800000000000000
+      internalID: 5045029595940467707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_12
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 580
+        width: 133
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bd1c30ad2ad0c70800000000000000
+      internalID: 8938979892649909016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_13
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 692
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d7c5112b8581910800000000000000
+      internalID: 1808292772207951127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_14
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 699
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b59747558215eb40800000000000000
+      internalID: 5468797686415594928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_15
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 691
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b730441aa238545d0800000000000000
+      internalID: -3078910551120411781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_16
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 578
+        width: 255
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396e4f5c937af8850800000000000000
+      internalID: 6381503063583418003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_17
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 705
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6f35efb5cf28040800000000000000
+      internalID: 4648555237438912227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_18
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 626
+        width: 102
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11466b55d5d475d60800000000000000
+      internalID: 7878851136373285905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_19
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 574
+        width: 138
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fce9ac32acfca60800000000000000
+      internalID: 7696592543271538490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_20
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 690
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81250c8972258d50800000000000000
+      internalID: 6738830322865349007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_21
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 580
+        width: 249
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff73e046e5354c70800000000000000
+      internalID: 8954622697143500795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_22
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 659
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e54edbddfce0100800000000000000
+      internalID: 76226794992459321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_23
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 661
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4515eff68a64a2510800000000000000
+      internalID: 1525109113065722196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_24
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 642
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2569e04cccb64b8e0800000000000000
+      internalID: -1678598233895561646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_25
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 660
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79c487b3ca69d850800000000000000
+      internalID: 6402265734113970556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_26
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 646
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3314391c5b17c60c0800000000000000
+      internalID: -4581161695491964621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_27
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 616
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c23d3605556125f0800000000000000
+      internalID: -783233444334456122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_28
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 624
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4979b2f7446ee70800000000000000
+      internalID: 9144071406405260516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_29
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 589
+        width: 105
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1c6028a8b667410800000000000000
+      internalID: 1474484170641555896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_30
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 642
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e139f5e433e0a00800000000000000
+      internalID: 724573001757171272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_31
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 586
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6e5494c6a52d750800000000000000
+      internalID: 6328219847541253832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 2172
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1348f1e9333a49670800000000000000
+      internalID: 8544633835120198705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_33
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 130
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22eda9b49ce40dd0800000000000000
+      internalID: -2520629767906139605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_34
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 112
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c293ec5c75875ec0800000000000000
+      internalID: -3578244609741712696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_35
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 114
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4d3a61a7bf93580800000000000000
+      internalID: -8846763491208211243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_36
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 79
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9b63d7877a32a30800000000000000
+      internalID: 4189376214323345893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_37
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 83
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e98d3aa1fce92a0800000000000000
+      internalID: -6728713079919960476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_38
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 55
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbee08053356fdc80800000000000000
+      internalID: -8295800717524799811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_39
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 49
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8046bbbf68b8fd1f0800000000000000
+      internalID: -1017941578897202168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_40
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 80
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2092555d724d1df0800000000000000
+      internalID: -207936901719355349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_41
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 77
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37300bfce8a8d09b0800000000000000
+      internalID: -5112277656021236877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_42
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 73
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639934ec403a0cd40800000000000000
+      internalID: 5602657177484630326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_43
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 75
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3741b43b8eda500800000000000000
+      internalID: 409238997917004798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_44
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1a4706b0d1cf4b0800000000000000
+      internalID: -5405413518051335701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_45
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 61
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cac2d385408d360800000000000000
+      internalID: 7194505181754338330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_46
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 118
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bfc6dfe2589a4b0800000000000000
+      internalID: -5428661438951654609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_47
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 95
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bd99fed047c72c0800000000000000
+      internalID: -4432540330036175979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_48
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 106
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd23203bfc55c270800000000000000
+      internalID: 8270118524649942522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_49
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 128
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f567499555810650800000000000000
+      internalID: 6197381164928820721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLIP 1_50
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 128
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de02d42f0efb7eeb0800000000000000
+      internalID: -4690569514024361747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SLIP 1_0: -6876183563052875876
+      SLIP 1_1: -4524425014611997490
+      SLIP 1_10: 7500383206087538090
+      SLIP 1_11: 5045029595940467707
+      SLIP 1_12: 8938979892649909016
+      SLIP 1_13: 1808292772207951127
+      SLIP 1_14: 5468797686415594928
+      SLIP 1_15: -3078910551120411781
+      SLIP 1_16: 6381503063583418003
+      SLIP 1_17: 4648555237438912227
+      SLIP 1_18: 7878851136373285905
+      SLIP 1_19: 7696592543271538490
+      SLIP 1_2: 29268256616253868
+      SLIP 1_20: 6738830322865349007
+      SLIP 1_21: 8954622697143500795
+      SLIP 1_22: 76226794992459321
+      SLIP 1_23: 1525109113065722196
+      SLIP 1_24: -1678598233895561646
+      SLIP 1_25: 6402265734113970556
+      SLIP 1_26: -4581161695491964621
+      SLIP 1_27: -783233444334456122
+      SLIP 1_28: 9144071406405260516
+      SLIP 1_29: 1474484170641555896
+      SLIP 1_3: -3072620816954025427
+      SLIP 1_30: 724573001757171272
+      SLIP 1_31: 6328219847541253832
+      SLIP 1_32: 8544633835120198705
+      SLIP 1_33: -2520629767906139605
+      SLIP 1_34: -3578244609741712696
+      SLIP 1_35: -8846763491208211243
+      SLIP 1_36: 4189376214323345893
+      SLIP 1_37: -6728713079919960476
+      SLIP 1_38: -8295800717524799811
+      SLIP 1_39: -1017941578897202168
+      SLIP 1_4: 2699785590056272251
+      SLIP 1_40: -207936901719355349
+      SLIP 1_41: -5112277656021236877
+      SLIP 1_42: 5602657177484630326
+      SLIP 1_43: 409238997917004798
+      SLIP 1_44: -5405413518051335701
+      SLIP 1_45: 7194505181754338330
+      SLIP 1_46: -5428661438951654609
+      SLIP 1_47: -4432540330036175979
+      SLIP 1_48: 8270118524649942522
+      SLIP 1_49: 6197381164928820721
+      SLIP 1_5: 2506845421088661882
+      SLIP 1_50: -4690569514024361747
+      SLIP 1_6: -7496135966098002651
+      SLIP 1_7: -1914476465381736209
+      SLIP 1_8: 8372247192163666830
+      SLIP 1_9: -4401790540527388093
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

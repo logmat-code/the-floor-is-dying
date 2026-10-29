@@ -17,6 +17,338 @@ MonoBehaviour:
     icon: {fileID: 0}
     objects: []
     subCategories: []
+  - name: Enemies
+    icon: {fileID: 0}
+    objects:
+    - type: 0
+      obj: {fileID: 1225625741573240384, guid: 9ba9f1a178e5b4cfd920b4bf745e7909, type: 3}
+      assetPreview: {fileID: 0}
+      isUI: 0
+      isFavorite: 0
+    - type: 0
+      obj: {fileID: 4904043380268798342, guid: c65e02963635c48ff8d2ccde54c26ce8, type: 3}
+      assetPreview: {fileID: 0}
+      isUI: 0
+      isFavorite: 0
+    - type: 0
+      obj: {fileID: 7212228513662356401, guid: b7c0b6692ca434fc083a79e4c6386a9b, type: 3}
+      assetPreview: {fileID: 0}
+      isUI: 0
+      isFavorite: 0
+    - type: 0
+      obj: {fileID: 8346858999675928669, guid: bfc194b4b805d49599ab3b03c2bfdf06, type: 3}
+      assetPreview: {fileID: 0}
+      isUI: 0
+      isFavorite: 0
+    - type: 0
+      obj: {fileID: 4654128221369787947, guid: 358a0dd60f2094825bbca8657e7980af, type: 3}
+      assetPreview: {fileID: 0}
+      isUI: 0
+      isFavorite: 0
+    subCategories: []
+  - name: World Objects
+    icon: {fileID: 0}
+    objects: []
+    subCategories:
+    - name: General Objects
+      objects:
+      - type: 0
+        obj: {fileID: 6669118111759549628, guid: bc7bcc51f5f684dbe9c1e5b28c771dda, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 3831917313173119098, guid: ab27608e9681e4921a9045a539ef74a9, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 9201661307207039211, guid: 2cdd09c73c1cb49ce9142807a3628d46, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 3397725991390749564, guid: 60d5c77fc69e7479ba6549c52cf20adc, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 3405602439599972551, guid: 06dd8e374fd1d443193c8ced4254877e, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 4607831714453939631, guid: cfe9f7bbec68b4fa5bc9dc9dcc31d4a4, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 5162214779312748184, guid: 090ee825922664402ae281ab1f50562c, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      icon: {fileID: 0}
+    - name: World1
+      objects:
+      - type: 0
+        obj: {fileID: 3626989134153252036, guid: 54c76a80b996141fa9951024f6196354, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 5767255212849561624, guid: 992e77f82aafe4c70bc3531446d0f9c4, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 4011842204631447741, guid: 07a296c27515347c9aa221f838ad8cdf, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 8351736228286853439, guid: e52a4edf04bfd4a4fa9d54b799b892ac, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 5891236391924656754, guid: e1a086dd1756c42598b7dd5a1f524d7c, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 2713039860647720581, guid: f408108a0545147c5840aa67c72ddd15, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 4900141506107138284, guid: 5fb7f2d11ff9a40f8b7f447a2bad9abb, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 3599798803188482884, guid: 49f8b7740c41f488694f1a7741f33396, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 5196863933918910507, guid: 803554081168a48579bc0ad45f63e581, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 2736968039304224834, guid: da380f8c0fa294615b1b7b2cb784204d, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 3843651459139168841, guid: 0d4e85bcca98543fe87a8bdfc5e35899, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 1672098661394852373, guid: 9386291838d444f449dc9faf18b4ac87, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 6213686917882221269, guid: a2a71e38c38d14060b90617a1326673f, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 1245925802756530538, guid: cb7d141102250472e9f4f2a27f3762ca, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 6869887120796416224, guid: 54ac48f0bd1a04baca9016d472768a0c, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 5325218590621449130, guid: ac7d68d7c159b439b8275fb604672435, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 8848189199630696411, guid: 626a7d7f35895468cab829c760817dcd, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 5010647227109781450, guid: 5efa768460ef2461d9b2115ca9e1f10c, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 42918907766772063, guid: af5c502a0f31944448c3b3e05c21a7de, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 6708229404763078770, guid: 8b8351d8735c84eb29194e6ee0d8676e, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 933709982644521890, guid: f88d50b9e09d447afa8be0fd994794ef, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 676513365994483537, guid: 90c8590bd98fd4269ba3c65b91188574, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 5175367752370786748, guid: 10a1282579d7348caa3aecb345dbb349, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 4002023928579051748, guid: 0339d0ffbea2e43708c5949f87e171c3, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 2141964202417600072, guid: 3804f272d39524b3388f19817c9b773b, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 5695888464957681848, guid: 36cbfdc1cb58c4f50a2d7fa8f3146b5f, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 1017880702788523665, guid: 07f43d4769a2341b0a408001fbe3c323, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 2465871236724468036, guid: 16729ec0555c0438591df836e2670af2, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 7692761352274900025, guid: 4990303353dee477ab2ece570c63e9bc, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 8481277551254207213, guid: 2472a51293f7a473896dd17425894d20, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 1523901657154475998, guid: 0112f3f519eff4791b9546bb30ca5a54, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 8722042088574813462, guid: d1e26e7d395a24f18a5d1a3e75a95a75, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 2299291949350105734, guid: 627dbda0584c5428ba9fead7e985e2da, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 1078852592594859038, guid: 1fc3f05044d9b43cdaa50ec33bd78186, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 6265782271328025420, guid: 23a398ae3d9fb49e494b63b3baf0a5d2, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      - type: 0
+        obj: {fileID: 1534802156923218265, guid: 0d3983e5fd1ad427583f3a89b0818a1a, type: 3}
+        assetPreview: {fileID: 0}
+        isUI: 0
+        isFavorite: 0
+      icon: {fileID: 0}
+  - name: Items InGame
+    icon: {fileID: 0}
+    objects:
+    - type: 0
+      obj: {fileID: 3317589814891362193, guid: 4e8e7612312a84b41855dfb57d5b9f99, type: 3}
+      assetPreview: {fileID: 0}
+      isUI: 0
+      isFavorite: 0
+    - type: 0
+      obj: {fileID: 9208087562147895779, guid: 893cbd044c1454c66a16f2859edf283d, type: 3}
+      assetPreview: {fileID: 0}
+      isUI: 0
+      isFavorite: 0
+    - type: 0
+      obj: {fileID: 9089079369352403567, guid: 53e1e37f8b091407d8dbc496404eaa65, type: 3}
+      assetPreview: {fileID: 0}
+      isUI: 0
+      isFavorite: 0
+    - type: 0
+      obj: {fileID: 373664262848555720, guid: 73f7e6073e3be46d19c23d3cf367c413, type: 3}
+      assetPreview: {fileID: 0}
+      isUI: 0
+      isFavorite: 0
+    - type: 0
+      obj: {fileID: 6705923422749932614, guid: 835885153ef0443d3ae18907bf061f9b, type: 3}
+      assetPreview: {fileID: 0}
+      isUI: 0
+      isFavorite: 0
+    - type: 0
+      obj: {fileID: 3977460399239497625, guid: c86cb450164ac4bc4a02b31bfb94666e, type: 3}
+      assetPreview: {fileID: 0}
+      isUI: 0
+      isFavorite: 0
+    - type: 0
+      obj: {fileID: 5962885235617095240, guid: a0b67a87b405943029f98b4009b01c70, type: 3}
+      assetPreview: {fileID: 0}
+      isUI: 0
+      isFavorite: 0
+    - type: 0
+      obj: {fileID: 5962885235617095240, guid: eca1f468ce3584c05b01ac857a902468, type: 3}
+      assetPreview: {fileID: 0}
+      isUI: 0
+      isFavorite: 0
+    - type: 0
+      obj: {fileID: 9089079369352403567, guid: a3524965bff1e4ddf97c370e03dc0773, type: 3}
+      assetPreview: {fileID: 0}
+      isUI: 0
+      isFavorite: 0
+    - type: 0
+      obj: {fileID: 9089079369352403567, guid: 6f8448f00bbb64b18bc5f5afa8fc08bc, type: 3}
+      assetPreview: {fileID: 0}
+      isUI: 0
+      isFavorite: 0
+    - type: 0
+      obj: {fileID: 5962885235617095240, guid: 6eed7120126e4461bab7bc372ad19765, type: 3}
+      assetPreview: {fileID: 0}
+      isUI: 0
+      isFavorite: 0
+    - type: 0
+      obj: {fileID: 5962885235617095240, guid: 74ae803bc6069446798ca645d63663fe, type: 3}
+      assetPreview: {fileID: 0}
+      isUI: 0
+      isFavorite: 0
+    - type: 0
+      obj: {fileID: 5962885235617095240, guid: 8c0641645638a4f029231ca59ac2e307, type: 3}
+      assetPreview: {fileID: 0}
+      isUI: 0
+      isFavorite: 0
+    subCategories: []
+  - name: Mounts
+    icon: {fileID: 0}
+    objects:
+    - type: 0
+      obj: {fileID: 5952675283316351290, guid: 867a618761a834912ac5298576a33184, type: 3}
+      assetPreview: {fileID: 0}
+      isUI: 0
+      isFavorite: 0
+    subCategories: []
   cloudStockCategories:
   - id: GENERAL_CATEG_3D
     name_esp: 3D
@@ -96,8 +428,7 @@ MonoBehaviour:
     tags_eng: Wolf, Animal, Coyote, Dog
     tags_esp: Lobo, Animal, Coyote, Perro
     preview_images: wcWiuEqwzq_71_11zon.jpg
-    animation_names: Attack, Death, Eating, Gallop, Gallop_Jump, Idle, Idle_2, Idle_2_HeadLow,
-      Idle_HitReact_Left, Idle_HitReact_Right, Jump_ToIdle, Walk
+    animation_names: Attack, Death, Eating, Gallop, Gallop_Jump, Idle, Idle_2, Idle_2_HeadLow, Idle_HitReact_Left, Idle_HitReact_Right, Jump_ToIdle, Walk
     asset_names_to_add_in_collections: Husky.fbx
     author: Quaternius
     license: CC0 1.0
@@ -153,8 +484,7 @@ MonoBehaviour:
     tags_eng: Animal, dog
     tags_esp: animal, perro
     preview_images: y4wdQpg767_145_11zon.jpg
-    animation_names: Attack, Death, Eating, Gallop, Gallop_Jump, Idle, Idle_2, Idle_2_HeadLow,
-      Idle_HitReact_Left, Idle_HitReact_Right, Jump_ToIdle, Walk
+    animation_names: Attack, Death, Eating, Gallop, Gallop_Jump, Idle, Idle_2, Idle_2_HeadLow, Idle_HitReact_Left, Idle_HitReact_Right, Jump_ToIdle, Walk
     asset_names_to_add_in_collections: ShibaInu.fbx
     author: Quaternius
     license: CC0 1.0
@@ -761,8 +1091,7 @@ MonoBehaviour:
     tags_eng: Lizard, Animal, Reptile, Dinosaur
     tags_esp: Lagarto, Animal, Reptil, Dinosaurio
     preview_images: fvo0x8Zk3z_620_11zon.jpg
-    animation_names: Apatosaurus_Attack, Apatosaurus_Idle, Apatosaurus_Jump, Apatosaurus_Run,
-      Apatosaurus_Walk, Stegosaurus_Death
+    animation_names: Apatosaurus_Attack, Apatosaurus_Idle, Apatosaurus_Jump, Apatosaurus_Run, Apatosaurus_Walk, Stegosaurus_Death
     asset_names_to_add_in_collections: Apatosaurus.fbx
     author: Quaternius
     license: CC0 1.0
@@ -866,8 +1195,7 @@ MonoBehaviour:
     tags_eng: Animal
     tags_esp: Animal
     preview_images: Gs3yfsV5lB_707_11zon.jpg
-    animation_names: Bite_Front, Bite_InPlace, Dance, Death, HitRecieve, Idle, Jump,
-      No, Walk, Yes
+    animation_names: Bite_Front, Bite_InPlace, Dance, Death, HitRecieve, Idle, Jump, No, Walk, Yes
     asset_names_to_add_in_collections: Crab.fbx
     author: Quaternius
     license: CC0 1.0
@@ -1192,8 +1520,7 @@ MonoBehaviour:
     tags_eng: Animal, Dinosaur
     tags_esp: animales, dinosaurio
     preview_images: KeeQrrouRK_848_11zon.jpg
-    animation_names: Parasaurolophus_Attack, Parasaurolophus_Death, Parasaurolophus_Idle,
-      Parasaurolophus_Jump, Parasaurolophus_Run, Parasaurolophus_Walk
+    animation_names: Parasaurolophus_Attack, Parasaurolophus_Death, Parasaurolophus_Idle, Parasaurolophus_Jump, Parasaurolophus_Run, Parasaurolophus_Walk
     asset_names_to_add_in_collections: Parasaurolophus.fbx
     author: Quaternius
     license: CC0 1.0
@@ -1206,8 +1533,7 @@ MonoBehaviour:
     tags_eng: Wolf, Animal, Coyote, Dog
     tags_esp: Lobo, Animal, Coyote, Perro
     preview_images: P1gU3Qkr9r_1030_11zon.jpg
-    animation_names: Attack, Death, Eating, Gallop, Gallop_Jump, Idle, Idle_2, Idle_2_HeadLow,
-      Idle_HitReact_Left, Idle_HitReact_Right, Jump_ToIdle, Walk
+    animation_names: Attack, Death, Eating, Gallop, Gallop_Jump, Idle, Idle_2, Idle_2_HeadLow, Idle_HitReact_Left, Idle_HitReact_Right, Jump_ToIdle, Walk
     asset_names_to_add_in_collections: Wolf.fbx
     author: Quaternius
     license: CC0 1.0
@@ -1246,8 +1572,7 @@ MonoBehaviour:
     tags_eng: Reptile, Animal, Dinosaur
     tags_esp: Reptil, Animal, Dinosaurio
     preview_images: cnlGH2UcDd_1016_11zon.jpg
-    animation_names: Velociraptor_Attack, Velociraptor_Death, Velociraptor_Idle,
-      Velociraptor_Jump, Velociraptor_Run, Velociraptor_Walk
+    animation_names: Velociraptor_Attack, Velociraptor_Death, Velociraptor_Idle, Velociraptor_Jump, Velociraptor_Run, Velociraptor_Walk
     asset_names_to_add_in_collections: Velociraptor.fbx
     author: Quaternius
     license: CC0 1.0
@@ -1338,9 +1663,7 @@ MonoBehaviour:
     tags_eng: Animal, Donkey
     tags_esp: animales, burro
     preview_images: qmX6nhnvp7_1094_11zon.jpg
-    animation_names: Attack_Headbutt, Attack_Kick, Death, Eating, Gallop, Gallop_Jump,
-      Idle, Idle_2, Idle_Headlow, Idle_HitReact_Left, Idle_HitReact_Right, Jump_toIdle,
-      Walk
+    animation_names: Attack_Headbutt, Attack_Kick, Death, Eating, Gallop, Gallop_Jump, Idle, Idle_2, Idle_Headlow, Idle_HitReact_Left, Idle_HitReact_Right, Jump_toIdle, Walk
     asset_names_to_add_in_collections: Donkey.fbx
     author: Quaternius
     license: CC0 1.0
@@ -1353,9 +1676,7 @@ MonoBehaviour:
     tags_eng: Horse, Animal
     tags_esp: Caballo, Animal
     preview_images: qvTrSG9pZF_1102_11zon.jpg
-    animation_names: Attack_Headbutt, Attack_Kick, Death, Eating, Gallop, Gallop_Jump,
-      Idle, Idle_2, Idle_Headlow, Idle_HitReact_Left, Idle_HitReact_Right, Jump_toIdle,
-      Walk
+    animation_names: Attack_Headbutt, Attack_Kick, Death, Eating, Gallop, Gallop_Jump, Idle, Idle_2, Idle_Headlow, Idle_HitReact_Left, Idle_HitReact_Right, Jump_toIdle, Walk
     asset_names_to_add_in_collections: Horse.fbx
     author: Quaternius
     license: CC0 1.0
@@ -1420,9 +1741,7 @@ MonoBehaviour:
     tags_eng: Deer, Wildlife, Animal
     tags_esp: Ciervos, La Vida Silvestre, Animales
     preview_images: T6Cs7tmMHJ_1175_11zon.jpg
-    animation_names: Attack_Headbutt, Attack_Kick, Death, Eating, Gallop, Gallop_Jump,
-      Idle, Idle_2, Idle_Headlow, Idle_HitReact_Left, Idle_HitReact_Right, Jump_toIdle,
-      Walk
+    animation_names: Attack_Headbutt, Attack_Kick, Death, Eating, Gallop, Gallop_Jump, Idle, Idle_2, Idle_Headlow, Idle_HitReact_Left, Idle_HitReact_Right, Jump_toIdle, Walk
     asset_names_to_add_in_collections: Deer.fbx
     author: Quaternius
     license: CC0 1.0
@@ -1461,9 +1780,7 @@ MonoBehaviour:
     tags_eng: Elk, Deer, Antelope
     tags_esp: "Alce, Ciervo, Ant\xEDlope"
     preview_images: tQdzbZ1Cmw_1194_11zon.jpg
-    animation_names: Attack_Headbutt, Attack_Kick, Death, Eating, Gallop, Gallop_Jump,
-      Idle, Idle_2, Idle_Headlow, Idle_HitReact_Left, Idle_HitReact_Right, Jump_toIdle,
-      Walk
+    animation_names: Attack_Headbutt, Attack_Kick, Death, Eating, Gallop, Gallop_Jump, Idle, Idle_2, Idle_Headlow, Idle_HitReact_Left, Idle_HitReact_Right, Jump_toIdle, Walk
     asset_names_to_add_in_collections: Stag.fbx
     author: Quaternius
     license: CC0 1.0
@@ -2126,8 +2443,7 @@ MonoBehaviour:
     tags_eng: Bull, Animal, Cow
     tags_esp: Toro, Animal, Vaca
     preview_images: a8PIIYwF7r_19_11zon.jpg
-    animation_names: Attack_Headbutt, Attack_Kick, Death, Eating, Gallop, Gallop_Jump,
-      Idle, Idle_2, Idle_Headlow, Idle_HitReact_Left, Jump_toIdle, Walk, Idle_HitReact_Right
+    animation_names: Attack_Headbutt, Attack_Kick, Death, Eating, Gallop, Gallop_Jump, Idle, Idle_2, Idle_Headlow, Idle_HitReact_Left, Jump_toIdle, Walk, Idle_HitReact_Right
     asset_names_to_add_in_collections: Bull.fbx
     author: Quaternius
     license: CC0 1.0
@@ -2764,8 +3080,7 @@ MonoBehaviour:
     tags_eng: Reptile, Animal, Dinosaur
     tags_esp: Reptil, Animal, Dinosaurio
     preview_images: eFcNbOlpvl_1779_11zon.jpg
-    animation_names: Stegosaurus_Attack, Stegosaurus_Death, Stegosaurus_Idle, Stegosaurus_Jump,
-      Stegosaurus_Run, Stegosaurus_Walk
+    animation_names: Stegosaurus_Attack, Stegosaurus_Death, Stegosaurus_Idle, Stegosaurus_Jump, Stegosaurus_Run, Stegosaurus_Walk
     asset_names_to_add_in_collections: Stegosaurus.fbx
     author: Quaternius
     license: CC0 1.0
@@ -2804,8 +3119,7 @@ MonoBehaviour:
     tags_eng: Bones
     tags_esp: Huesos
     preview_images: EHHwZ17lWD_1811_11zon.jpg
-    animation_names: Bite_Front, Bite_InPlace, Dance, Death, HitRecieve, Idle, Jump,
-      No, Walk, Yes
+    animation_names: Bite_Front, Bite_InPlace, Dance, Death, HitRecieve, Idle, Jump, No, Walk, Yes
     asset_names_to_add_in_collections: Skull.fbx
     author: Quaternius
     license: CC0 1.0
@@ -2829,8 +3143,7 @@ MonoBehaviour:
     name_eng: Crawfish
     name_esp: "Cangrejos de r\xEDo"
     tags_eng: crayfish, crawdad, crustacean, lobster, sea, ocean
-    tags_esp: "cangrejo de r\xEDo, cangrejo de r\xEDo, crust\xE1ceo, langosta, mar,
-      oc\xE9ano"
+    tags_esp: "cangrejo de r\xEDo, cangrejo de r\xEDo, crust\xE1ceo, langosta, mar, oc\xE9ano"
     preview_images: eIZvQyUlkAJ_1831_11zon.jpg
     animation_names: _NULL_
     asset_names_to_add_in_collections: crayfish.obj
@@ -3714,8 +4027,7 @@ MonoBehaviour:
     name_eng: Shark fin
     name_esp: "Aleta de tibur\xF3n"
     tags_eng: whitetip shark, carcharinus longimanus, oceanic whitetip shark
-    tags_esp: "tibur\xF3n punta blanca, carcharinus longimanus, tibur\xF3n punta
-      blanca oce\xE1nico"
+    tags_esp: "tibur\xF3n punta blanca, carcharinus longimanus, tibur\xF3n punta blanca oce\xE1nico"
     preview_images: eShO8NLfc3H_1962_11zon.jpg
     animation_names: _NULL_
     asset_names_to_add_in_collections: Mesh_SharkFin.obj
@@ -3730,8 +4042,7 @@ MonoBehaviour:
     tags_eng: _NULL_
     tags_esp: _NULL_
     preview_images: eSLKTsbl7F_1964_11zon.jpg
-    animation_names: Bite_Front, Bite_InPlace, Dance, Death, HitRecieve, Idle, Jump,
-      No, Walk, Yes
+    animation_names: Bite_Front, Bite_InPlace, Dance, Death, HitRecieve, Idle, Jump, No, Walk, Yes
     asset_names_to_add_in_collections: Enemy.fbx
     author: Quaternius
     license: CC0 1.0
@@ -4563,8 +4874,7 @@ MonoBehaviour:
     tags_eng: Fox, Wildlife, Red Fox
     tags_esp: Fox, La Vida Silvestre, Zorro Rojo
     preview_images: Bc97C66HKi_488_11zon.jpg
-    animation_names: Attack, Death, Eating, Gallop, Gallop_Jump, Idle, Idle_2, Idle_2_HeadLow,
-      Idle_HitReact_Left, Idle_HitReact_Right, Jump_ToIdle, Walk
+    animation_names: Attack, Death, Eating, Gallop, Gallop_Jump, Idle, Idle_2, Idle_2_HeadLow, Idle_HitReact_Left, Idle_HitReact_Right, Jump_ToIdle, Walk
     asset_names_to_add_in_collections: Fox.fbx
     author: Quaternius
     license: CC0 1.0
@@ -4837,9 +5147,7 @@ MonoBehaviour:
     tags_eng: Animal, Wildlife
     tags_esp: animales, fauna
     preview_images: bCVFD48i2l_496_11zon.jpg
-    animation_names: Attack_Headbutt, Attack_Kick, Death, Eating, Gallop, Gallop_Jump,
-      Idle, Idle_2, Idle_Headlow, Idle_HitReact_Left, Idle_HitReact_Right, Jump_toIdle,
-      Walk
+    animation_names: Attack_Headbutt, Attack_Kick, Death, Eating, Gallop, Gallop_Jump, Idle, Idle_2, Idle_Headlow, Idle_HitReact_Left, Idle_HitReact_Right, Jump_toIdle, Walk
     asset_names_to_add_in_collections: Alpaca.fbx
     author: Quaternius
     license: CC0 1.0
@@ -4878,9 +5186,7 @@ MonoBehaviour:
     tags_eng: Horse, Animal
     tags_esp: Caballo, Animal
     preview_images: bEdE4rmZy9_511_11zon.jpg
-    animation_names: Attack_Headbutt, Attack_Kick, Death, Eating, Gallop, Gallop_Jump,
-      Idle, Idle_2, Idle_Headlow, Idle_HitReact_Left, Idle_HitReact_Right, Jump_toIdle,
-      Walk
+    animation_names: Attack_Headbutt, Attack_Kick, Death, Eating, Gallop, Gallop_Jump, Idle, Idle_2, Idle_Headlow, Idle_HitReact_Left, Idle_HitReact_Right, Jump_toIdle, Walk
     asset_names_to_add_in_collections: Horse_White.fbx
     author: Quaternius
     license: CC0 1.0
@@ -9066,8 +9372,7 @@ MonoBehaviour:
     tags_eng: Cow, Cattle, Animal
     tags_esp: Vaca, Ganado, Animales
     preview_images: 26zM1outCr_1473_11zon.jpg
-    animation_names: Attack_Headbutt, Attack_Kick, Death, Eating, Gallop, Gallop_Jump,
-      Idle, Idle_2, Idle_Headlow, Idle_HitReact_Left, Jump_toIdle, Walk, Idle_HitReact_Right
+    animation_names: Attack_Headbutt, Attack_Kick, Death, Eating, Gallop, Gallop_Jump, Idle, Idle_2, Idle_Headlow, Idle_HitReact_Left, Jump_toIdle, Walk, Idle_HitReact_Right
     asset_names_to_add_in_collections: Cow.fbx
     author: Quaternius
     license: CC0 1.0
@@ -9647,7 +9952,7 @@ MonoBehaviour:
     isLoadingPreviews: 0
     texturePreviews: []
   parent: {fileID: 0}
-  boxSize: 108
+  boxSize: 97
   materialBoxSize: 60
   showParent: 1
   showNames: 1

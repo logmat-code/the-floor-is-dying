@@ -24,9 +24,9 @@ MonoBehaviour:
       weaponId: -1
     defaultInventoryItems: []
     defaultEquippedItems: []
-    name: Red Hood
-    characterObj: {fileID: 2636561543371000599, guid: 1bac54d81d19145578ad9945545a553d, type: 3}
-    icon: {fileID: -1123692568458398881, guid: 6bb2975f847134459bf5e9520b0eca69, type: 3}
+    name: MAIN
+    characterObj: {fileID: 3952057673013995080, guid: e29b5bcc4fe2544aeb453b7264a27ae7, type: 3}
+    icon: {fileID: 4616265382687001493, guid: 3f17110ecfe0942c5a26efa39fa0fc1c, type: 3}
     defaultHealth: 10
     defaultLives: 3
     defaultMaxLives: 5
@@ -48,7 +48,58 @@ MonoBehaviour:
     defaultLives: 3
     defaultMaxLives: 5
     immunityTime: 1
+    startUnlocked: 0
+    <Block_DefaultHealth>k__BackingField:
+      rid: -2
+    <Block_ImmunityTime>k__BackingField:
+      rid: -2
+  - defaultEquippedWeapon:
+      startWithWeaponTheFirstTime: 0
+      weaponId: -1
+    defaultInventoryItems: []
+    defaultEquippedItems: []
+    name: Character Name
+    characterObj: {fileID: 0}
+    icon: {fileID: 0}
+    defaultHealth: 5
+    defaultLives: 3
+    defaultMaxLives: 5
+    immunityTime: 1
     startUnlocked: 1
+    <Block_DefaultHealth>k__BackingField:
+      rid: -2
+    <Block_ImmunityTime>k__BackingField:
+      rid: -2
+  - defaultEquippedWeapon:
+      startWithWeaponTheFirstTime: 0
+      weaponId: -1
+    defaultInventoryItems: []
+    defaultEquippedItems: []
+    name: Character Name
+    characterObj: {fileID: 0}
+    icon: {fileID: 0}
+    defaultHealth: 5
+    defaultLives: 3
+    defaultMaxLives: 5
+    immunityTime: 1
+    startUnlocked: 0
+    <Block_DefaultHealth>k__BackingField:
+      rid: -2
+    <Block_ImmunityTime>k__BackingField:
+      rid: -2
+  - defaultEquippedWeapon:
+      startWithWeaponTheFirstTime: 0
+      weaponId: -1
+    defaultInventoryItems: []
+    defaultEquippedItems: []
+    name: Character Name
+    characterObj: {fileID: 0}
+    icon: {fileID: 0}
+    defaultHealth: 5
+    defaultLives: 3
+    defaultMaxLives: 5
+    immunityTime: 1
+    startUnlocked: 0
     <Block_DefaultHealth>k__BackingField:
       rid: -2
     <Block_ImmunityTime>k__BackingField:
@@ -79,7 +130,7 @@ MonoBehaviour:
   defaultInventoryItemsForAll:
   - itemType: 1
     categoryId: 0
-    itemId: 3
+    itemId: 9
     quantity: 1
   references:
     version: 2

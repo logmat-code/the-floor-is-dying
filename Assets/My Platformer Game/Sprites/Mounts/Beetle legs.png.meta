@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: dc06a0a94cd274589960e6d3de56009a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7257075984442142654
+    second: Beetle legs_0
+  - first:
+      213: -1448548717367235373
+    second: Beetle legs_1
+  - first:
+      213: 820968419328977387
+    second: Beetle legs_2
+  - first:
+      213: 3419250885062617431
+    second: Beetle legs_3
+  - first:
+      213: -167143029842267542
+    second: Beetle legs_4
+  - first:
+      213: 4215558412976146706
+    second: Beetle legs_5
+  - first:
+      213: 6682251549093655097
+    second: Beetle legs_6
+  - first:
+      213: 7172835401792341787
+    second: Beetle legs_7
+  - first:
+      213: 9045541827717948061
+    second: Beetle legs_8
+  - first:
+      213: 7881483896706972218
+    second: Beetle legs_9
+  - first:
+      213: 1269852890156833129
+    second: Beetle legs_10
+  - first:
+      213: 7631784547041240263
+    second: Beetle legs_11
+  - first:
+      213: -4455671876693046296
+    second: Beetle legs_12
+  - first:
+      213: -4821471881495953967
+    second: Beetle legs_13
+  - first:
+      213: -7455942932262391970
+    second: Beetle legs_14
+  - first:
+      213: -5040024220510797570
+    second: Beetle legs_15
+  - first:
+      213: 7503177846596399412
+    second: Beetle legs_16
+  - first:
+      213: -5409253239385012987
+    second: Beetle legs_17
+  - first:
+      213: -3769099745630222429
+    second: Beetle legs_18
+  - first:
+      213: 7751948773274119603
+    second: Beetle legs_19
+  - first:
+      213: -2639438998261930394
+    second: Beetle legs_20
+  - first:
+      213: -4917289761519383790
+    second: Beetle legs_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Beetle legs_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1035
+        width: 495
+        height: 232
+      alignment: 9
+      pivot: {x: 0.9085963, y: 0.5272438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf21b0882056b460800000000000000
+      internalID: 7257075984442142654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beetle legs_2
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1032
+        width: 320
+        height: 215
+      alignment: 9
+      pivot: {x: 0.078635216, y: 0.8527713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9eaed7d6aa46b00800000000000000
+      internalID: 820968419328977387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beetle legs_4
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1032
+        width: 274
+        height: 224
+      alignment: 9
+      pivot: {x: 0.16936721, y: 0.7069206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62b197cc403eadf0800000000000000
+      internalID: -167143029842267542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7ea7b6ae618104d1a96b6f654d02aa3a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Beetle legs_0: 7257075984442142654
+      Beetle legs_1: -1448548717367235373
+      Beetle legs_10: 1269852890156833129
+      Beetle legs_11: 7631784547041240263
+      Beetle legs_12: -4455671876693046296
+      Beetle legs_13: -4821471881495953967
+      Beetle legs_14: -7455942932262391970
+      Beetle legs_15: -5040024220510797570
+      Beetle legs_16: 7503177846596399412
+      Beetle legs_17: -5409253239385012987
+      Beetle legs_18: -3769099745630222429
+      Beetle legs_19: 7751948773274119603
+      Beetle legs_2: 820968419328977387
+      Beetle legs_20: -2639438998261930394
+      Beetle legs_21: -4917289761519383790
+      Beetle legs_3: 3419250885062617431
+      Beetle legs_4: -167143029842267542
+      Beetle legs_5: 4215558412976146706
+      Beetle legs_6: 6682251549093655097
+      Beetle legs_7: 7172835401792341787
+      Beetle legs_8: 9045541827717948061
+      Beetle legs_9: 7881483896706972218
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -400,6 +400,8 @@ MonoBehaviour:
   requiredTags:
   - tagName: Player
     itNeedsToBeRidingAMount: 0
+  - tagName: Mount
+    itNeedsToBeRidingAMount: 1
   howToActivateTheAction: 0
   typeOfComponent: 0
   delayToActivateAction: 0
@@ -430,7 +432,7 @@ MonoBehaviour:
     _audioSourceName: AudioSourceEnemies
     thisGameObject: {fileID: 1225625741573240384}
     name: Die
-    showInEditor: 1
+    showInEditor: 0
     conditionsOfStates:
     - enemyState: 3
       playWhenItIs: 1
@@ -440,6 +442,36 @@ MonoBehaviour:
       intValueCondition: 0
       playWhenItIs_Enum: 0
     audioClip: {fileID: 8300000, guid: edd2597ff75774ae28c0f65acbc76e6a, type: 3}
+    playWhileConditionIsMet: 0
+  - _audioSource: {fileID: 0}
+    _audioSourceName: AudioSourceEnemies
+    thisGameObject: {fileID: 1225625741573240384}
+    name: FliesOneShot
+    showInEditor: 0
+    conditionsOfStates:
+    - enemyState: 17
+      playWhenItIs: 1
+      numericCondition: 2
+      floatValueCondition: 0
+      attackCategory: 0
+      intValueCondition: 0
+      playWhenItIs_Enum: 0
+    audioClip: {fileID: 8300000, guid: 5516f0a6859534425ae565b389af1831, type: 3}
+    playWhileConditionIsMet: 1
+  - _audioSource: {fileID: 0}
+    _audioSourceName: AudioSourceEnemiesMovement
+    thisGameObject: {fileID: 1225625741573240384}
+    name: FliesLoop
+    showInEditor: 0
+    conditionsOfStates:
+    - enemyState: 1
+      playWhenItIs: 1
+      numericCondition: 2
+      floatValueCondition: 0
+      attackCategory: 0
+      intValueCondition: 0
+      playWhenItIs_Enum: 0
+    audioClip: {fileID: 8300000, guid: f8032b3b74df5490d9937b2d1161fd5c, type: 3}
     playWhileConditionIsMet: 0
 --- !u!1 &3128209541247032280
 GameObject:

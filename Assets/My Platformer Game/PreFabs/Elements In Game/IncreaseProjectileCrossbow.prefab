@@ -114,6 +114,8 @@ MonoBehaviour:
   requiredTags:
   - tagName: Player
     itNeedsToBeRidingAMount: 0
+  - tagName: Mount
+    itNeedsToBeRidingAMount: 1
   giveProjectilesTo: 1
   weaponExceptions: 
   gunIfException: 0
@@ -226,6 +228,8 @@ MonoBehaviour:
   requiredTags:
   - tagName: Player
     itNeedsToBeRidingAMount: 0
+  - tagName: Mount
+    itNeedsToBeRidingAMount: 1
   inputRequired: 0
   inputControlAction: 0
   _audioSource: {fileID: 0}
